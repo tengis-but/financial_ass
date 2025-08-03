@@ -1,0 +1,33 @@
+Flask
+werkzeug
+langchain-community
+SQLAlchemy
+pandas
+psycopg2-binary
+chromadb
+openai
+requests
+beautifulsoup4
+googlesearch-python
+PyPDF2
+pytesseract
+Pillow
+markdown2
+pypdfium2
+numpy
+sentence-transformers  # Optional, include if using Sentence Transformers
+Flask-Session  # Optional, include if using server-side sessions
+gunicorn
+langdetect
+python-docx
+openpyxl
+Pillow
+pandas
+pandas
+sqlalchemy
+psycopg2-binary
+openai
+chromadb
+pypdfium2
+markdown2
+google-generativeai
