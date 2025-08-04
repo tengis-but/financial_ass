@@ -1,0 +1,3509 @@
+
+=== Processing PDF: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr ===
+
+=== Processing PDF: 2025-Q1-tailan-1 ===
+
+=== Processing PDF: Q2-tailan-2025-white_Final-07.21 ===
+
+=== Processing PDF: Үйл ажиллагааны тайлан 2025-H1 MN ===
+
+=== Visual Analysis Data ===
+
+=== Data for File: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr ===
+
+Visual Analyses:
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_metadata_a76e7e2c
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr: {"pdf_name": "2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr", "total_pages": 20, "file_path": "data/pdfs/2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr.pdf"}
+Metadata: {'type': 'metadata', 'source_type': 'pdf', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_1
+Source: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_1
+Language: mon
+Content:
+- Detected Language: mon
+- Extracted Text: 
+  ```
+  InvesCore FI
+
+  “ИНВЕСКОР ББСБ” ХК
+  2024 ОНЫ ҮЙЛ
+  АЖИЛЛАГААНЫ ТАЙЛАН
+
+  +976 7709 - 0077
+  info@invescore.mn
+  www.invescore.mn
+
+  MIRA Credit Rating Agency
+  MFR
+  ISO 27001
+  ISO 10001
+  ```
+
+- Explanation: 
+  This page appears to be the cover of a business report for "InvesCore FI," specifically the operational report for the year 2024. The document is likely produced by "ИНВЕСКОР ББСБ" ХК, which seems to be a financial institution or company. The cover includes contact information such as a phone number, email, and website, indicating how to reach the organization. Additionally, there are references to certifications or affiliations, such as MIRA Credit Rating Agency, MFR, and ISO standards (27001 and 10001), suggesting credibility and adherence to international standards.
+
+- Numerical Data: 
+  - 2024
+  - +976 7709 - 0077
+  - 27001
+  - 10001
+Metadata: {'source': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_1', 'language': 'mon', 'image_path': 'data/images/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_1.png', 'type': 'visual_analysis', 'page_number': '1', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_2
+Source: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_2
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text: 
+  ```
+  Агуулга
+
+  1. Онцлох үйл явдал 03
+  2. Санхүүгийн үр дүн 07
+  3. Хувьцаа 07
+  4. Ногдол ашиг 08
+  5. Зээлийн үйл ажиллагаа 09
+  6. Төв Азийн үйл ажиллагаа 10
+  7. Зохистой харьцааны үзүүлэлт 11
+  8. Эрсдэлийн удирдлага 12
+  9. Тогтвортой хөгжил 13
+  10. Хүний нөөцийн онцлох үр дүнгүүд 14
+  11. Компанийн бүтэц 15
+  12. Гүйцэтгэх удирдлагын баг 16
+  13. Компанийн засаглал 17
+  14. Төлөөлөн удирдах зөвлөлийн бүрэлдэхүүн 18
+  15. Төлөөлөн удирдах зөвлөлийн үйл ажиллагааны тайлан 2024 19
+
+  “Инвескор ББСБ” ХХК
+  2024 оны үйл ажиллагааны тайлан
+  ```
+
+- Explanation: 
+  The page is a table of contents from a business report for "Инвескор ББСБ" ХХК, detailing the company's activities for the year 2024. It lists various sections of the report, each associated with a page number. Key elements include financial results, stock information, dividend details, loan activities, Central Asian operations, compliance metrics, risk management, sustainable development, human resources highlights, company structure, executive management team, corporate governance, board composition, and the board's activity report for 2024. The structure is organized numerically, providing a clear overview of the report's contents.
+
+- Numerical Data: 
+  - 03
+  - 07
+  - 07
+  - 08
+  - 09
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  - 19
+  - 2024
+Metadata: {'page_number': '2', 'source': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_2', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'image_path': 'data/images/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_2.png', 'type': 'visual_analysis', 'language': 'mon', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_3
+Source: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_3
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text: 
+  ```
+  Онцлох үйл явдал
+
+  Казахстан улсад үйл ажиллагаагаа эхлүүллээ
+
+  Инвескор ББСБ ХХК нь Төв Ази дахь үйл ажиллагаагаа тэлж Казахстан улсад “Инвескор Финанс” охин компаниа байгуулах албан ёсны нээлтийн үйл ажиллагаа 2024 оны 9-р сарын 14-нд зохион байгууллаа.
+
+  Ингэснээр бид Төв Азийн 2 дахь улсад охин компаниа байгуулж, үйл ажиллагаа тэлж буй бөгөөд Монгол санхүүгийн байгууллага олон улсад зах зээлээ тэлж, гадаадын хэрэглэгчдэд өөрийн үйлчилгээг үзүүлэх боломж бүрдэж байгаа дээр Монгол мэргэжилтнүүд Төв Азид ажиллаж, удирдан түүчээлэх үүд хаалга улам өргөжин тэлсээр байна.
+
+  50 тэрбум төгрөгийн ХБҮЦ
+
+  "InvesCore ABS" Хөрөнгөөр баталгаажсан үнэт цаасны анхдагч зах зээлийн арилжаа 100%-ийн гүйцэтгэлтэй, 50 тэрбум төгрөгийг нэг удаагийн транчаар амжилттай татан төвлөрүүллээ. Энэ нь Монголын хөрөнгийн зах зээлд нэг удаагийн транчаар хамгийн өндөр хөрөнгө татан төвлөрүүлсэн түүхэн амжилт болж байна.
+
+  "InvesCore ABS" ТЗК нь нийт 18 сарын хугацаатай, 17 хувийн хүүтэй, 12 болон 18 дахь саруудаас үндсэн төлбөрийг тэнцүү хэмжээгээр төлж, ахин хөрөнгө оруулалт хийх замаар бодит өгөөжийн түвшинг нэмэгдүүлэх боломжтойгоор олон нийтэд онцгой нөхцөл санал болгосон билээ.
+
+  Олон улсын “А” үнэлгээг дахин баталгаажууллаа.
+
+  “Инвескор ББСБ” ХХК нь олон улсын “MicroFinanza Rating” SRL байгууллагаас авсан “А” үнэлгээгээ ахин амжилттай баталгаажууллаа.
+
+  Үнэлгээ тогтоосон суурь хүчин зүйлүүд нь “Инвескор ББСБ” ХХК-ийн олон улсын жишигт нийцсэн компанийн засаглал, стратеги, зээлийн багцын чанар, үйл ажиллагаа, систем, санхүүгийн төлөв байдлыг зэргийг юм.
+
+  “MicroFinanza Rating” SRL нь банк, санхүүгийн байгууллагуудын урт хугацааны тогтвортой байдлын үнэлгээ болон зээлийн зэрэглэлийг тогтоож дэлхийд тэргүүлэгч агентлаг бөгөөд 110 гаруй улсын 2800-аад байгууллагуудад үнэлгээ хийсэн байна. “А” рейтинг нь Монгол улсын санхүүгийн байгууллагуудаас дундаа хамгийн өндөр үнэлгээ бөгөөд “Инвескор ББСБ” ХХК-ийн гадаад зах зээлээс эх үүсвэр татах болон хөрөнгө оруулалт хийхэд түншлэлээ идэвхжүүлэх үйл ажиллагаанд томоохон давуу тал болох байна.
+
+  “Инвескор ББСБ” ХХК
+  2024 оны үйл ажиллагааны тайлан
+  ```
+
+- Explanation: 
+  The page highlights significant events related to "Инвескор ББСБ" ХХК. It announces the expansion of operations into Kazakhstan with the establishment of a subsidiary, marking a significant step in their Central Asian presence. The document also details a successful financial transaction involving the issuance of asset-backed securities worth 50 billion MNT, a notable achievement in Mongolia's financial market. Additionally, it confirms the reaffirmation of an "A" rating by the international agency "MicroFinanza Rating," emphasizing the company's governance, strategy, and financial stability. This rating enhances the company's credibility and potential for attracting foreign investment.
+
+- Numerical Data: 
+  - 2024
+  - 9-р сарын 14
+  - 2
+  - 50 тэрбум
+  - 100%
+  - 18
+  - 17
+  - 12
+  - 18
+  - 110
+  - 2800
+Metadata: {'source': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_3', 'source_type': 'pdf', 'language': 'mon', 'image_path': 'data/images/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_3.png', 'page_number': '3', 'type': 'visual_analysis', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_4
+Source: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_4
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text: 
+  ```
+  Онцлох үйл явдал
+
+  ISO 27001, ISO 9001 стандартын баталгаажуулалтыг 3 дахь жилдээ дараалан амжилттай баталгаажууллаа.
+
+  “Инвескор ББСБ” ХХК ISO/IEC 27001:2022 болон ISO 9001:2015-ийн стандартын шаардлагуудыг 3 дахь жилдээ дараалан амжилттай баталгаажуулсан бөгөөд дэлхий даяар 400 гаруй компани энэ чиглэлээр аудит хийсэн туршлагатай MSECB байгууллага нь Инвескор Санхүүгийн байгууллагад хийсэн аудитараа бидний хамгийн амжилттай, мэргэжлийн түвшинд ажиллаж энэхүү нэгдсэн тогтолцоо бий болгож баталгаажсан хэмээн тодотгон өөрсдийн Success Story-доо онцлон оруулсан юм.
+
+  BlueOrchard MicroFinance 10 сая ам.долларын санхүүжилт татлаа.
+
+  “Инвескор ББСБ” ХХК нь нийт хөрөнгө оруулалтаар дэлхийн хамгийн томд тооцогдох Хөрөнгө оруулалтын сан болох BlueOrchard MicroFinance Fund (BOMF) -аас 10.0 сая ам.долларын санхүүжилт авах гэрээнд гарын үсэг зурлаа.
+
+  Гэрээнд гарын үсэг зурах ёслол Инвескор Санхүүгийн Байгууллагын төв байранд зохион байгуулагдаж, хоёр таласаа гэрээ үзэглэснээр хоёр байгууллагын хамтын ажиллагаа албан ёсоор эхэллээ.
+
+  Ногоон санхүүжилтийн бүтээгдэхүүн нэвтрүүлэв.
+
+  “Инвескор ББСБ” ХХК нь Ногоон зээлийн санхүүжилтээр дамжуулан байгальд ээлтэй төсөлүүдэд хөрөнгө оруулж, эрчим хүчний хэмнэлт, хүлэмжийн хийн ялгарлыг бууруулах, байгаль орчны бохирдлыг багасгах зорилгоор ногоон зээлийн бүтээгдэхүүнүүдийг нэвтрүүллээ.
+
+  Ногоон зээлийн санхүүжилтийг олгосноор бизнесүүд үйл ажиллагаандаа ногоон технологи нэвтрүүлэх, байгаль орчинд ээлтэй үйл ажиллагаанд шилжихэд дэмжлэг болох бөгөөд энэхүү бүтээгдэхүүнүүд нь байгальд тогтвортой хөгжилд үзүүлэх чухал түлхэц болно.
+
+  “Инвескор ББСБ” ХХК
+  2024 оны үйл ажиллагааны тайлан
+  ```
+
+- Explanation: 
+  The page highlights significant events related to InvesCore NBFI. It details the successful certification of ISO 27001 and ISO 9001 standards for the third consecutive year, emphasizing the company's commitment to maintaining high standards. It also announces a significant financial achievement, securing a $10 million investment from BlueOrchard MicroFinance Fund, marking a milestone in their financial partnerships. Additionally, the introduction of green financing products is highlighted, aiming to support environmentally friendly projects and promote sustainable development.
+
+- Numerical Data: 
+  - 27001
+  - 9001
+  - 3
+  - 400
+  - 2022
+  - 2015
+  - 10.0
+  - 2024
+Metadata: {'source': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_4', 'type': 'visual_analysis', 'page_number': '4', 'image_path': 'data/images/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_4.png', 'source_type': 'pdf', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'language': 'mon'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_5
+Source: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_5
+Language: mon
+Content:
+- Detected Language: mon
+- Extracted Text: 
+  - Онцлох үйл явдал
+  - Global Gender Smart сангаас бизнес эрхлэгч эмэгтэйчүүдийг дэмжих зорилгоор 4.5 сая ам.долларын санхүүжилт татлаа.
+    “Инвескор ББСБ” ХХК нь байгаль орчин, нийгэм болоод жендэрийн эрх тэгш байдлыг эрхэмлэн жижиг дунд бизнес эрхлэгч нарт хүртээмжтэй санхүүжилт олгохоор ирсэн билээ.
+    Энэ удаад бид Глобал Жендер-Смарт Сангаас (GGSF) хамтран жижиг дунд бизнес эрхлэгч эмэгтэйчүүдийг дэмжих зорилгоор 4.5 сая ам.долларын санхүүжилтийн гэрээнд гарын үсэг зурсныг дуулгахад таатай байна.
+  - Банк Бус Санхүүгийн Байгууллагын "Энтерпренер 2024" шагналыг хүртлээ.
+    “Инвескор ББСБ” ХХК нь 2024 ондоо дотоодын зах зээлд өрсөлдөхөөс илүү үндэстэн дамнаж гадаадын зах зээлд Монгол компани тэр дундаа Монгол хүн дэлхийд хангалттай өрсөлдөх чадна гэдгийг харуулсны үнэлж Банк Бус Санхүүгийн Байгууллагын "Энтерпренер 2024" шагналыг хүртлээ.
+    Энэ бол харилцагч, хөрөнгө оруулагч болоод хамтран ажиллагч байгууллага бидний хамтын амжилт юм.
+  - Rio Tinto & InvesCore –ийн нөлөөллийн санхүүжилт
+    “Инвескор ББСБ” ХХК болон Rio Tinto-тай хамтран хэрэгжүүлсэн “Жижиг, дунд бизнесийг дэмжих хөтөлбөр”-ийн хаалтын үйл ажиллагаа амжилттай болж өндөрлөлөө.
+    Бид Рио Тинто Монгол ХХК-тай хамтран 3 жилийн турш амжилттай хэрэгжүүлсэн Жижиг, дунд бизнесийг дэмжих хөтөлбөрийн хаалтын арга хэмжээнд бизнес эрхлэгчдийгээ хамтдаа хүлээлээ.
+    2021 онд COVID-19 цар тахлын үед ЖДҮ эрхлэгчдэд санхүүгийн бэрхшээлтэй тулгарч байсан хүнд цаг үе эхэлж, энэхүү санхүүгийн хөтөлбөрийг жижиг, дунд бизнес эрхлэгчдэд чухал дэмжлэг үзүүлэх зорилготой байлаа. Өнгөрсөн гурван жилийн хугацаанд, бид 183 бизнес эрхлэгчдэд 2.8 тэрбум төгрөгийн санхүүжилт олгож, тэдний бизнесийг өргөжүүлэх, хөгжүүлэх боломжийг олгосон.
+  - “Инвескор ББСБ” ХХК
+    2024 оны үйл ажиллагааны тайлан
+  - 05
+
+- Explanation: 
+  The page highlights significant events related to InvesCore LLC, focusing on financial support initiatives and achievements. It discusses a $4.5 million funding from the Global Gender Smart Fund aimed at supporting women entrepreneurs. The page also mentions an award received by InvesCore for its competitive edge in the international market, specifically the "Entrepreneur 2024" award. Additionally, it covers the successful completion of a joint program with Rio Tinto to support small and medium enterprises (SMEs), which provided substantial financial aid during the COVID-19 pandemic.
+
+- Numerical Data: 
+  - 4.5
+  - 2024
+  - 3
+  - 2021
+  - 183
+  - 2.8
+  - 05
+Metadata: {'type': 'visual_analysis', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'language': 'mon', 'image_path': 'data/images/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_5.png', 'page_number': '5', 'source_type': 'pdf', 'source': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_5'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_6
+Source: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_6
+Language: mon
+Content:
+- Detected Language: mon
+- Extracted Text: 
+  ```
+  Онцлох үйл явдал
+
+  Төв Азид “Монгол” экспатууд ажиллаж байна.
+  Инвескор ББСБ-ын Төв Азид байрлах Киргизстан, Казахстан дахь охин компаниудад Монгол экспатууд томилогдон, толгой компанийн стратеги, бодлогыг хэрэгжүүлэхийн зэрэгцээ бизнесийн үйл ажиллагааг оновчтой удирдан, хөгжүүлэхэд дэмжлэг үзүүлж байна.
+
+  Pocket итгэлцлийн үйлчилгээ нэвтрүүллээ.
+  Санхүүгийн Зохицуулах Хорооны итгэлцлийн үйлчилгээний тусгай зөвшөөрлийн хүрээнд 2024 оны 5 сар хүртэлх хугацаанд хэрэглэгчдэд зориулсан санхүүгийн сахилга баттай байх, хуримтлал үүсгэх “Ирээдүйгээ бүтээ” уриатай цахим итгэлцлийн бүтээгдэхүүний зах зээлд амжилттай нэвтрүүлсэн.
+
+  Үүнд 4 төрлийн итгэлцлийн туслах бүтээгдэхүүн нэвтрүүлэв.
+  - Хүүхдийн итгэлцэл
+  - Аяллын итгэлцэл
+  - Автомашины итгэлцэл
+  - Энгийн итгэлцэл
+
+  Pocket ТОС холбоонд нэгдэж, 2 дахь жилдээ БОНЗ тайлан гаргалаа
+  Инвескор хэтэвч ББСБ ХХК нь Монголын Тогтвортой Санхүүгийн Холбоо (ТОС Холбоо)-ны 2024 оны 10 дугаар сарын 02-ны ээлжит Удирдах зөвлөлийн ээлжит хурлын шийдвэрийн дагуу ТОС холбоонд ҮНДЭСН гишүүнээр элсэж орж, тогтвортой хөгжлийн зорилтуудыг хэрэгжүүлэхэд хамтран ажиллахаар боллоо.
+
+  “Инвескор ББСБ” ХХК
+  2024 оны үйл ажиллагааны тайлан
+  ```
+
+- Explanation: 
+  The page highlights significant events related to a financial company, "Инвескор ББСБ" LLC. It discusses the deployment of Mongolian expatriates in Central Asia, specifically in Kyrgyzstan and Kazakhstan, to implement the company's strategies and support business operations. Additionally, it introduces a new trust service called "Pocket," which aims to promote financial discipline and savings among users, with a special license valid until May 2024. The page also mentions the company's membership in the Mongolian Sustainable Finance Association and its commitment to sustainable development goals.
+
+- Numerical Data: 
+  - 2024
+  - 5
+  - 4
+  - 2
+  - 10
+  - 02
+Metadata: {'source': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_6', 'page_number': '6', 'type': 'visual_analysis', 'image_path': 'data/images/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_6.png', 'source_type': 'pdf', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'language': 'mon'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_7
+Source: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_7
+Language: mon
+Content:
+- Detected Language: mon
+- Extracted Text: 
+  ```
+  Санхүүгийн үр дүн (нэгтгэсэн)
+  *аудитлагдсан
+
+  Нийт актив (тэрбум төгрөг)
+  601 926
+  2023 2024 154%
+
+  Зээлийн багц (тэрбум төгрөг)
+  485 733
+  2023 2024 151%
+
+  Хүү, шимтгэлийн орлого (тэрбум төгрөг)
+  141 249
+  2023 2024 177%
+
+  Цэвэр ашиг (тэрбум төгрөг)
+  45 83
+  2023 2024 187%
+
+  Хувьцаа
+  10,000
+  8,000
+  6,000
+  4,000
+  2,000
+  0
+  06/2019 06/2020 06/2021 06/2022 06/2023 06/2024
+  INV: MSE
+
+  Хаалтын ханш: 8735 ₮
+  Зах зээлийн үнэлгээ: 662 тэрбум ₮
+  2024 оны ханшийн өсөлт: 25%
+
+  2024 оны арилжаа: 35.6 тэрбум ₮
+  Гаргасан хувьцаа: 75,744,281
+
+  “Инвескор ББСБ” ХК
+  2024 оны үйл ажиллагааны тайлан
+  07
+  ```
+
+- Explanation: 
+  The page presents a financial summary for a company, likely "Инвескор ББСБ" ХК, for the years 2023 and 2024. It includes key financial metrics such as total assets, loan portfolio, interest and fee income, and net profit, all measured in billion Mongolian tögrögs. Each metric shows a comparison between 2023 and 2024, with percentage growth indicated. Additionally, there is a section on stock performance, showing a graph of stock prices from 2019 to 2024, and specific data points like closing price, market valuation, and trading volume for 2024. The document appears to be part of an annual report, as indicated by the footer.
+
+- Numerical Data: 
+  - 601
+  - 926
+  - 154%
+  - 485
+  - 733
+  - 151%
+  - 141
+  - 249
+  - 177%
+  - 45
+  - 83
+  - 187%
+  - 10,000
+  - 8,000
+  - 6,000
+  - 4,000
+  - 2,000
+  - 0
+  - 06/2019
+  - 06/2020
+  - 06/2021
+  - 06/2022
+  - 06/2023
+  - 06/2024
+  - 8735
+  - 662
+  - 25%
+  - 35.6
+  - 75,744,281
+  - 07
+Metadata: {'language': 'mon', 'image_path': 'data/images/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_7.png', 'page_number': '7', 'type': 'visual_analysis', 'source': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_7', 'source_type': 'pdf', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_8
+Source: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_8
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text: 
+  ```
+  Ногдол ашиг
+
+  ТУЗ-ийн 2025 оны 02 сарын 10-ны өдрийн №09 тогтоолын дагуу:
+  • Нэгж энгийн хувьцаанд 60 ₮ буюу нийт 4,554,656,860 төгрөгийн ногдол ашгийг тараана
+  • Бүртгэлийн өдөр: 2025/04/07
+  • 2024 оны цэвэр ашгийн 5.4%
+  • Ногдол ашиг тараах өдөр: 2025/04/23
+
+  Хуваарилсан ногдол ашгийн дүн (сая төгрөг)
+
+  1,793 2,878 4,014 4,544
+  2022 2023 2024 2025
+
+  НОГДОЛ АШИГ ХУВААРИЛНА.
+  Нийт дүн: 4,544,656,860 ₮
+  Нэгж хувьцаанд: 60 ₮
+
+  Ногдол ашгийг 2025 оны 04 дүгээр сарын 23-ны өдөр Компанийн хувьцаа эзэмшигчдийн дансанд байршуулхаар боллоо.
+
+  “Инвескор ББСБ” ХК
+  2024 оны үйл ажиллагааны тайлан
+  ```
+
+- Explanation: 
+  The page is a financial report detailing the distribution of dividends by a company. It outlines a board resolution dated February 10, 2025, specifying that dividends amounting to 4,554,656,860 MNT will be distributed, with each ordinary share receiving 60 MNT. Key dates include the registration date on April 7, 2025, and the dividend distribution date on April 23, 2025. The dividends represent 5.4% of the net profit for 2024. A chart shows the dividend amounts from 2022 to 2025, indicating growth over the years. The page is part of the 2024 operational report for "Инвескор ББСБ" ХК.
+
+- Numerical Data: 
+  - 2025
+  - 02
+  - 10
+  - №09
+  - 60
+  - 4,554,656,860
+  - 2025/04/07
+  - 5.4%
+  - 2025/04/23
+  - 1,793
+  - 2,878
+  - 4,014
+  - 4,544
+  - 2022
+  - 2023
+  - 2024
+  - 2025
+  - 04
+  - 23
+  - 08
+Metadata: {'image_path': 'data/images/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_8.png', 'language': 'mon', 'page_number': '8', 'source_type': 'pdf', 'source': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_8', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'type': 'visual_analysis'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_9
+Source: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_9
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text:
+  ```
+  Зээлийн үйл ажиллагаа
+
+  32%
+  68%
+
+  Уламжлалт зээл
+  Цахим зээл
+
+  Зээлийн багц, бүтээгдэхүүнээр
+
+  Хугацаа хэтэрсэн %
+  Чанаргүй %
+
+  6.0%
+  4.0%
+  2.0%
+  0.0%
+
+  2.7%
+  4.1%
+
+  3.5%
+  5.5%
+
+  2023 YE
+  2024 YE
+
+  2024 YE
+  Хугацаа хэтэрсэн зээл хувь
+  Чанаргүй зээлийн хувь
+
+  Банк
+  3.5%
+  5.1%
+
+  ББСБ
+  3.1%
+  6.1%
+
+  Инвескор
+  3.5%
+  5.5%
+
+  Нийт зээлийн багц 51% өсч 733 тэрбумд хүрлээ.
+
+  Жижиг дунд бизнесийг дэмжиж ажилласнаар уламжлалт зээлийн багцын 60 орчим хувийг бизнесийн зээл эзэлж байна.
+
+  “Инвескор ББСБ” ХХ
+  2024 оны үйл ажиллагааны тайлан
+
+  09
+  ```
+
+- Explanation:
+  The page is from a business report focusing on loan activities. It includes visual data representations such as pie charts and bar graphs to illustrate the distribution and performance of loans. The pie chart shows the proportion of traditional versus digital loans, with traditional loans making up 68% and digital loans 32%. The bar graph compares the percentage of overdue and non-performing loans for the years 2023 and 2024. Additionally, a table provides detailed percentages of overdue and non-performing loans for banks, non-bank financial institutions (ББСБ), and a specific company, Инвескор, for the year 2024. The text highlights that the total loan portfolio has increased by 51% to reach 733 billion, and emphasizes the support for small and medium enterprises, with about 60% of the traditional loan portfolio being business loans.
+
+- Numerical Data:
+  - 32%
+  - 68%
+  - 6.0%
+  - 4.0%
+  - 2.0%
+  - 0.0%
+  - 2.7%
+  - 4.1%
+  - 3.5%
+  - 5.5%
+  - 2023
+  - 2024
+  - 3.5%
+  - 5.1%
+  - 3.1%
+  - 6.1%
+  - 3.5%
+  - 5.5%
+  - 51%
+  - 733
+  - 60%
+Metadata: {'source_type': 'pdf', 'type': 'visual_analysis', 'page_number': '9', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'language': 'mon', 'image_path': 'data/images/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_9.png', 'source': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_9'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_10
+Source: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_10
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text: 
+  - Төв Азийн үйл ажиллагаа
+  - Төв Ази дахь нийт зээлийн багц 60 тэрбум ₮
+  - Нийт салбарын тоо 6
+  - Инвескор Си Эй МФК (Киргиз улс)
+    - 2024 онд 2 удаа бонд гаргах замаар 7 тэрбум төгрөгтэй тэнцэхүйц гадаад эх үүсвэрийг Киргиз улсын зах зээлээс амжилттай татан төвлөрүүллээ.
+    - Инвескор Си Эй МФК нь Киргиз улсын бичил санхүүгийн зах зээлд эзлэх хувь хэмжээг нэмэгдүүлж Киргиз улсын ББСБ-уудын ТОП 6 дугаар байрт жагсаж байна.
+  - Инвескор Финанс МФО (Казахстан улс)
+    - Казахстан улс дахь охин компани болох Инвескор Финанс нь зохицуулагч байгууллагаас үйл ажиллагаа эхлүүлэх шалгуур үзүүлэлтүүдийг амжилттай хангаж 2024 оны 6 дугаар сарын 18-нд тусгай зөвшөөрлөө авсан бөгөөд нээлтийн үйл ажиллагааг 2024 оны 9 дүгээр сарын 16-нд амжилттай зохион байгуулсан.
+  - “Инвескор ББСБ” ХК
+    - 2024 оны үйл ажиллагааны тайлан
+
+- Explanation: 
+  The page provides an overview of the business activities of a financial entity in Central Asia, specifically focusing on operations in Kyrgyzstan and Kazakhstan. It highlights the financial achievements and strategic expansions in these regions. The document mentions the issuance of bonds and the acquisition of foreign resources in Kyrgyzstan, as well as the successful regulatory compliance and operational launch in Kazakhstan. The page also includes numerical data related to financial figures and dates, emphasizing the company's growth and market presence.
+
+- Numerical Data: 
+  - 60 тэрбум
+  - 6
+  - 2024
+  - 2
+  - 7 тэрбум
+  - ТОП 6
+  - 2024 оны 6 дугаар сарын 18-нд
+  - 2024 оны 9 дүгээр сарын 16-нд
+Metadata: {'type': 'visual_analysis', 'page_number': '10', 'source': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_10', 'language': 'mon', 'source_type': 'pdf', 'image_path': 'data/images/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_10.png', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_11
+Source: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_11
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text:
+  ```
+  Зохистой харьцааны үзүүлэлт
+  *Инвескор ББСБ ХХК тусдаа
+
+  Шалгуур үзүүлэлт
+
+  Өөрийн хөрөнгийн хүрэлцээний үзүүлэлт
+  Нэгдүгээр зэрэглэлийн өөрийн хөрөнгө, эрсдэлээр жигнэсэн нийт активын харьцаа
+  10%-аас доошгүй 25.8% Хангагдсан
+
+  Өөрийн хөрөнгө, эрсдэлээр жигнэсэн нийт активын харьцаа
+  20%-аас доошгүй 28.0% Хангагдсан
+
+  Нэгдүгээр зэрэглэлийн өөрийн хөрөнгө, нийт активын харьцаа
+  10%-аас доошгүй 23.3% Хангагдсан
+
+  Төлбөр түргэн гүйцэтгэх чадварын харьцаа
+  Төлбөр түргэн гүйцэтгэх чадварын харьцаа
+  8%-аас доошгүй 29.4% Хангагдсан
+
+  Актив хөрөнгийн төлөвлөлтийн үзүүлэлт
+  Нэг зээлдэгч болон холбогдох этгээдэд олгосон зээл, зээлийн адилтгах тооцох бусад актив хөрөнгө, төлбөрийн баталгааны зохистой харьцаа
+  30%-аас доошгүй 8.5% Хангагдсан
+
+  ББСБ-ын хувьцаа эзэмшигч, тэд, гүйцэтгэх захирал ажилтан холбогдох этгээдэд олгосон зээл, зээлийн адилтгах тооцох бусад актив хөрөнгө, төлбөрийн баталгааны нийлбэр дүнгийн зохистой харьцаа
+  25%-аас доошгүй 15.5% Хангагдсан
+
+  ББСБ-ын хувьцаа эзэмшигч, тэд, гүйцэтгэх захирал ажилтан, холбогдох аж этгээдэд олгосон зээл, зээлийн адилтгах тооцох бусад актив хөрөнгө, төлбөрийн баталгааны зохистой харьцаа
+  10%-аас доошгүй 8.5% Хангагдсан
+
+  Үнэт цаасны эзэмшилд өөрийн хөрөнгийн зохистой харьцаа
+  50%-аас доошгүй 20.0% Хангагдсан
+
+  Компанийн хувьцаа, өөрийн хөрөнгийн зохистой харьцаа
+  20%-аас доошгүй 10.5% Хангагдсан
+
+  Монголын хөрөнгийн биржийн "i", "ii" ангиллын нэг компанийн гаргасан хувьцаанд худалдан авах зохистой харьцаа
+  20%-аас доошгүй 2.3% Хангагдсан
+
+  Компанийн өөрийн бичиг өөрийн хөрөнгийн зохистой харьцаа
+  20%-аас доошгүй 9.5% Хангагдсан
+
+  Гадаад валютын ханшийн эрсдэл
+  Гадаад актив, пассивын зөрүү өөрийн хөрөнгийн зохистой харьцаа
+  (+/-40%) -8.8% Хангагдсан
+
+  Бусдаас татан төвлөрүүлсэн хөрөнгийн үзүүлэлтүүд
+  Итгэлцлийн үйлчилгээний өглөг өөрийн хөрөнгийн зохистой харьцаа
+  100%-аас хэтрэхгүй 92.1% Хангагдсан
+
+  Өрийн бичгийн зохистой харьцаа
+  50%-аас хэтрэхгүй 23.8% Хангагдсан
+
+  Үндсэн хөрөнгийн үзүүлэлт
+  Үндсэн хөрөнгийн зохистой харьцаа
+  15%-аас хэтрэхгүй 1.2% Хангагдсан
+
+  “Инвескор ББСБ” ХХК
+  2024 оны үйл ажиллагааны тайлан
+  ```
+
+- Explanation:
+  The document is a financial report page from "Инвескор ББСБ" LLC, focusing on various financial ratios and indicators. It outlines the company's compliance with financial standards and benchmarks. The page is structured with headings and subheadings, detailing different financial metrics such as capital adequacy, liquidity, asset management, and risk exposure. Each section lists specific ratios, their required thresholds, actual percentages, and whether the company meets these standards ("Хангагдсан" meaning "Complied"). The document serves to demonstrate the company's financial health and adherence to regulatory requirements.
+
+- Numerical Data:
+  - 10%-аас доошгүй
+  - 25.8%
+  - 20%-аас доошгүй
+  - 28.0%
+  - 10%-аас доошгүй
+  - 23.3%
+  - 8%-аас доошгүй
+  - 29.4%
+  - 30%-аас доошгүй
+  - 8.5%
+  - 25%-аас доошгүй
+  - 15.5%
+  - 10%-аас доошгүй
+  - 8.5%
+  - 50%-аас доошгүй
+  - 20.0%
+  - 20%-аас доошгүй
+  - 10.5%
+  - 20%-аас доошгүй
+  - 2.3%
+  - 20%-аас доошгүй
+  - 9.5%
+  - (+/-40%)
+  - -8.8%
+  - 100%-аас хэтрэхгүй
+  - 92.1%
+  - 50%-аас хэтрэхгүй
+  - 23.8%
+  - 15%-аас хэтрэхгүй
+  - 1.2%
+  - 2024
+Metadata: {'image_path': 'data/images/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_11.png', 'page_number': '11', 'language': 'mon', 'source': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_11', 'source_type': 'pdf', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'type': 'visual_analysis'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_12
+Source: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_12
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text: 
+  ```
+  Эрсдэлийн удирдлага
+
+  “Инвескор ББСБ” ХХК-ийн эрсдэлийн удирдлагын тогтолцооны гол зорилго нь эрсдэлийн төрөл тус бүрээр хүлээн зөвшөөрөх эрсдэлийн хэмжээг тодорхойлох, түүнчлэн хүлээн зөвшөөрөх эрсдэлийг үр дүнтэй, үр ашигтай удирдахад чиглэгддэг.
+
+  Эрсдэлийн удирдлагын тогтолцооны хүрээнд бизнесийн үйл ажиллагаанд учирч болзошгүй эрсдэлийг тодорхойлох, үнэлэх, урьдчилан сэргийлэх, бууруулах, эрсдэлийг хүлээн зөвшөөрөх хэмжээгийн хүрээнд эрсдэлийг үр дүнтэй удирдах хангалтын тогтолцоо бүрдүүлэн ажиллаж байна.
+
+  Инвескор ББСБ” ХХК нь Хамгаалалтын 3 бүсийн зарчимд тулгуурласан эрсдэлийн удирдлагын тогтолцоог бий болгож үйл ажиллагаандаа идэвхтэй хэрэгжүүлж ажилладаг ба тус зарчмын дагуу хамгаалалтын бүс тус бүр эрсдэлийн удирдлага, хяналтын тогтолцоонд тодорхой чиг үүргийг гүйцэтгэдэг.
+
+  Хамгаалалтын гурван бүс
+  Эрсдэлийг илрүүлэх, тодорхойлох, үнэлэх, хянах, хүлээн зөвшөөрөх чиг үүргийг тодорхойлох эдгээр түвшний эрсдэлийн удирдлагын үйл ажиллагаа
+
+  Засаглалын бичиг баримтлал
+  Эрсдэлийн удирдлагын бодлого, холбогдох эрсдэлийг удирдах бодлого, журамд болон төлөвлөгөөнд үйл ажиллагааг зохицуулах журам, стандарт болон заавар
+
+  Засаглалын хороо
+  Эрсдэлийн удирдлагын тогтолцоо, эрсдэлийн хүлээн зөвшөөрөх хэмжээгийн удирдлагын хэрэгжилтэд хяналт тавих хороо.
+
+  Компанийн жил бүр дотоод үйл ажиллагаандаа мөрдөж буй эрх зүйн баримт бичгүүд нь хууль тогтоомжид нийцсэн эсэх, холбогдох нэмэлт өөрчлөлтүүдийг тухай бүр тусгаж, хэрэгжүүлж байгаа эсэхэд Хуулийн нийцлийн үнэлгээ хийж, хуулийн нийцлийг хангуулж, хуулийн зөвлөмж өгөх ажлыг зохион байгуулдаг.
+
+  Дотоод аудитын үйл ажиллагаа
+
+  Дотоод аудитын чиг үүрэг нь Компанийн үйл ажиллагааг сайжруулах, үнэ цэнийг нэмэгдүүлэх зорилгоор хараат бус, бодитой баталгаажуулалт хийж, мен зөвлөх үйлчилгээг үзүүлэхэд чиглэдэг.
+
+  Компанийн засаглалын кодекс болон Дотоод аудитын институт (The IIA)-ээс боловсруулсан “Хамгаалалтын 3 бүс”-ийн зарчмын дагуу Гүйцэтгэх удирдлагаас хараат бусгаар үйл ажиллагаагаа зохион байгуулж, ТУЗ-ийн дэргэдэх “Аудитын хороо”-нд шууд тайлагнан ажилладаг.
+
+  2024 оны I хагас жилийн төлөвлөгөөгөөр 100 хувиар, харин II хагас жилийн төлөвлөгөөг 125 хувиар тус тус гүйцэтгэсэн. Тухайлбал, 2024 онд үйл ажиллагааны их бүрэн 4 аудит, хэсэгчилсэн 7 аудитыг гүйцэтгэж төлөвлөсөн байна.
+
+  Инвескор ББСБ ХХК-ийн Дотоод аудит нь бүтэц зохион байгуулалтын хувьд үндсэн үйл ажиллагааны аудит болон мэдээлэл технологийн аудит гэсэн 2 үндсэн чиглэлээр зохион байгуулагдан ажилладаг.
+
+  ТУЗ-ийн дэргэдэх “Аудитын хороо” Ерөнхий аудитор Ахлах аудитор Аудиторууд МТ-ийн аудитор
+
+  “Инвескор ББСБ” ХХК
+  2024 оны үйл ажиллагааны тайлан
+  ```
+
+- Explanation: 
+  The page is from a business document related to risk management and internal auditing at "Инвескор ББСБ" LLC. It outlines the company's risk management framework, emphasizing the identification, evaluation, and acceptance of risks. The document describes the implementation of a three-layer protection principle for risk management, detailing the roles and responsibilities at each level. It also covers the company's compliance with legal standards and the internal audit function aimed at improving operations and adding value. The document includes specific plans for audits in 2024, highlighting the company's commitment to maintaining robust governance and risk management practices.
+
+- Numerical Data: 
+  - 3
+  - 2024
+  - 100
+  - 125
+  - 4
+  - 7
+  - 2
+Metadata: {'type': 'visual_analysis', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'image_path': 'data/images/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_12.png', 'source_type': 'pdf', 'language': 'mon', 'page_number': '12', 'source': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_12'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_13
+Source: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_13
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text: 
+  ```
+  Тогтвортой хөгжил
+
+  Ногоон санхүүжилт
+  Инвескор ББСБ нь байгаль орчин, нийгэмд эерэг өөрчлөлт үзүүлэх зорилгоор ногоон зээлийн бүтээгдэхүүнүүдийг зах зээлд нэвтрүүлээд байна.
+
+  Бид байгальд ээлтэй хөрөнгө оруулалтыг дэмжих, тогтвортой хөгжлийн зорилтуудад нийцсэн төсөл, үйл ажиллагааг санхүүжүүлэхийн тулд ногоон зээлийн төрлүүдийн санал болгож, хамтын ажиллагааг өргөжүүлж байна.
+  Ногоон зээлийн бүтээгдэхүүнүүд:
+  • Бизнесийн ногоон зээл
+  • Автомашины ногоон зээл
+  • Хэрэглээний ногоон зээл
+
+  Тогтвортой эх үүсвэр
+  Инвескор ББСБ нь BlueOrchard MicroFinance Fund, responsAbility, Lendahand зэрэг нь Олон улсын хөгжлийн хөрөнгө оруулалтын байгууллагуудаас бичил болон жижиг дунд бизнес эрхлэгчдийг дэмжихэд зориулагдсан тогтвортой эх үүсвэрүүдийг бүрдүүлж чадсан бөгөөд энэ нь нийт эх үүсвэрийн 18%-ыг эзэлж байна.
+
+  Энэхүү тогтвортой эх үүсвэрүүдийг ашиглан харилцагчийн санхүүгийн хэрэгцээг хангах, бизнесийн өсөлтийг дэмжих, ажлын байрыг нэмэгдүүлэх, тэр дундаа эмэгтэй бизнес эрхлэгчдийг дэмжих замаар дотоодын эдийн засгийн өсөлтөд эерэг хувь нэмэр оруулах чухал ач холбогдолтой юм.
+
+  Жендерийн эрх тэгш байдал
+  Инвескор ББСБ ХК-ийн Удирдлагын хороо нь компанийн бизнесийн гол шийдвэрүүдийг гаргах чиг үүргийг хэрэгжүүлж ажилладаг бөгөөд тус хороо нь жендерийн эрх тэгш байдлыг, хүйсийн тэнцвэртэй байдлыг хангасан бүрэлдэхүүнтэй болно.
+
+  Мөн Удирдлагын багийн гишүүд болон салбарын ажилтнууд Дэлхийн Хөгжлийн Банкны “Жендерийн эрх тэгш байдал”-ын сургалтад хамрагдаж, олон улсын туршлага, жендерийн мэдрэмжтэй удирдлагын арга барилыг судалсан.
+
+  “Инвескор ББСБ” ХК
+  2024 оны үйл ажиллагааны тайлан
+  ```
+
+- Explanation: 
+  The page discusses the sustainable development initiatives of "Инвескор ББСБ" (Invescore LLC). It highlights three main areas:
+
+  1. **Green Financing**: Invescore is introducing green loan products to promote environmentally friendly investments and support sustainable development projects. The types of green loans offered include business, automotive, and consumer green loans.
+
+  2. **Sustainable Sources**: Invescore collaborates with international development investment organizations like BlueOrchard MicroFinance Fund, responsAbility, and Lendahand to provide sustainable financial sources. These sources support micro and small businesses, accounting for 18% of total resources, and aim to boost economic growth and support female entrepreneurs.
+
+  3. **Gender Equality**: The company's management committee ensures gender equality and balance in decision-making. Team members participate in gender equality training by the World Development Bank, learning international practices and gender-sensitive management strategies.
+
+- Numerical Data: 
+  - 18%
+  - 2024
+Metadata: {'image_path': 'data/images/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_13.png', 'page_number': '13', 'source_type': 'pdf', 'type': 'visual_analysis', 'language': 'mon', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'source': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_13'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_14
+Source: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_14
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text: 
+  ```
+  Хүний нөөцийн онцлох үр дүнгүүд
+
+  Ажилтнуудын тоо
+  +31 шинэ орон тоо – Өмнөх оны төгсгөлтэй харьцуулахад үндсэн ажилтны тоогоо 17%-р өсгөж 214 ажилтантай болов. Мөн салбар бүртэн бус цагаар ажиллах 12 орон тоог бий болгова.
+
+  Эмэгтэй удирдлагууд: Гүйцэтгэх удирдлагын багт эмэгтэй захирлуудын эзлэх хувийг нэмэгдүүлж, хүйсийн харьцаа тэнцвэртэй болов.
+
+  Дотоод шилжилт, карьер хөгжил
+  35 ажилтан компанид дотроо албан тушаал ахисан байна (+75%).
+  Сургалт хөгжил: Сургалт хөгжлийн төсвөө 102%-р нэмэгдүүлж, давхардсан тоогоор 690 ажилтныг 986 цагийн сургалтад хамруулав.
+  Нэг хүнд ногдох сургалтын дундаж цаг: 8.7 цаг.
+
+  Суралцах соёл
+  Talent LMS сургалтын платформыг нэвтрүүлж, тасралтгүй суралцах соёлыг бүрдүүлэв. Карьер хөгжил, бие биесээс суралцах соёлыг дэмжих зорилгоор 6 сарын хугацаатай 'MentorMind24' хөтөлбөрийг амжилттай хэрэгжүүлэв. Компанид дотроо өөрийн түүх, туршлага, алсын хараа баримла хуваалцах боломжийг бүрдүүлэх 'One of us' подкастыг хийж эхлүүлэв.
+
+  Ажил олгогчийн брэнд
+  Ажил олгогчийн брэнд, компанийн үнэт зүйлээ нээлттэй танилцуулахгаар 'InvesCore Journey' Facebook хуудсыг эхлүүлэв.
+
+  Ажилтны эрүүл мэнд
+  Ажилтнуудынхаа эрүүл мэндэд онцгой анхаарч, ажилтан бүрийн хувийн эрүүл мэндийн даатгалд хамруулж, Эрүүл мэндийн урьдчилан сэргийлэх үзлэгт 100% хамрууллаа.
+
+  Ажилтнуудын дуу хоолой
+  Ажилтнуудын сэтгэл ханамжийн судалгааг жил бүр нийт ажилтнуудыг хамруулан зохион байгуулдаг бөгөөд сэтгэл ханамжийн судалгаанд үндэслэн байгууллагын соёл болон хүний нөөцийн үйл ажиллагаагаа зохион байгуулж байна. Ажилтнуудын дуу хоолой, санал хүсэлтийг хүлээн авах сувгаа нээлттэй ажиллуулж, ажилтнуудын хүсэлтийг тухай бүр шийдвэрлэн ажиллаж байна.
+
+  “Инвескор ББСБ” ХХК
+  2024 оны үйл ажиллагааны тайлан
+  ```
+
+- Explanation: 
+  The page outlines key human resource achievements and initiatives of a company. It highlights the increase in employee numbers, with a 17% rise in full-time staff and the creation of 12 part-time positions. The document emphasizes gender balance in leadership roles. It also details internal promotions, career development, and training efforts, including a 75% increase in internal promotions and a 102% increase in training budget, resulting in 986 hours of training for 690 employees. The company has implemented a continuous learning culture through platforms like Talent LMS and initiatives like 'MentorMind24'. The employer brand is promoted via a Facebook page, and employee health is prioritized with comprehensive health insurance and preventive check-ups. Employee satisfaction surveys are conducted annually to inform organizational culture and HR practices.
+
+- Numerical Data: 
+  - +31
+  - 17%
+  - 214
+  - 12
+  - 35
+  - +75%
+  - 102%
+  - 690
+  - 986
+  - 8.7
+  - 6
+  - 100%
+  - 2024
+Metadata: {'page_number': '14', 'type': 'visual_analysis', 'image_path': 'data/images/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_14.png', 'language': 'mon', 'source_type': 'pdf', 'source': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_14', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_15
+Source: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_15
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text:
+  ```
+  Компанийн бүтэц
+
+  Дотоод Аудитын Газар
+  Аудитын Хороо
+  Нэр Дэвшүүлэх Хороо
+
+  Төлөөлөн удирдах зөвлөл
+
+  Цалин Урамшууллын Хороо
+  Тогтвортой Байдлын Хороо
+  Эрсдэлийн Удирдлагын Хороо
+
+  Гүйцэтгэх захирал
+
+  Чанарын Хяналтын Хэлтэс
+
+  Тэргүүн дэд захирал
+
+  Удирдлагын Хороо
+  Зээлийн хороо
+  Актив, Пассив Эрсдэлийн Хороо
+  Мэдээлэл Технологи, Автоматжуулалтын Хороо
+
+  Бизнес Хариуцсан Захирал
+  Маркетинг, Олон Нийттэй Харилцах Газар
+  Бизнес Хөгжлийн Газар
+  Бизнес Удирдлага, Хамтын Ажиллагааны Газар
+
+  Цахим Хөгжил Хариуцсан Захирал
+  Системийн Удирдлагын Хэлтэс
+  Системийн Чанарын Удирдлагын Хэлтэс
+  Цахим Хөгжүүлэлтийн Газар
+
+  Санхүү Хариуцсан Захирал
+  Санхүү Удирдлага, Хөрөнгө Зохицуулалтын Газар
+  Санхүү Бүртгэл Тайлангийн Газар
+  Зээлийн Эрсдэлийн Газар
+
+  Хүний Нөөц Хариуцсан Захирал
+  Хүний Нөөцийн газар
+
+  Үйл ажиллагаа Хариуцсан Захирал
+  Эрсдэлийн удирдлага Комплаенс Газар
+  Хуулийн Хэлтэс
+  Үйл Ажиллагааны Хэлтэс
+
+  “Инвескор ББСБ” ХХК
+  2024 оны үйл ажиллагааны тайлан
+  ```
+
+- Explanation:
+  The page presents the organizational structure of a company, likely "Инвескор ББСБ" ХХК, as indicated at the bottom. The structure is depicted in a hierarchical flowchart format, starting with the "Төлөөлөн удирдах зөвлөл" (Board of Directors) at the top, followed by the "Гүйцэтгэх захирал" (Executive Director) and "Тэргүүн дэд захирал" (First Deputy Director). Various departments and committees are listed under these roles, indicating their responsibilities and reporting lines. The page is part of the company's 2024 operational report, as noted at the bottom.
+
+- Numerical Data:
+  - 2024
+  - 15
+Metadata: {'source': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_15', 'image_path': 'data/images/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_15.png', 'page_number': '15', 'source_type': 'pdf', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'language': 'mon', 'type': 'visual_analysis'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_16
+Source: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_16
+Language: mon
+Content:
+- Detected Language: mon
+- Extracted Text: 
+  ```
+  Гүйцэтгэх удирдлагын баг
+
+  Д.Баясгалан
+  Гүйцэтгэх захирал
+
+  Ц.Алтаннавч
+  Үйл ажиллагаа хариуцсан захирал
+
+  З.Батцэцэг
+  Хүний нөөц хариуцсан захирал
+
+  Ш.Оюунчимэг
+  Бизнес хариуцсан захирал
+
+  О.Төгөлдөр
+  Цахим шилжилт хариуцсан захирал
+
+  С.Тулга
+  Хөрөнгө оруулалт хариуцсан захирал
+
+  Охин компаниудын удирдлага
+
+  Д.Оролмаа
+  Инвескор Хэтэвч ББСБ ХХК
+  Гүйцэтгэх захирал
+
+  Серик С. Жанаев
+  Инвескор Финанс МФО
+  Гүйцэтгэх захирал
+  Казахстан улс
+
+  Кунболот Азатбек уулу
+  Инвескор СА МФО
+  Гүйцэтгэх захирал
+  Киргиз улс
+
+  “Инвескор ББСБ” ХХК
+  2024 оны үйл ажиллагааны тайлан
+  ```
+
+- Explanation: 
+  The page presents the executive management team and subsidiary company leaders of a business entity. It includes names and titles of key personnel, indicating their roles and responsibilities within the organization. The page is structured into two main sections: the executive management team and the leadership of subsidiary companies. Each section lists individuals with their respective titles and responsibilities. The document appears to be part of a report or presentation, likely related to the company's operations for the year 2024.
+
+- Numerical Data: 
+  - 2024
+  - 16
+Metadata: {'source_type': 'pdf', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'source': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_16', 'type': 'visual_analysis', 'language': 'mon', 'page_number': '16', 'image_path': 'data/images/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_16.png'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_17
+Source: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_17
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text: 
+  ```
+  Компанийн засаглал
+
+  Инвескор ББСБ нь компанийн засаглалыг ил тод, хариуцлагатай, олон улсын шилдэг туршлагад нийцүүлэн хэрэгжүүлэхийг эрхэмлэдэг. Хараат бус болон гүйцэтгэх удирдлагын төлөөллийн тэнцвэртэй оролцуулсан Төлөөлөн Удирдах Зөвлөл (ТУЗ)-тэй бөгөөд хяналт, эрсдэлийн удирдлага, ёс зүй, ил тод байдлыг хангах бодлого, журмуудыг тогтмол сайжруулж, хэрэгжүүлдэг. Мөн компанийн урт хугацааны тогтвортой өсөлтийг хангахын тулд хувь нийлүүлэгчид, харилцагчид, ажилтнууд болон бусад оролцогч талуудын эрх ашгийг хамгаалахын зорьж ажилладаг.
+
+  Инвескор ББСБ-ийн хувьцаа эзэмшлийн бүтэц
+
+  Инвескор ББСБ нь Монголын Хөрөнгийн Биржид бүртгэлтэй, хувьцаагаа олон нийтэд нээлттэй арилжаалдаг компани бөгөөд хувьцаа эзэмшлийн бүтэц нь ил тод, зохистой удирдлагатай байна. Компанийн хувьцаа эзэмшигчид нь дотоодын болон олон улсын хөрөнгө оруулагчид, стратегийн болон жижиг хувьцаа эзэмшигчдээс бүрддэг.
+
+  Хувьцаа эзэмшигдийн бүтэц
+
+  Инвескор Санхүүгийн Групп
+  “Эс Ай Би Жэй Капитал” ХХК
+
+  “Инвескор ББСБ” ХХК 80%
+  Олон нийт 20%
+
+  “Покет ББСБ” ХХК Финтек платформ
+  “Инвескор СА МФС” Бичил санхүү
+  “Покет Киргиз” ХХК Финтек платформ
+  “Инвескор КЗ” ХХК Санхүүгийн байгууллага
+  “Инвескор ҮЕ” ХХК Санхүүгийн байгууллага
+  “Инвескор Финанс МФО” ХХК Бичил санхүү
+
+  “Инвескор ББСБ” ХХК
+  2024 оны үйл ажиллагааны тайлан
+  ```
+
+- Explanation: 
+  The page is from a business report of "Инвескор ББСБ" (Invescore NBFI), focusing on corporate governance and shareholder structure. It emphasizes the company's commitment to transparency, responsibility, and adherence to international best practices. The governance structure includes a balanced Board of Directors, ensuring oversight, risk management, ethics, and transparency. The shareholder structure is detailed, highlighting the company's registration on the Mongolian Stock Exchange and its open trading status. The page includes a diagram showing the ownership distribution, with "Инвескор ББСБ" holding 80% and the public holding 20%. Subsidiaries and related entities are also listed, indicating a diverse portfolio in fintech and financial services.
+
+- Numerical Data: 
+  - 80%
+  - 20%
+  - 2024
+Metadata: {'type': 'visual_analysis', 'image_path': 'data/images/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_17.png', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'source': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_17', 'source_type': 'pdf', 'language': 'mon', 'page_number': '17'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_18
+Source: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_18
+Language: mon
+Content:
+- Detected Language: mon
+- Extracted Text: 
+  ```
+  ТУЗ-ийн бүрэлдэхүүн
+
+  Б.Анхболд
+  ТУЗ-ийн дарга
+
+  Д.Баясгалан
+  ТУЗ-ийн гишүүн
+
+  Хирохито Намики
+  ТУЗ-ийн гишүүн
+
+  Т.Төлмөн
+  ТУЗ-ийн гишүүн
+
+  Р.Пүрэв
+  ТУЗ-ийн гишүүн
+
+  Ч.Хашчулуун
+  ТУЗ-ийн хараат бус гишүүн
+
+  Д.Энхбат
+  ТУЗ-ийн хараат бус гишүүн
+
+  Ч.Өнөржаргал
+  ТУЗ-ийн хараат бус гишүүн
+
+  Төлөөлөн удирдах зөвлөлийн дэргэдэх хороод
+
+  Төлөөлөн удирдах зөвлөл
+
+  Аудитын хороо
+  Нар дэвшүүлэх хороо
+  Тогтвортой байдлын хороо
+  Цалин урамшууллын хороо
+  Эрсдэлийн удирдлагын хороо
+
+  Дотоод аудит
+  Гүйцэтгэх удирдлага
+  Эрсдэл хариуцсан нэгж
+
+  Хороодын гишүүд /ТУЗ-ийн дэргэдэх хороод/
+
+  • Аудитын хороо Дарга: Ч.Хашчулуун Гишүүд: Ч.Өнөржаргал, Р.Пүрэв
+  • Нар дэвшүүлэх хороо Дарга: Ч.Хашчулуун Гишүүд: Д.Энхбат, Х.Намики
+  • Цалин урамшууллын хороо Дарга: Д.Энхбат Гишүүд: Т.Төлмөн, Ч.Өнөржаргал
+  • Эрсдэлийн удирдлагын хороо Дарга: Ч.Өнөржаргал Гишүүд: Б.Анхболд, Ч.Хашчулуун
+  • Тогтвортой байдлын хороо Дарга: Ч.Хашчулуун Гишүүд: Д.Баясгалан, Б.Анхболд
+
+  “Инвескор ББСБ” ХК
+  2024 оны үйл ажиллагааны тайлан
+  ```
+
+- Explanation: 
+  The page outlines the composition and structure of the Board of Directors (ТУЗ) and its associated committees for a company named "Инвескор ББСБ" ХК. It lists the members of the board, including their roles such as chairman and independent members. Additionally, it details the various committees under the board, such as the Audit Committee, Nomination Committee, and others, along with their respective leaders and members. The page serves as an organizational chart for the board and its committees, providing a clear overview of governance and oversight within the company.
+
+- Numerical Data: 
+  - 2024
+  - 18
+Metadata: {'image_path': 'data/images/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_18.png', 'type': 'visual_analysis', 'source_type': 'pdf', 'language': 'mon', 'source': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_18', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'page_number': '18'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_19
+Source: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_19
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text:
+  ```
+  ТУЗ-ийн үйл ажиллагааны тайлан
+
+  ТУЗ
+  Бүрэлдэхүүн
+  Хурлын дарга: Б.Анхболд
+  Хараат бус гишүүн: 3
+  Ердийн гишүүн: 4
+
+  Хуралдсан байдал
+  Нийт 36 удаа хурал
+  Энгэ хурал: 26
+  Цахим хурал: 8
+  Бичет хурал: 2
+
+  Чиглэл
+  Бизнес төлөвлөгөө, төсөв батлах
+  Үйл ажиллагаа, сонгуулийн тайлан, удирдлагын багийг гүйцэтгэх
+  Гадаад болон дотоод зах зээлийн сонирхлын зөрчилтэй хэлцэл
+
+  Аудитын хороо
+  Хурлын дарга: Ч.Хашчулуун
+  Гишүүн: Ч.Өнөржаргал
+  Гишүүн: Р.Пүрэв
+
+  Нийт 16 удаа хурал
+  Энгэ хурал: 5
+  Цахим хурал: 10
+  Бичет хурал: 1
+
+  Дотоод хяналт, дотоод аудит
+  Хөндлөнгийн аудит сонгох, хяналт тавих
+  Сонирхлын зөрчилтэй хэлцэлд хяналт тавих, дүгнэлт гаргах
+
+  Эрсдэлийн удирдлагын хороо
+  Хурлын дарга: Ч.Өнөржаргал
+  Гишүүн: Ч.Хашчулуун
+  Гишүүн: Б.Анхболд
+
+  Нийт 8 удаа хурал
+  Энгэ хурал: 2
+  Цахим хурал: 6
+
+  Эрсдэлийн бодлого, аппетит
+  Эрсдэлийн тайлан
+  ТУЗ-өөс олгосон эрх хэмжээний хүрээнд зээл шийдвэрлэх
+
+  Тогтвортой байдлын хороо
+  Хурлын дарга: Д.Баясгалан
+  Гишүүн: Б.Анхболд
+
+  Нийт 3 удаа хурал
+  Бичет хурал: 1
+  Цахим хурал: 2
+
+  БОНЗ тайлан
+  Ногоон санхүүжилтийн бодлого
+  БОНЗ чиглэлээр хөрөнгө оруулах
+
+  Цалин урамшууллын хороо
+  Хурлын дарга: Д.Энхбат
+  Гишүүн: Т.Пэлмэн
+  Гишүүн: Ч.Өнөржаргал
+
+  Нийт 1 удаа хурал
+  Цахим хурал: 1
+
+  Удирдлагын багийн цалин урамшуулал
+  Байгууллагын цалингийн бодлого,систем
+
+  Гүйцэтгэх удирдлагын үндсэн цалин, шагнал бусад урамшууллыг олгох гүйцэтгэлийн шалгуур
+
+  Бизнес төлөвлөгөөнд тусгаасан Тэнцвэржүүлсэн онооны систем дэх зорилтуудын биелэлтээр Гүйцэтгэх захирлын ажлын гүйцэтгэлийг үнэлж, цалин болон бусад урамшууллыг олгодог.
+
+  Үүнд доорх 4 үндсэн бүлэг үзүүлэлтүүдийг багтаана.
+  - Санхүүгийн тоон зорилтуудын биелэлт
+  - Зах зээл, бүтээмжийн үйлчилгээг, харилцагчийн үйлчилгээгийн зорилтуудын биелэлт
+  - Дотоод процессын сайжруулалт, бизнес хөгжлийн үйл ажиллагааны зорилтуудын биелэлт
+  - Хүний нөөц, бүтээмжтэй холбоотой зорилтуудын биелэлт
+
+  “Инвескор ББСБ” ХХК
+  2024 оны үйл ажиллагааны тайлан
+  ```
+
+- Explanation:
+  The page is a report on the activities of the Board of Directors (ТУЗ) and its various committees for a company named “Инвескор ББСБ” ХХК. It outlines the composition, meeting frequency, and key responsibilities of each committee. The document also details the performance criteria for executive management compensation, which is based on the achievement of specific business objectives. The report is structured into sections for each committee, listing their chairpersons, members, meeting details, and areas of focus. Additionally, it describes the performance evaluation system used to determine executive salaries and bonuses.
+
+- Numerical Data:
+  - 3
+  - 4
+  - 36
+  - 26
+  - 8
+  - 2
+  - 16
+  - 5
+  - 10
+  - 1
+  - 8
+  - 2
+  - 6
+  - 3
+  - 1
+  - 2
+  - 1
+  - 1
+  - 2024
+Metadata: {'source_type': 'pdf', 'source': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_19', 'page_number': '19', 'image_path': 'data/images/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_19.png', 'type': 'visual_analysis', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'language': 'mon'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_20
+Source: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_20
+Language: eng
+Content:
+- Detected Language: eng
+- Extracted Text: 
+  ```
+  InvesCore FI
+
+  +976 7709-0077
+  info@invescore.mn
+  www.invescore.mn
+  ```
+- Explanation: 
+  The page appears to be a contact or informational page for "InvesCore FI," likely a financial institution or company. The text includes the company's name prominently at the top, followed by contact information at the bottom. This includes a phone number, an email address, and a website URL. The design is minimalistic, focusing on providing essential contact details.
+
+- Numerical Data: 
+  - 976
+  - 7709-0077
+Metadata: {'source_type': 'pdf', 'type': 'visual_analysis', 'language': 'eng', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'image_path': 'data/images/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr/2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_20.png', 'page_number': '20', 'source': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_page_20'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_metadata_0a8cda3e
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr: {"pdf_name": "2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr", "total_pages": 20, "file_path": "data/pdfs/2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr.pdf"}
+Metadata: {'source_type': 'pdf', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'type': 'metadata'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_metadata_339dd042
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr: {"pdf_name": "2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr", "total_pages": 20, "file_path": "data/pdfs/2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr.pdf"}
+Metadata: {'source_type': 'pdf', 'type': 'metadata', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_metadata_2c214011
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr: {"pdf_name": "2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr", "total_pages": 20, "file_path": "data/pdfs/2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr.pdf"}
+Metadata: {'type': 'metadata', 'source_type': 'pdf', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_metadata_0d60917e
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr: {"pdf_name": "2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr", "total_pages": 20, "file_path": "data/pdfs/2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr.pdf"}
+Metadata: {'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'type': 'metadata', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_metadata_bc949727
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr: {"pdf_name": "2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr", "total_pages": 20, "file_path": "data/pdfs/2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr.pdf"}
+Metadata: {'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'source_type': 'pdf', 'type': 'metadata'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_metadata_78192000
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr: {"pdf_name": "2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr", "total_pages": 20, "file_path": "data/pdfs/2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr.pdf"}
+Metadata: {'source_type': 'pdf', 'type': 'metadata', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_metadata_cd77a874
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr: {"pdf_name": "2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr", "total_pages": 20, "file_path": "data/pdfs/2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr.pdf"}
+Metadata: {'source_type': 'pdf', 'type': 'metadata', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_metadata_bd95d9e7
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr: {"pdf_name": "2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr", "total_pages": 20, "file_path": "data/pdfs/2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr.pdf"}
+Metadata: {'type': 'metadata', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_metadata_7e38963d
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr: {"pdf_name": "2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr", "total_pages": 20, "file_path": "data/pdfs/2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr.pdf"}
+Metadata: {'source_type': 'pdf', 'type': 'metadata', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_metadata_50d44585
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr: {"pdf_name": "2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr", "total_pages": 20, "file_path": "data/pdfs/2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr.pdf"}
+Metadata: {'type': 'metadata', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_metadata_3d8ce080
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr: {"pdf_name": "2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr", "total_pages": 20, "file_path": "data/pdfs/2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr.pdf"}
+Metadata: {'source_type': 'pdf', 'type': 'metadata', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_metadata_e21e5c5d
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr: {"pdf_name": "2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr", "total_pages": 20, "file_path": "data/pdfs/2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr.pdf"}
+Metadata: {'type': 'metadata', 'source_type': 'pdf', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_metadata_3450bd31
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr: {"pdf_name": "2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr", "total_pages": 20, "file_path": "data/pdfs/2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr.pdf"}
+Metadata: {'type': 'metadata', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_metadata_610b4d8c
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr: {"pdf_name": "2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr", "total_pages": 20, "file_path": "data/pdfs/2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr.pdf"}
+Metadata: {'source_type': 'pdf', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'type': 'metadata'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_metadata_0cf8398c
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr: {"pdf_name": "2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr", "total_pages": 20, "file_path": "data/pdfs/2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr.pdf"}
+Metadata: {'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'type': 'metadata', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_metadata_4135c31d
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr: {"pdf_name": "2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr", "total_pages": 20, "file_path": "data/pdfs/2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr.pdf"}
+Metadata: {'source_type': 'pdf', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'type': 'metadata'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_metadata_46083427
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr: {"pdf_name": "2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr", "total_pages": 20, "file_path": "data/pdfs/2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr.pdf"}
+Metadata: {'source_type': 'pdf', 'type': 'metadata', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_metadata_38acacae
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr: {"pdf_name": "2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr", "total_pages": 20, "file_path": "data/pdfs/2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr.pdf"}
+Metadata: {'type': 'metadata', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_metadata_7ee970e2
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr: {"pdf_name": "2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr", "total_pages": 20, "file_path": "data/pdfs/2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr.pdf"}
+Metadata: {'source_type': 'pdf', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'type': 'metadata'}
+--------------------------------------------------
+ID: 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr_metadata_78c734fe
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr: {"pdf_name": "2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr", "total_pages": 20, "file_path": "data/pdfs/2024Q4 - \u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d - \u041c\u043e\u043d\u0433\u043e\u043b Upd.22Apr.pdf"}
+Metadata: {'source_type': 'pdf', 'source_name': '2024Q4 - Үйл ажиллагааны тайлан - Монгол Upd.22Apr', 'type': 'metadata'}
+--------------------------------------------------
+
+=== Data for File: 2025-Q1-tailan-1 ===
+
+Visual Analyses:
+ID: 2025-Q1-tailan-1_metadata_d5a93a05
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2025-Q1-tailan-1: {"pdf_name": "2025-Q1-tailan-1", "total_pages": 7, "file_path": "data/pdfs/2025-Q1-tailan-1.pdf"}
+Metadata: {'source_name': '2025-Q1-tailan-1', 'type': 'metadata', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_2025-Q1-tailan-1_page_1
+Source: 2025-Q1-tailan-1_page_1
+Language: mon
+Content:
+- Detected Language: mon
+- Extracted Text: 
+  ```
+  lendmn
+  Хамтдаа Асаая
+
+  2025 оны I улирлын санхүү, үйл ажиллагааны тайлан
+
+  “ЛэндМН ББСБ” ХК
+  ```
+- Explanation: 
+  The page appears to be the cover of a financial and operational report for the first quarter of 2025. It is issued by "ЛэндМН ББСБ" ХК, which seems to be a financial institution or company. The design is professional, with the company's logo and slogan "Хамтдаа Асаая" (Let's Ignite Together) prominently displayed. The use of bold and colored text highlights the year and quarter of the report.
+
+- Numerical Data: 
+  - 2025
+  - I (first quarter)
+Metadata: {'source_type': 'pdf', 'page_number': '1', 'language': 'mon', 'type': 'visual_analysis', 'source': '2025-Q1-tailan-1_page_1', 'image_path': 'data/images/2025-Q1-tailan-1/2025-Q1-tailan-1_page_1.png', 'source_name': '2025-Q1-tailan-1'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_2025-Q1-tailan-1_page_2
+Source: 2025-Q1-tailan-1_page_2
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text:
+  ```
+  Агуулга
+
+  01 Бизнесийн үйл ажиллагаа
+
+  02 Санхүүгийн үзүүлэлтүүд
+
+  03 Онцлох үйл явдлууд
+  ```
+
+- Explanation: 
+  The page appears to be a table of contents from a business-related document. It is structured into three main sections, each marked with a number and a brief description. The sections are likely to cover different aspects of the document: business operations, financial indicators, and notable events. The design is visually organized with a modern aesthetic, using circles and a dark background to highlight the content.
+
+- Numerical Data:
+  - 01
+  - 02
+  - 03
+Metadata: {'language': 'mon', 'source_name': '2025-Q1-tailan-1', 'page_number': '2', 'type': 'visual_analysis', 'image_path': 'data/images/2025-Q1-tailan-1/2025-Q1-tailan-1_page_2.png', 'source_type': 'pdf', 'source': '2025-Q1-tailan-1_page_2'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_2025-Q1-tailan-1_page_3
+Source: 2025-Q1-tailan-1_page_3
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text: 
+  ```
+  01 Бизнесийн үйл ажиллагаа
+
+  2025 ОНЫ ҮЙЛДРИЙН БИЗНЕСИЙН ҮЙЛ АЖИЛЛАГААНЫ ХУРААНГУЙ
+
+  Дижитал бизнесийн зах зээлээ бизнес эрхлэгч нарт илүү хүртээмжтэй болгож ажиллалаа
+
+  "ЛэндМН ББСБ" ХХК нь технологийн шийдлээр дамжуулан хэрэглэгчдэд санхүүгийн туслах эцсийн зорилготой ажилладаг билээ. Энэхүү зорилгоо хэрэгжүүлэх бид олон шинэлэг бүтээгдэхүүн, үйлчилгээг зах зээлд амжилттай нэвтрүүлж, хэрэглэгчдийн санхүүгийн хэрэгцээг хангаж ажиллалаа.
+
+  2024 онд бид Монгол Улсад анх удаа бизнесийн зээлийн гар утасны аппликейшн дотор, барьцаагүй, бичил зээл олгосноороо давуу байдалтайгаар зах зээлд нэвтэрсэн билээ. Үүний бизнесийн зээлийн шийдэл нь хэрэглэгчдийн амжилтыг хурдасгах явдалд дэмжлэг үзүүлж, бизнес эрхлэгчдэд санхүүгийн хэрэгцээг хангах боломжийг олгосон байна.
+
+  Бид Flexi Business зээлийн бүтээгдэхүүнээ зах зээлд нэвтрүүлэн 10 сар гаруй болж байгаа бөгөөд энэ хугацаанд нийт мянган хэрэглэгчид бизнесийн зээлийн шинэ боломжийг олгосон. Бид энэ зах зээлд маш олон бизнес эрхлэгчдэд анхны зээлийн үйлчилгээг хүргэж байлаа. Мөн та бүхний итгэл хүлээлгэж буй боломжуудыг нэмэгдүүлэх хэрэгтэй гэдгийг харуулж байна.
+
+  2024 оны III улирлын эцсийн байдлаар Flexi Business зээлийн бүтээгдэхүүн бүрдүүлж байсан бол 2025 оны I улиралд энэ тоо 26 хувиар өсөв. Үүний зэрэгцээ нийт 14.2 мянган удаагийн олголтоор 51.4 тэрбум төгрөгийн зээлийг бизнес эрхлэгчдэд олгоод байна. Бидний уг бизнесийн зээлийн бүтээгдэхүүнүүдийг дамжуулан бид болгож буй гол нь шуудийн нь ноё барьцаа хөрөнгийн шаардлагыг хангахгүйгээр зээл авах боломжгүй байсан бизнес эрхлэгч нартаа хүсэлт гаргасан тухайн агшинд зээлийн боломжит хэмжээгээ харж, зээлийн санхүүжилт авах боломжийг бий болгосон байна.
+
+  Бид мөн бизнесийн орчны бизнес эрхлэгчдийн дэмжих үүднээс Flexi Business зээлийн доод хэмжээг 53 сая төгрөг байсныг 500 мянган төгрөг болгож буурууллаа. Ингэснээр бизнес эрхлэгчид маань оюу утмых бараа таваар авахад хэрэглэхэд Flexi Business зээлийг ашиглах, зээлийн нөхцөл нь илүү уян хатан байгааг харуулж байна.
+
+  Монгол улсын эдийн засгийн нөхцөл байдал хүнд нэрмээс болж байгаа ч бидний зүгээс бизнесийн орчныг сайжруулахад анхаарч ажиллаж байна. Бидний зүгээс бизнес эрхлэгчдэд санхүүгийн дэмжлэг үзүүлэх зорилгоор Flexi Business зээлийн бүтээгдэхүүнээ сайжруулж, илүү хүртээмжтэй болгож ажиллаж байна. Бидний бизнесийн амжилт, эрч хүчтэй дэмжлэгийн үр дүнд бидний бүтээгдэхүүнүүд 2025 оны III улиралд танилцуулагдаж бэлтгэн ажиллаж байна.
+
+  "ЛэндМН ББСБ" ХХК | 2025 оны үйлдлийн санхүү, үйл ажиллагааны тайлан
+  ```
+
+- Explanation: 
+  The page is a summary of business operations for 2025 by "ЛэндМН ББСБ" ХХК, focusing on their digital business market and financial services. The company highlights its achievements in providing innovative financial products and services, particularly through the Flexi Business loan product. The document outlines the company's efforts to make financial services more accessible to business owners, including the introduction of a mobile app for unsecured microloans. It details the growth and impact of the Flexi Business loan, including the number of loans issued and the total amount disbursed. The page emphasizes the company's commitment to supporting business owners and improving the business environment despite economic challenges.
+
+- Numerical Data: 
+  - 2025
+  - 2024
+  - 10
+  - 26
+  - 14.2
+  - 51.4
+  - 53
+  - 500
+  - 2025
+  - III
+  - I
+Metadata: {'source_type': 'pdf', 'type': 'visual_analysis', 'page_number': '3', 'language': 'mon', 'source': '2025-Q1-tailan-1_page_3', 'source_name': '2025-Q1-tailan-1', 'image_path': 'data/images/2025-Q1-tailan-1/2025-Q1-tailan-1_page_3.png'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_2025-Q1-tailan-1_page_4
+Source: 2025-Q1-tailan-1_page_4
+Language: mon
+Content:
+- Detected Language: mon
+- Extracted Text: 
+  ```
+  02 Санхүүгийн үзүүлэлтүүд
+
+  САНХҮҮГИЙН ҮЗҮҮЛЭЛТҮҮД
+  Санхүүгийн үзүүлэлтүүд өмнөх онуудын мөн үетэй харьцуулсан байдалаар
+
+  Нийт зээлийн багц /Тэрбум төгрөг/
+  777 156.1 259.2
+  2023.I 2024.I 2025.I
+
+  Нийт орлого /Тэрбум төгрөг/
+  9.7 17.9 28.8
+  2023.I 2024.I 2025.I
+
+  Цэвэр ашиг /Тэрбум төгрөг/
+  3.7 7.2 9.8
+  2023.I 2024.I 2025.I
+
+  Эздийн өмчийн өгөөж /ROE/
+  31.8% 56.8% 56.6%
+  2023.I 2024.I 2025.I
+
+  Орлого, үр дүнгийн хураангуй тайлан /Нэгдсэн/
+  Орлого, үр дүнгийн хураангуй тайлан /Тэрбум төгрөг/
+  2023.I 2024.I 2025.I
+  Нийт орлого 9.7 17.9 28.8
+  Хүүгийн зардал (2.2) (3.9) (7.1)
+  Цэвэр орлого 7.5 14.0 21.7
+  Зээлийн үлдэгдэлтэй холбоотой зардал (1.3) (2.3) (3.9)
+  Зээлийн боломжит эрсдэлийн нөөцийн зардал (0.9) (1.5) (2.4)
+  Үйл ажиллагааны цэвэр орлого 5.5 11.6 15.4
+  Удирдлагын болон үйл ажиллагааны зардал (0.9) (2.1) (2.7)
+  Татварын өмнөх ашиг 4.6 9.5 12.7
+  Татварын зардал (0.9) (2.3) (2.9)
+  Цэвэр ашиг 3.7 7.2 9.8
+
+  Санхүү байдлын хураангуй тайлан /Нэгдсэн/
+  Хөрөнгө /Тэрбум төгрөг/
+  2023.I 2024.I 2025.I
+  Мөнгө болон түүнтэй адилтгах хөрөнгө 4.3 9.6 11.5
+  Зээлийн багц (цэвэр) 40.8 154.1 250.0
+  Бусад хөрөнгө 2.6 0.6 0.6
+  Үл хөдлөх хөрөнгө 0.7 0.7 0.7
+  Биет бус хөрөнгө 0.1 0.1 0.1
+  Нийт хөрөнгө 81.5 165.9 270.2
+
+  Өр төлбөр болон эздийн өмч /Тэрбум төгрөг/
+  2023.I 2024.I 2025.I
+  Өр төлбөр 53.6 116.0 187.4
+  Эх үүсвэр 30.8 90.0 169.1
+  Хоёрдогч өглөг 22.8 26.0 18.3
+  Бусад өглөг 0.0 0.0 0.0
+  Эздийн өмчийн дүн 27.9 49.9 82.8
+  Хувьцаат капитал 8.0 8.0 8.0
+  Хуримтлагдсан ашиг 19.9 41.4 74.8
+  Нийт өр төлбөр болон эздийн өмч 81.5 165.9 270.2
+
+  *ЛэндМН ББСБ* ХХК | 2025 оны 1 улирлын санхүү, үйл ажиллагааны тайлан
+  ```
+
+- Explanation: 
+  The page is a financial summary report for a company, likely for the first quarter of 2025. It includes various financial metrics compared over three years: 2023, 2024, and 2025. The left side of the page features bar charts and a line graph illustrating key financial indicators such as total loan portfolio, total income, net profit, and return on equity (ROE). The right side presents detailed tables summarizing income and financial position, including assets, liabilities, and equity. The report highlights growth in income and assets over the years, indicating financial progress.
+
+- Numerical Data: 
+  - 02
+  - 777
+  - 156.1
+  - 259.2
+  - 9.7
+  - 17.9
+  - 28.8
+  - 3.7
+  - 7.2
+  - 9.8
+  - 31.8%
+  - 56.8%
+  - 56.6%
+  - 2023
+  - 2024
+  - 2025
+  - 9.7
+  - 17.9
+  - 28.8
+  - (2.2)
+  - (3.9)
+  - (7.1)
+  - 7.5
+  - 14.0
+  - 21.7
+  - (1.3)
+  - (2.3)
+  - (3.9)
+  - (0.9)
+  - (1.5)
+  - (2.4)
+  - 5.5
+  - 11.6
+  - 15.4
+  - (0.9)
+  - (2.1)
+  - (2.7)
+  - 4.6
+  - 9.5
+  - 12.7
+  - (0.9)
+  - (2.3)
+  - (2.9)
+  - 3.7
+  - 7.2
+  - 9.8
+  - 4.3
+  - 9.6
+  - 11.5
+  - 40.8
+  - 154.1
+  - 250.0
+  - 2.6
+  - 0.6
+  - 0.6
+  - 0.7
+  - 0.7
+  - 0.7
+  - 0.1
+  - 0.1
+  - 0.1
+  -
+Metadata: {'source_name': '2025-Q1-tailan-1', 'source_type': 'pdf', 'language': 'mon', 'page_number': '4', 'source': '2025-Q1-tailan-1_page_4', 'type': 'visual_analysis', 'image_path': 'data/images/2025-Q1-tailan-1/2025-Q1-tailan-1_page_4.png'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_2025-Q1-tailan-1_page_5
+Source: 2025-Q1-tailan-1_page_5
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text: 
+  ```
+  03 Онцлох үйл явдлууд
+
+  КОМПАНИЙН ОНЦЛОХ ҮЙЛ ЯВДАЛ
+
+  ЛэндМН нь дэлхийд жишиг тогтоолоо
+
+  “ЛэндМН ББСБ” ХХК нь Олон Улсын Үнэлгээний MFR Global Rating Agency-с “Харилцагчийг Хамгаалах Сертификат” авсан дэлхийн анхны финтек компани боллоо.
+  Micro Finance Rating (MFR) Олон Улсын Үнэлгээний Байгууллага нь санхүүгийн байгууллагуудад үнэлгээ хийдэг цорын ганц байгууллага бөгөөд ЛэндМН нь Монгол Улсын санхүүгийн салбарт анх удаа энэхүү сертификатыг авсан нь санхүүгийн салбарын хөгжилд томоохон хувь нэмэр оруулж буй үйл явдал боллоо.
+  “Харилцагчийг Хамгаалах сертификат” нь Банк болон Санхүүгийн Байгууллагууд дараах 8 зарчмын хүрээнд үйл ажиллагаа явуулдаг болохыг баталсан олон улсын стандарт юм.
+  Үүнд:
+  1. Харилцагчдад тохирсон бүтээгдэхүүн үйлчилгээг хүргэх;
+  2. Харилцагчийг хүү эс өрийн дарамтаас хамгаалах;
+  3. Ил тод байдлыг эрхэмлэх;
+  4. Бодит үнэн бодлого баримтлах;
+  5. Харилцагчтай шударга, хүндэтгэлтэй харилцах;
+  6. Харилцагчийн мэдээллийн нууцлал, аюулгүй байдлыг хангах;
+  7. Харилцагчийн гомдлыг хүлээн авч, түргэн шуурхай шийдвэрлэх;
+  8. Зээлсэн болон мөнгөн хөрөнгийн зохистой бодлого баримтлах гэсэн үзүүлэлтүүдийг хангаж байдаг.
+  ЛэндМН нь энэхүү стандартыг заасан бүхий л шалгуурыг ханган ажиллаж байна. Мөн ЛэндМН нь 2024 онд Сингапурын Төв Банк болон Сингапурын Финтек Холбооноос хамтран олгодог “Fintech Excellence Awards”-ийн Financial Inclusion төрөлд шилдэг таван шалгарсан байхаар болж энэхүү “Харилцагчийг Хамгаалах Сертификат”-ыг авсан нь санхүүгийн байгууллагуудын аливаа зөрчил дутагдлыг арилгаж, зах зээлийн жишигт нийцсэн үйлчилгээг үзүүлэх томоохон хөшүүрэг болж байна.
+  ЛэндМН-ийн хамт олон дэлхийн зах зээлд өрсөлдөх, санхүүгийн салбарт бас нэгэн түвшинд амжилт үзүүлсэн энэхүү харилцагчдадаа талархал илэрхийлж байна!
+
+  “ЛэндМН ББСБ” ХХК | 2025 оны улирлын санхүү, үйл ажиллагааны тайлан
+
+  MFR
+  CLIENT PROTECTION CERTIFICATION
+  The MFR Certification Committee assigns to
+  LendMN NBFI JSC, Mongolia
+  The SILVER level of achievement
+
+  The SILVER level of achievement signifies that the certified institution meets all the standards necessary for adequate client protection and demonstrates progress toward advanced practices.
+
+  Milan, February 2023
+
+  Aldo Moauro
+  Managing Director and Head of Verification Committee
+  ```
+
+- Explanation: 
+  The page highlights a significant achievement by LendMN, a Mongolian financial technology company. It has become the first fintech company globally to receive the "Client Protection Certification" from the Micro Finance Rating (MFR) Global Rating Agency. This certification is a testament to LendMN's adherence to international standards in client protection, covering eight key principles such as delivering suitable products, ensuring transparency, and maintaining client confidentiality. The certification is a major milestone for LendMN and the Mongolian financial sector, indicating progress and commitment to high standards. Additionally, LendMN is recognized for its potential in the "Fintech Excellence Awards" for 2024, further solidifying its reputation in the financial industry.
+
+- Numerical Data: 
+  - 8
+  - 2024
+  - 2025
+  - February 2023
+Metadata: {'image_path': 'data/images/2025-Q1-tailan-1/2025-Q1-tailan-1_page_5.png', 'page_number': '5', 'source_type': 'pdf', 'type': 'visual_analysis', 'language': 'mon', 'source': '2025-Q1-tailan-1_page_5', 'source_name': '2025-Q1-tailan-1'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_2025-Q1-tailan-1_page_6
+Source: 2025-Q1-tailan-1_page_6
+Language: mon
+Content:
+- Detected Language: mon
+- Extracted Text: 
+  ```
+  03 Онцлох үйл явдлууд
+
+  Хувьцаа Эзэмшигчдийн Хурал
+
+  “ЛэндМН ББСБ” ХК нь Хувьцаа эзэмшигчдийн ээлжит хурлаа 8 дахь жилдээ амжилттай зохион байгууллаа. “ЛэндМН ББСБ” ХК нь 2024 оны Хувьцаа эзэмшигчдийн ээлжит хурлаа 2023 оны 04 дүгээр сарын 29-ний өдөр Галлериа Улаанбаатар төв (Galleria Ulaanbaatar Center)-ийн 4 давхарт Joy Ballroom Grand Ballroom танхимд амжилттай зохион байгууллаа. 63 хувьцаа эзэмшигч саналын хуудсаа хувьцаа эзэмшигчдийн хурлын бэлтгэл ажлын хүрээнд урьдчилан ирүүлсэн ба хувьцаа эзэмшигчид оролцсоноор тус хурал хуулийн тогтоол болон сэдвээр дараах асуудлуудыг хэлэлцэж баталсан юм.
+
+  Үүнд:
+  - Компанийн 2024 оны үйл ажиллагааны болон санхүүгийн удирдлагын тайлан;
+  - Компанийн 2024 оны үйл ажиллагааны болон санхүүгийн төлөвлөгөө талаарх Төлөөлөн удирдах зөвлөлийн илтгэл;
+  - ТУЗ-ийн 2024 оны үйл ажиллагааны тайлан;
+  - Компанийн ТУЗ-ийн гишүүдийг өөрчлөн сонгох;
+  - ТУЗ-ийн 2025 оны төсөв;
+  - Компанийн Дүрэмд оруулах нэмэлт, өөрчлөлт;
+
+  Ногдол ашиг
+
+  “ЛэндМН ББСБ” ХК (MSELN) нь нээлттэй компани болсон цагаасаа эхлэн 8,000 гаруй хувьцаа эзэмшигчдийнхээ эрх ашгийг хамгаалж, тогтмол ногдол ашиг хуваарилж, мөн нээлттэй, ил тод байдлаар үйл ажиллагаагаа явуулж байна. Түүнчлэн, бид хувьцаа эзэмшигчдийнхээ санал бодлыг чөлөөтэй хүлээн авч, үйл ажиллагаандаа тусгаж, цаашдын зорилго, зорилтоо хэрэгжүүлэхийн төлөө ажиллаж байна.
+
+  “ЛэндМН ББСБ” ХК-ийн Төлөөлөн удирдах зөвлөлийн 2025 оны 02 дугаар сарын 06-ны өдрийн ээлжит хурлаас компанийн 2024 оны жилийн эцсийн цэвэр ашгаас Компанийн хувьцаа эзэмшигчдэд оногдох ногдол ашгийн ногдол ашиг хуваарилах хэмжээг 15 төгрөг байхаар тогтоож, 2024 оны цэвэр ашгийн 30.6% (үүнд нэгж хувьцаанд 15 төгрөг ногдох) хуваарилахаар шийдвэрлэсэн юм. 11,089,525,245 (арван нэгэн тэрбум найман зуун наян есөн сая таван зуун хорин таван мянга хоёр зуун дөчин тав) төгрөгийн ногдол ашгийг хувьцаа эзэмшигчдэд мөнгөн хэлбэрээр хуваарилахаар шийдвэрлэсэн юм.
+
+  Тус ногдол ашгийг Төлөөлөн удирдах зөвлөлийн ээлжит хурал хийсэн өдрөөс хойш 85 (наян таван) хоногийн дотор хувьцаа эзэмшигчдийн бүртгэлийн ардчилсан Монгол Улсын холбогдох хууль тогтоомжийн дагуу 2025 оны 01 дүгээр сарын 26-ны өдөр байхаар тогтоосон бөгөөд нийт 8,575 (найман мянга таван зуун далан тав) хувьцаа эзэмшигчдийн дансанд 2025 оны 04 дүгээр сарын 04-ний өдрөөс “Үнэт цаасны төвлөрсөн хадгаламжийн төв” ХК-аас дамжуулан олгоно. Технологийн дэвшлийг бүрэн нэвтрүүлж, дижитал шилжилтийг амжилттай хэрэгжүүлж буй манай хамт олон цаашид бүхий л үйл ажиллагаандаа хувьцаа эзэмшигчдийн эрх ашгийг нэн тэргүүнд тавин ажиллахыг Та бүхэндээ талархан илэрхийлье.
+
+  “ЛэндМН ББСБ” ХК | 2025 оны I улирлын санхүү, үйл ажиллагааны тайлан
+
+  © lendmn
+
+  “ЛэндМН ББСБ” ХК
+  Нэгж хувьцаанд 15 төгрөгийн ногдол ашиг олголоо
+  ```
+
+- Explanation: 
+  The page is from a business report or newsletter detailing significant events and financial decisions of "ЛэндМН ББСБ" ХК. It highlights the annual shareholders' meeting, where various reports and plans for 2024 were discussed and approved. Key topics included financial and operational plans, board member elections, and amendments to company regulations. The page also discusses the distribution of dividends, specifying the amount per share and the total sum to be distributed among shareholders. The company emphasizes transparency and shareholder engagement in its operations.
+
+- Numerical Data: 
+  - 2024
+  - 2023
+  - 29
+  - 4
+  - 63
+  - 2025
+  - 8,000
+  - 15
+  - 30.6%
+  - 11,089,525,245
+  - 85
+  - 8,575
+  - 04
+  - 01
+Metadata: {'page_number': '6', 'source_type': 'pdf', 'type': 'visual_analysis', 'language': 'mon', 'image_path': 'data/images/2025-Q1-tailan-1/2025-Q1-tailan-1_page_6.png', 'source': '2025-Q1-tailan-1_page_6', 'source_name': '2025-Q1-tailan-1'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_2025-Q1-tailan-1_page_7
+Source: 2025-Q1-tailan-1_page_7
+Language: mon
+Content:
+- Detected Language: mon
+- Extracted Text: 
+  ```
+  lendmn
+
+  ВЕБ САЙТ:
+  www.lend.mn
+
+  УТАС:
+  7707-0101
+
+  И-МЭЙЛ:
+  board@lend.mn
+
+  2025 оны I улирлын санхүү, үйл ажиллагааны тайланг бэлтгэсэн:
+  Маркетингийн хэлтсийн менежер Б.Батбилэг
+  Хянасан: Гүйцэтгэх захирал Ц.Ууганбаяр
+  ```
+- Explanation: 
+  The page appears to be a contact and credits section from a business report or presentation, specifically for "lendmn." It provides the company's website, phone number, and email address. Additionally, it credits the preparation of a financial and operational report for the first quarter of 2025 to a marketing manager named B. Batbileg and notes that it was reviewed by the executive director, Ts. Uuganbayar. The structure is straightforward, with clear headings for contact information and credits.
+- Numerical Data: 
+  - 7707-0101
+  - 2025
+  - I (first quarter)
+Metadata: {'source_type': 'pdf', 'source': '2025-Q1-tailan-1_page_7', 'image_path': 'data/images/2025-Q1-tailan-1/2025-Q1-tailan-1_page_7.png', 'type': 'visual_analysis', 'page_number': '7', 'language': 'mon', 'source_name': '2025-Q1-tailan-1'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_metadata_d6d5f1ad
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2025-Q1-tailan-1: {"pdf_name": "2025-Q1-tailan-1", "total_pages": 7, "file_path": "data/pdfs/2025-Q1-tailan-1.pdf"}
+Metadata: {'source_name': '2025-Q1-tailan-1', 'source_type': 'pdf', 'type': 'metadata'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_metadata_da6ea6f1
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2025-Q1-tailan-1: {"pdf_name": "2025-Q1-tailan-1", "total_pages": 7, "file_path": "data/pdfs/2025-Q1-tailan-1.pdf"}
+Metadata: {'type': 'metadata', 'source_name': '2025-Q1-tailan-1', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_metadata_9acea81e
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2025-Q1-tailan-1: {"pdf_name": "2025-Q1-tailan-1", "total_pages": 7, "file_path": "data/pdfs/2025-Q1-tailan-1.pdf"}
+Metadata: {'source_name': '2025-Q1-tailan-1', 'source_type': 'pdf', 'type': 'metadata'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_metadata_fa695727
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2025-Q1-tailan-1: {"pdf_name": "2025-Q1-tailan-1", "total_pages": 7, "file_path": "data/pdfs/2025-Q1-tailan-1.pdf"}
+Metadata: {'source_name': '2025-Q1-tailan-1', 'type': 'metadata', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_metadata_1bc490a8
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2025-Q1-tailan-1: {"pdf_name": "2025-Q1-tailan-1", "total_pages": 7, "file_path": "data/pdfs/2025-Q1-tailan-1.pdf"}
+Metadata: {'source_name': '2025-Q1-tailan-1', 'type': 'metadata', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_metadata_dab2b24b
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2025-Q1-tailan-1: {"pdf_name": "2025-Q1-tailan-1", "total_pages": 7, "file_path": "data/pdfs/2025-Q1-tailan-1.pdf"}
+Metadata: {'source_name': '2025-Q1-tailan-1', 'type': 'metadata', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_metadata_250fb054
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2025-Q1-tailan-1: {"pdf_name": "2025-Q1-tailan-1", "total_pages": 7, "file_path": "data/pdfs/2025-Q1-tailan-1.pdf"}
+Metadata: {'type': 'metadata', 'source_type': 'pdf', 'source_name': '2025-Q1-tailan-1'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_metadata_fc82b395
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2025-Q1-tailan-1: {"pdf_name": "2025-Q1-tailan-1", "total_pages": 7, "file_path": "data/pdfs/2025-Q1-tailan-1.pdf"}
+Metadata: {'source_name': '2025-Q1-tailan-1', 'type': 'metadata', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_metadata_3f76e83a
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2025-Q1-tailan-1: {"pdf_name": "2025-Q1-tailan-1", "total_pages": 7, "file_path": "data/pdfs/2025-Q1-tailan-1.pdf"}
+Metadata: {'source_name': '2025-Q1-tailan-1', 'type': 'metadata', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_metadata_677ed5f4
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2025-Q1-tailan-1: {"pdf_name": "2025-Q1-tailan-1", "total_pages": 7, "file_path": "data/pdfs/2025-Q1-tailan-1.pdf"}
+Metadata: {'source_name': '2025-Q1-tailan-1', 'source_type': 'pdf', 'type': 'metadata'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_metadata_af106a60
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2025-Q1-tailan-1: {"pdf_name": "2025-Q1-tailan-1", "total_pages": 7, "file_path": "data/pdfs/2025-Q1-tailan-1.pdf"}
+Metadata: {'source_name': '2025-Q1-tailan-1', 'type': 'metadata', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_metadata_acabe2d4
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2025-Q1-tailan-1: {"pdf_name": "2025-Q1-tailan-1", "total_pages": 7, "file_path": "data/pdfs/2025-Q1-tailan-1.pdf"}
+Metadata: {'source_name': '2025-Q1-tailan-1', 'type': 'metadata', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_metadata_05d01f8a
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2025-Q1-tailan-1: {"pdf_name": "2025-Q1-tailan-1", "total_pages": 7, "file_path": "data/pdfs/2025-Q1-tailan-1.pdf"}
+Metadata: {'type': 'metadata', 'source_type': 'pdf', 'source_name': '2025-Q1-tailan-1'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_metadata_d181e19f
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2025-Q1-tailan-1: {"pdf_name": "2025-Q1-tailan-1", "total_pages": 7, "file_path": "data/pdfs/2025-Q1-tailan-1.pdf"}
+Metadata: {'source_name': '2025-Q1-tailan-1', 'type': 'metadata', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_metadata_2993caac
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2025-Q1-tailan-1: {"pdf_name": "2025-Q1-tailan-1", "total_pages": 7, "file_path": "data/pdfs/2025-Q1-tailan-1.pdf"}
+Metadata: {'source_name': '2025-Q1-tailan-1', 'type': 'metadata', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_metadata_ae68fe98
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2025-Q1-tailan-1: {"pdf_name": "2025-Q1-tailan-1", "total_pages": 7, "file_path": "data/pdfs/2025-Q1-tailan-1.pdf"}
+Metadata: {'source_type': 'pdf', 'source_name': '2025-Q1-tailan-1', 'type': 'metadata'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_metadata_d280b96f
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2025-Q1-tailan-1: {"pdf_name": "2025-Q1-tailan-1", "total_pages": 7, "file_path": "data/pdfs/2025-Q1-tailan-1.pdf"}
+Metadata: {'source_type': 'pdf', 'source_name': '2025-Q1-tailan-1', 'type': 'metadata'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_metadata_9141958e
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2025-Q1-tailan-1: {"pdf_name": "2025-Q1-tailan-1", "total_pages": 7, "file_path": "data/pdfs/2025-Q1-tailan-1.pdf"}
+Metadata: {'source_name': '2025-Q1-tailan-1', 'source_type': 'pdf', 'type': 'metadata'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_metadata_49faf3b1
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2025-Q1-tailan-1: {"pdf_name": "2025-Q1-tailan-1", "total_pages": 7, "file_path": "data/pdfs/2025-Q1-tailan-1.pdf"}
+Metadata: {'source_type': 'pdf', 'source_name': '2025-Q1-tailan-1', 'type': 'metadata'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_metadata_faa60cce
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2025-Q1-tailan-1: {"pdf_name": "2025-Q1-tailan-1", "total_pages": 7, "file_path": "data/pdfs/2025-Q1-tailan-1.pdf"}
+Metadata: {'type': 'metadata', 'source_name': '2025-Q1-tailan-1', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_metadata_f9160b05
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2025-Q1-tailan-1: {"pdf_name": "2025-Q1-tailan-1", "total_pages": 7, "file_path": "data/pdfs/2025-Q1-tailan-1.pdf"}
+Metadata: {'source_name': '2025-Q1-tailan-1', 'source_type': 'pdf', 'type': 'metadata'}
+--------------------------------------------------
+ID: 2025-Q1-tailan-1_metadata_f45ec94a
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for 2025-Q1-tailan-1: {"pdf_name": "2025-Q1-tailan-1", "total_pages": 7, "file_path": "data/pdfs/2025-Q1-tailan-1.pdf"}
+Metadata: {'source_type': 'pdf', 'type': 'metadata', 'source_name': '2025-Q1-tailan-1'}
+--------------------------------------------------
+
+=== Data for File: Q2-tailan-2025-white_Final-07.21 ===
+
+Visual Analyses:
+ID: Q2-tailan-2025-white_Final-07.21_metadata_af110124
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Q2-tailan-2025-white_Final-07.21: {"pdf_name": "Q2-tailan-2025-white_Final-07.21", "total_pages": 11, "file_path": "data/pdfs/Q2-tailan-2025-white_Final-07.21.pdf"}
+Metadata: {'source_type': 'pdf', 'type': 'metadata', 'source_name': 'Q2-tailan-2025-white_Final-07.21'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_Q2-tailan-2025-white_Final-07.21_page_1
+Source: Q2-tailan-2025-white_Final-07.21_page_1
+Language: mon
+Content:
+- Detected Language: mon
+- Extracted Text: 
+  ```
+  lendmn
+  Хамтдаа Асаая
+
+  2025
+  Эхний хагас
+  жилийн тайлан
+  ```
+- Explanation: 
+  The page appears to be the cover of a business report for the first half of the year 2025. It features the logo and name of a company, "lendmn," along with a slogan "Хамтдаа Асаая" which translates to "Let's Light Up Together." The main focus is on the year "2025," indicating the period covered by the report. The design includes a geometric pattern with a modern aesthetic, suggesting a professional and forward-thinking image.
+
+- Numerical Data: 
+  - 2025
+Metadata: {'source_name': 'Q2-tailan-2025-white_Final-07.21', 'type': 'visual_analysis', 'language': 'mon', 'page_number': '1', 'image_path': 'data/images/Q2-tailan-2025-white_Final-07.21/Q2-tailan-2025-white_Final-07.21_page_1.png', 'source_type': 'pdf', 'source': 'Q2-tailan-2025-white_Final-07.21_page_1'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_Q2-tailan-2025-white_Final-07.21_page_2
+Source: Q2-tailan-2025-white_Final-07.21_page_2
+Language: mon
+Content:
+- Detected Language: mon
+- Extracted Text: 
+  ```
+  Агуулга
+
+  01 Бизнесийн үйл ажиллагаа
+
+  02 Санхүүгийн үзүүлэлтүүд
+
+  03 Онцлох үйл явдлууд
+
+  04 Эрсдэлийн удирдлага
+
+  05 Компанийн засаглал
+  ```
+- Explanation: 
+  The page appears to be a table of contents from a business-related document. It lists five main sections, each numbered and labeled in Mongolian. The sections likely cover different aspects of a company's operations and governance. The design uses a modern layout with orange and black accents, suggesting a professional and organized presentation.
+
+- Numerical Data: 
+  - 01
+  - 02
+  - 03
+  - 04
+  - 05
+Metadata: {'source_type': 'pdf', 'page_number': '2', 'language': 'mon', 'image_path': 'data/images/Q2-tailan-2025-white_Final-07.21/Q2-tailan-2025-white_Final-07.21_page_2.png', 'source': 'Q2-tailan-2025-white_Final-07.21_page_2', 'type': 'visual_analysis', 'source_name': 'Q2-tailan-2025-white_Final-07.21'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_Q2-tailan-2025-white_Final-07.21_page_3
+Source: Q2-tailan-2025-white_Final-07.21_page_3
+Language: mon
+Content:
+- Detected Language: mon
+- Extracted Text: 
+  ```
+  01 Бизнесийн үйл ажиллагаа
+
+  БИЗНЕСИЙН ҮЙЛ АЖИЛЛАГАА
+
+  “ЛэндМН ББСБ” ХХК (цаашид “ЛэндМН” гэх) нь технологид дамжуулан санхүүгийн үйлчилгээг хүргэх замаар сайжруулж зорилготой үйл ажиллагаагаа явуулдаг финтек байгууллага билээ. Энэхүү зорилгын хүрээнд бид Монгол Улсын эдийн засгийн тулгуур хүч болсон бичил, жижиг, дунд бизнес эрхлэгчдэд (цаашид “БЖДБ” гэж нэрлэнэ) хямд өртөгтэй, хурдтай санхүүгийн эх үүсвэрийг бүрдүүлэхээр ажиллаж байна. Тэдгээр бизнесүүд нь санхүүгийн хүртээмжтэй, үйлчилгээг бүрэн хамруулсан хурдацтай санхүүжилт авах боломжийг хангадаггүй тул, илүү хялбаршуулсан шийдлүүдийг бий болгох нь бидний зорилго юм. Үүний хүрээнд бид 2025 оны эхний хагас жилд дараах ажлуудыг хийж гүйцэтгэсэн:
+
+  FlexiBusiness - Санхүүгийн бүтээгдэхүүний нэхэмжлэх үйл ажиллагааг, хурдтайгаар, хялбаршуулж, хэмнэлттэйгээр төлдөг байна.
+  Энэхүү бүтээгдэхүүн нь Монголд анх удаа барьцаа хөрөнгө шаардахгүйгээр гаргасан дамжуулан банк мөнгөний зах зээлд оролцох боломжийг бий болгосон билээ. Энэ бүтээгдэхүүнээр 2024 оны зах зээлд нэвтрүүлэхэд зохих ЛэндМН нь харилцагчдын хэрэгцээ шаардлагад тулгуурлан бүтээгдэхүүний шийдлүүд гаргаж, зээлийн эрсдэлийг тооцоолох, зээл авах аргыг сайжруулж, хялбаршуулсан байна. Зээлийн эрсдэл нь 5 сар хүртэл хугацаанд мөнгөөр богино хугацаанд олгох боломжийг санхүүгийн хүртээмжийг нэмэгдүүлсэн. Хиймэл оюун ухааны судалгааны хүрээнд, Know Your Business моделийн тусламжтайгаар харилцагчийн мэдээллийг цуглуулан боловсруулж, бизнесийн онцлогт тулгуурласан зээлийн чадварыг тооцоолох болсон. Ингэснээр бид илүү оновчтой шийдвэр гаргаж, илүү олон бизнес эрхлэгчдэд хүрч ажиллахаар зорьж байна.
+
+  LendDy - Санхүүгийн хүртээмжийг нэмэгдүүлэх шинэ платформыг нэвтрүүлээд байна.
+  Монгол Улсад нийт аж ахуйн нэгжийн 93 хувийг бүрдүүлдэг БЖДБ нь эдийн засгийн тогтвортой байдал, хөдлөмөр эрхлэлтэнд чухал хэсэг юм. Иймээс ЛэндМН нь худалдаа, үйлдвэрлэлийн чиглэлээр үйл ажиллагаа явуулдаг БЖДБ эрхлэгчдэд тулгамдаж буй асуудлууд, тэдгээрийн шийдлүүд боломжийг ашиглан шинэчлэн дээрх санхүүгийн давуугшилт үйлчилгээг LendDy-г нэвтрүүллээ.
+
+  LendDy нь бизнесүүдэд:
+  - Борлуулалтын эрчмийг нэмэгдүүлэх
+  - Эргэлтийн хөрөнгөө оновчтой удирдах
+  - Төлбөр тооцоолох шинэ гүйцэтгэлийн боломжийг олгох багц юм.
+
+  Харин харилцагч талд:
+  Өдөр тутмын бараа үйлчилгээг худалдаан авсан харилцагчид, зээлийн 30 хоногт хүүгүй, хугацаа уртасгасан Санхүүгийн үйлчилгээг авах боломжийг олгож, зах зээлд авалт хийх үйл явцыг хялбаршуулсан байна. LendDy-ийг ашиглан бизнес эрхлэгчид нь өөрийн бизнес эрх шаардлагатай үедээ зээлийн LendMN аппликейшнээр ашиглан цахим гарцаа байгууллага бүртгүүлж хийг, төлбөрөө хялбаршуулан авах, ажиглалтанд удирдах зэрэг бүх процессыг нэг дор шийдвэрлэх юм. LendDy үйлчилгээг зах зээлд нэвтрүүлснээс хойш ердөө хойрхон сарын хугацаа өнгөрөөд байхад хэдийн 3 нь худалдан нийт 1,500 бизнес эрхлэгч шинээр бүртгүүлж, хамтын ажиллагаагаа амжилттай эхлүүлээд байна.
+
+  Бидний зүгээс FlexiBusiness, LendDy болон бусад бүтээгдэхүүн, үйлчилгээгээ улам боловсронгуй болгож, бизнес эрхлэгчдэд санхүүгийн шинэ гарц нээхээр зорин ажиллаж байна. Цаашид ч бид бичил, жижиг, дунд бизнесүүдийн сонголт хуви нэмэр оруулан, Монголын санхүүгийн салбарт технологид суурилсан дэвшилтэт шийдлүүдийг түгээсээр байх болно.
+
+  ЗЭЭЛИЙН ҮЙЛ АЖИЛЛАГАА
+
+  2025 оны эхний хагас жилийн үзүүлэлтүүдийг өмнөх оны мөн үетэй харьцуулсан байдал
+
+  Гэрээт харилцагчдын тоо
+  /Есөн дүнгээр, мянган харилцагч/
+
+  +11.7%
+
+  2023H1 200.0
+  2024H1 214.5
+  2025H1 239.7
+
+  Зээлийн багц
+  /Тэрбум төгрөг/
+
+  +55.1%
+
+  2023H1 86.8
+  2024H1 180.1
+  2025H1 279.3
+
+  “ЛэндМН ББСБ” ХХК-ийн 2025 оны эхний хагас жилийн тайлан
+  Хамтдаа Асояа
+  ```
+
+- Explanation: 
+  The document is a business report from "LendMN BBSB" LLC, focusing on their financial services and technological advancements aimed at supporting micro, small, and medium enterprises (MSMEs) in Mongolia. The report outlines the company's initiatives to provide affordable and rapid financial resources to these businesses, which are crucial to Mongolia's economy. Key elements include the introduction of FlexiBusiness, a financial product that simplifies
+Metadata: {'language': 'mon', 'source_name': 'Q2-tailan-2025-white_Final-07.21', 'page_number': '3', 'source': 'Q2-tailan-2025-white_Final-07.21_page_3', 'image_path': 'data/images/Q2-tailan-2025-white_Final-07.21/Q2-tailan-2025-white_Final-07.21_page_3.png', 'type': 'visual_analysis', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_Q2-tailan-2025-white_Final-07.21_page_4
+Source: Q2-tailan-2025-white_Final-07.21_page_4
+Language: mon
+Content:
+- Detected Language: mon
+- Extracted Text: 
+  ```
+  02 Санхүү үйл ажиллагааны тайлан
+
+  САНХҮҮГИЙН ҮЗҮҮЛЭЛТҮҮД
+
+  Санхүүгийн голлох үзүүлэлтүүдийг өмнөх оны мөн үетэй харьцуулсан байдал
+
+  Нийт орлого /Тэрбум төгрөг/
+  +56.4%
+  20.7 37.6 62.1
+  2023H1 2024H1 2025H1
+
+  Цэвэр ашиг /Тэрбум төгрөг/
+  +18.7%
+  8.3 17.1 20.3
+  2023H1 2024H1 2025H1
+
+  Нийт актив, пассив /Тэрбум төгрөг/
+  Эздийн өмч Өр төлбөр
+  +44.8%
+  93.8 147.3 209.3
+  31.2 53.9 82.1
+  2023H1 2024H1 2025H1
+
+  Эздийн өмчийн өгөөж /ROE/
+  49.2% 67.1% 54.4%
+  2023H1 2024H1 2025H1
+
+  Орлого, үр дүнгийн хураангуй тайлан /Аудитаар баталгаажаагүй/
+  Орлого, үр дүнгийн хураангуй тайлан /Тэрбум төгрөг/
+  2023H1 2024H1 2025H1
+  Нийт орлого 20.7 37.6 62.1
+  Хүүгийн зардал (4.1) (7.1) (9.9)
+  Цэвэр орлого 16.5 30.5 52.2
+  Үйл ажиллагаатай холбоотой зардал (12.3) (25.3) (26.9)
+  Зээлийн болзошгүй эрсдэлийн нөөцийн зардал (2.9) (3.5) (4.6)
+  Үйл ажиллагааны цэвэр орлого 1.3 1.7 20.7
+  Удирдлагын болон ҮА-ны зардал (0.5) (0.6) (0.6)
+  Татварын өмнөх ашиг 0.8 1.1 20.1
+  Татварын зардал (0.2) (0.3) (0.2)
+  Цэвэр ашиг 0.6 0.8 20.3
+
+  Санхүү байдлын тайлан /Аудитаар баталгаажаагүй/
+  Хөрөнгө /Тэрбум төгрөг/
+  2023H1 2024H1 2025H1
+  Мөнгө болон түүнтэй адилтгах хөрөнгө 0.8 1.8 2.9
+  Зээлийн багц (цэвэр) 82.3 173.0 269.1
+  Бусад хөрөнгө 2.9 7.5 9.6
+  Үндсэн хөрөнгө 0.5 0.6 0.7
+  Бусад бус хөрөнгө 7.3 9.3 10.7
+  Нийт хөрөнгө 93.8 201.2 291.4
+
+  Өр төлбөр болон эздийн өмч /Тэрбум төгрөг/
+  Өр төлбөр 62.6 147.3 209.3
+  Өсвөр 1.3 1.8 2.1
+  Бусад өглөг 0.3 0.5 0.7
+  Хоёрдогч өглөг 0.5 0.6 0.7
+  Эздийн өмчийн дүн 31.2 53.9 82.1
+  Хувьцаат капитал 31.2 45.4 82.1
+  Хуримтлагдсан ашиг 0.0 8.5 0.0
+  Нийт өр төлбөр болон эздийн өмч 93.8 201.2 291.4
+
+  2025 оны эхний хагас жилийн байдлаар зээлийн багцын зээлж чанаргүй зээлийн хувь өмнөх оны мөн үес 2.2 хувь хувиар өссөн 5.8 хувь хүрсэн ба зээлийн эрсдэлийн сангийн нөлөөгөөр 20.6 тэрбум төгрөг буюу зээлийн эрсдэлийн сангийн хүрээнд 128.1 хувьд хүрсэн байна.
+
+  "ЛэндМН ББСБ" ХК-ийн 2025 оны эхний хагас жилийн тайлан
+  Хяналт Аюул
+  ```
+
+- Explanation: 
+  The page is a financial performance report for the first half of 2025, comparing key financial metrics with previous periods. It includes graphs and tables showing total income, net profit, total assets and liabilities, and return on equity (ROE). The report provides a summary of income and expenses, highlighting net income and operational costs. It also details the financial position, including assets, liabilities, and equity. The document concludes with a note on the quality of the loan portfolio and risk provisions.
+
+- Numerical Data: 
+  - 56.4%
+  - 20.7
+  - 37.6
+  - 62.1
+  - 18.7%
+  - 8.3
+  - 17.1
+  - 20.3
+  - 44.8%
+  - 93.8
+  - 147.3
+  - 209.3
+  - 31.2
+  - 53.9
+  - 82.1
+  - 49.2%
+  - 67.1%
+  - 54.4%
+  - 2023H1
+  - 2024H1
+  - 2025H1
+  - 4.1
+  - 7.1
+  - 9.9
+  - 16.5
+  - 30.5
+  - 52.2
+  - 12.3
+  - 25.3
+  - 26.9
+  - 2.9
+  - 3.5
+  - 4.6
+  - 1.3
+  - 1.7
+  - 0.5
+  - 0.6
+  - 0.8
+  - 1.1
+  - 0.2
+  - 0.3
+Metadata: {'source': 'Q2-tailan-2025-white_Final-07.21_page_4', 'type': 'visual_analysis', 'source_type': 'pdf', 'image_path': 'data/images/Q2-tailan-2025-white_Final-07.21/Q2-tailan-2025-white_Final-07.21_page_4.png', 'page_number': '4', 'language': 'mon', 'source_name': 'Q2-tailan-2025-white_Final-07.21'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_metadata_3aa05343
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Q2-tailan-2025-white_Final-07.21: {"pdf_name": "Q2-tailan-2025-white_Final-07.21", "total_pages": 11, "file_path": "data/pdfs/Q2-tailan-2025-white_Final-07.21.pdf"}
+Metadata: {'type': 'metadata', 'source_type': 'pdf', 'source_name': 'Q2-tailan-2025-white_Final-07.21'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_metadata_d63b26c7
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Q2-tailan-2025-white_Final-07.21: {"pdf_name": "Q2-tailan-2025-white_Final-07.21", "total_pages": 11, "file_path": "data/pdfs/Q2-tailan-2025-white_Final-07.21.pdf"}
+Metadata: {'source_name': 'Q2-tailan-2025-white_Final-07.21', 'type': 'metadata', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_Q2-tailan-2025-white_Final-07.21_page_6
+Source: Q2-tailan-2025-white_Final-07.21_page_6
+Language: mon
+Content:
+- Detected Language: mon
+- Extracted Text: 
+  ```
+  03 Онцлох үйл явдлууд
+
+  2025 ОНЫ ХАГАС ЖИЛИЙН ОНЦЛОХ ҮЙЛ ЯВДЛУУД
+
+  Азийн санхүүгийн байгууллагуудын хамгийн нэр хүндтэй форум болох AFlForum - Asia Financial Institutions Forum 2025 арга хэмжээнд ЛэндМН нь Бээжингийн Ивээн Тэтгэгчээр оролцоно. Энэхүү арга хэмжээ нь санхүүгийн салбарын тэргүүлэгчид, хөрөнгө оруулагчдыг нэгтгэж, тогтвортой санхүү болон инновацийн ирээдүйг хамтдаа хэлэлцдэг чухал ач холбогдолтой юм.
+
+  Тайландын Бангкок хотод зохион байгуулагдсан дэлхийн санхүү, технологийн хамгийн том арга хэмжээ болох Money 20/20 Asia форумд Монгол улсаас анх удаа ЛэндМН-ийн Дэд захирал Д.Баясгалан илтгэл тавьж, Монголын бичил, жижиг, дунд бизнес эрхлэгчдийн (МСБЭ) санхүүгийн хүртээмжийг хэрхэн нэмэгдүүлэх, бүрэн цахимд B2B шийдлийг танилцууллаа.
+
+  ЛэндМН нь Олон Улсын Үнэлгээний MFR Global Rating Agency (MFR) с "Харилцагчийн Хамгаалах Сертификат" авсан дэлхийн анхны финтек компани боллоо. MFR Олон Улсын Үнэлгээний Байгууллага нь санхүүгийн байгууллагуудад олон улсын стандартын дагуу үнэлгээ өгдөг бөгөөд ЛэндМН нь энэхүү эрхэм шагналыг хүртсэнээр, Монгол, Хятад улсын финтекийн салбарт анхдагч болж, цаашид илүү тогтвортой, шинэ үйлчилгээ тогтоогоод байна.
+
+  ЛэндМН нь 2024 оны Хувьцаа эзэмшигчдийн ээлжит хурлаа амжилттай зохион байгуулж, Хурлын нийт саналын эрхтэй хувьцаа эзэмшигчдийн 81.64% нь оролцож, 6 асуудлыг хэлэлцэж, шийдвэрлэлээ.
+
+  НОГДОЛ АШИГ
+
+  "ЛэндМН ББСБ" ХХК 2024 оны ногдол ашиг: "Нягт Төлөвлөх Төв" ХХК-д байршууллаа
+
+  ЛэндМН-ийн Төлөөлөн Удирдах Зөвлөлийн 2025 оны 04 дүгээр сарын 06-ны өдрийн хурлын шийдвэрээр 1 төгрөг бүр Компанийн 2024 оны цэвэр ашгийн 30.26%, нийт 1,085,525,745 төгрөгийн ногдол ашгийг олгохоо шийдвэрлэсний дагуу 2025 оны 04 дүгээр сарын 04-ний өдөр "Нягт Төлөвлөх Төв" ХХК-д байршууллаа.
+
+  Монголын Эдийн засгийн гол тулгуур болсон Бичил, жижиг, дунд бизнес (БЖДБ) эрхлэгчдийн амжилт зорилгоор ЛэндМН нь Монголын Бизнесийн Зөвлөлтэй хамтран Бичил, Жижиг, Дунд Бизнесийн эрхлэгчдийн "WE" арга хэмжээг зохион байгуулж, БЖДБ-ийн санхүүгийн хүртээмжийг нэмэгдүүлэх, өсөлт хийгээд нь дэмжлэг үзүүлэх талаар хэлэлцүүлэг өрнүүллээ.
+
+  ЛэндМН нь санхүү, бизнесийн салбарыг боловсронгуй болгох СЭЗИС-тэй хамтран санхүүгийн сургалт, судалгаа, маркетингийн судалгаа, хөтөлбөр, дэмжлэг үзүүлэх, хамтран ажиллахаар боллоо.
+
+  Монгол Улс "Эмэгтэй бизнес эрхлэгчдийн санхүүгийн код" хөтөлбөрийг үндэсний хэмжээнд хэрэгжүүлэх ажлыг эхлүүлээд байна. Энэхүү хөтөлбөр нь эмэгтэйчүүдийн санхүүгийн хүртээмжийг сайжруулахад чиглэсэн бөгөөд ЛэндМН тус ажлын багийн нэгээр нэгдэж байна.
+
+  lendmn
+
+  Empowering MSMEs Community, Finance & Innovation
+
+  10 "ЛэндМН ББСБ" ХХК-ийн 2025 оны эхний хагас жилийн тайлан
+
+  Хомтод Асосиа 11
+  ```
+
+- Explanation: 
+  The page is a summary of significant events and achievements for the first half of 2025 related to LendMN, a financial institution. It highlights LendMN's participation in major financial forums, such as the Asia Financial Institutions Forum 2025 and Money 20/20 Asia, where they presented on enhancing financial access for micro, small, and medium enterprises (MSMEs) in Mongolia. The document also mentions LendMN's receipt of the "Client Protection Certification" from MFR Global Rating Agency, marking it as the first fintech company globally to achieve this. Additionally, it covers the successful organization of LendMN's 2024 shareholder meeting, where 81.64% of shareholders participated, and decisions regarding dividend distribution were made. The page also discusses collaborations with the Mongolian Business Council and the National University of Economics to support MSMEs and improve financial literacy. Lastly, it introduces a national program to enhance financial access for women entrepreneurs, with LendMN as a participant.
+
+- Numerical Data: 
+  - 2025
+  - 2024
+  - 81.64%
+  - 6
+  - 1
+  - 30.26%
+  - 1,085,525,745
+  - 04
+  - 06
+  - 10
+  - 11
+Metadata: {'image_path': 'data/images/Q2-tailan-2025-white_Final-07.21/Q2-tailan-2025-white_Final-07.21_page_6.png', 'source_type': 'pdf', 'type': 'visual_analysis', 'language': 'mon', 'source': 'Q2-tailan-2025-white_Final-07.21_page_6', 'page_number': '6', 'source_name': 'Q2-tailan-2025-white_Final-07.21'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_Q2-tailan-2025-white_Final-07.21_page_7
+Source: Q2-tailan-2025-white_Final-07.21_page_7
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text: 
+  ```
+  04 Эрсдэлийн удирдлага
+
+  ЭРСДЭЛИЙН УДИРДЛАГА
+
+  “ЛэндМН ББСБ” ХХК нь Монголын Хөрөнгийн Биржид бүртгэлтэй нээлттэй компанийн хувьд хувьцаа эзэмшигч, хөрөнгө оруулагч, харилцагчид болон хамтран ажиллагч нарынхаа итгэлийг хүлээж бизнесийн ёс зүйг эрхэмлэн ажиллаж, сайн засаглалын хүрээнд Эрсдэлийн Удирдлагын тогтолцоо бүрдүүлэн ажиллаж байна.
+
+  Манай компанийн хувьд ОУ-ын стандартын дагуу эрсдэлийн “Хамгаалалтын гурван бүс”-ийг тодорхойлон компанийн бүх нэгжийн үйл ажиллагаанд хэрэгжүүлэн ажиллаж байна.
+
+  Хамгаалалтын 1-р бүсэд: Бизнесийн болон төрлүүд амжилт үзүүлэх нэн эрсдэлийг хязгаарлах зорилгоор эрсдэлийн удирдлагыг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлбөрийг хэрэгжүүлж, эрсдэлийн хяналтын хөтөлб
+Metadata: {'source': 'Q2-tailan-2025-white_Final-07.21_page_7', 'source_type': 'pdf', 'type': 'visual_analysis', 'language': 'mon', 'source_name': 'Q2-tailan-2025-white_Final-07.21', 'image_path': 'data/images/Q2-tailan-2025-white_Final-07.21/Q2-tailan-2025-white_Final-07.21_page_7.png', 'page_number': '7'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_Q2-tailan-2025-white_Final-07.21_page_8
+Source: Q2-tailan-2025-white_Final-07.21_page_8
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text: 
+
+```
+05 Компанийн засаглал
+
+КОМПАНИЙН ЕРӨНХИЙ МЭДЭЭЛЭЛ
+
+Үүсгэнэсэн нэр: "ЛэндМН ББСБ"
+Хэлбэр: Хязгаарлагдмал хариуцлагатай компани
+Регистрийн дугаар: 5039754
+Бүртгэлийн байгууллага хяналтын газар: Монголын хөрөнгийн бирж
+Үйл ажиллагааны чиглэл: Зээлийн үйл ажиллагаа
+МХБ-ийн хувьцааны бүртгэлийн анги шалгалт: I ангилал
+Гаргасан нийт хувьцааны тоо ширхэг: 800,000,000
+Нийт үйлчлүүлэгчдийн тоо: 8,975 2023.03.31-ний өдрөөр (нэг үйлчлүүлэгч - нэг данс)
+Үйл ажиллагааны код: LEND
+
+КОМПАНИЙН ЗАСАГЛАЛ
+
+ЛэндМН нь Монгол Улсын хууль тогтоомж болон Монголын хөрөнгийн биржийн I ангилалд бүртгэлтэй, хязгаарлагдмал хариуцлагатай компани болохынхоо хувьд Санхүүгийн зохицуулах хороо, Монголын хөрөнгийн бирж болон бусад зохицуулах байгууллагын баталсан холбогдох дүрэм, журам, засаглалын кодексийг үйл ажиллагаандаа мөрдөн ажилладаг.
+
+ЛэндМН нь засаглал, засаглалын тогтолцоо бэхжүүлэх, үйл ажиллагааны нээлттэй, ил тод байдлыг хангах оновчтой арга хэмжээ, Уриалга, Уриалга засаглалын хүрээнд зохион байгуулж, хэрэгжүүлж байна. Төлөөлөн удирдах зөвлөл, гүйцэтгэх удирдлага болон бусад оролцогч талуудын хооронд ил тод харилцааг тогтоох, эрх ашгийг хамгаалах, оролцогч талуудтай үр ашигтай хамтран ажиллах, санхүүгийн болон санхүүгийн бус мэдээллийг бүрэн бодитоор, үнэн зөвөөр ил тод, нээлттэй хүргэх зорилгоор үйл ажиллагааг бие даан зохицуулж ажиллаж байна.
+
+Төлөвлөлт, 2024 оны жилийн эцсийн тайланг 2025 оны 04 дүгээр сарын 11-ний өдөр, 2024 оны Байгаль орчин, Нийгэм засаглалын тайланг 2025 оны 04 дүгээр сарын 11-ний өдөр тус тус гаргах болно. Нийтэд мэдэгдсэнээр Компанийн бизнес, засаглалын байдалд сүүлийн жилүүдэд гарсан өөрчлөлт болон хийгдсэн төлөвлөлт тайланг нийтэд хүргэх болно.
+
+Төлөөлөн удирдах зөвлөл, түүний үйл ажиллагаа
+
+Төлөөлөн Удирдах Зөвлөл (цаашид "ТУЗ") нь ЛэндМН-ийн үйл ажиллагааг бэхжүүлэх, зохистой хяналт тавих, засаглалын тогтолцоог үнэлэх, хяналт тавих үүрэгтэй. ТУЗ нь ЛэндМН-ийн үйл ажиллагааг хянах, хяналт тавихын зэрэгцээ гүйцэтгэх удирдлага, захирлуудын үйл ажиллагааг үр ашигтай, үр дүнтэй удирдаж, шаардлагатай чиглэлийг өгч ажилладаг.
+
+2025 оны 03 дугаар сарын 29-ний өдрийн ЛэндМН-ийн хувьцаа эзэмшигчдийн хурлаас ТУЗ-ийн ердийн 6, хараат бус 3 гишүүнийг улируулан сонгосон. ТУЗ-ийн ердийн 6 гишүүнд Монгол Улсын иргэн О.Болдбаатар, Ш.Цэнгүүн, Б.Хос-Эрдэнэ, Ц.Одмаа, С.Жамбал, Я.Юндэн нарын нэрийг санал болгосон бол ТУЗ-ийн хараат бус 3 гишүүнээр Монгол Улсын иргэн Ж.Наранцэцэг, Б.Соронзон, Г.Энхжаргал нарын нэрийг санал болгосон болно. Ийнхүү ТУЗ-ийн 2025 оны 05 дугаар сарын 09-ний өдрийн ээлжит хурлаар ТУЗ-ийн дарга, нарийн бичгийн даргыг тус тус улируулан сонгосон. ТУЗ-ийн 2025 оны ээлжит хурлын өдөр, цагийн хуваарь болон бусад хуралдааны талаар мэдээллийг компанийн албан ёсны цахим хуудсаар нийтэлсэн болно.
+
+2025 онд ТУЗ нь жилд 2 удаа хуралдах бөгөөд, уг хурал нь санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал хураах, санал өгөх, санал
+Metadata: {'language': 'mon', 'page_number': '8', 'source': 'Q2-tailan-2025-white_Final-07.21_page_8', 'source_name': 'Q2-tailan-2025-white_Final-07.21', 'type': 'visual_analysis', 'image_path': 'data/images/Q2-tailan-2025-white_Final-07.21/Q2-tailan-2025-white_Final-07.21_page_8.png', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_Q2-tailan-2025-white_Final-07.21_page_9
+Source: Q2-tailan-2025-white_Final-07.21_page_9
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text: 
+  ```
+  05 Компанийн засаглал
+
+  ТУЗ-ийн дэргэдэх хороодын үйл ажиллагаа
+
+  Эрдсэн ба БОНБ-ын удирдлагын хороо (цаашид “ЭБОНХ”)
+  ЭБОНХ нь 2025 оны эхний хагас жилд нийт 2 удаа хуралдаж, ЛэндМН-ийн бизнесийн эрсдэл, эрсдэл болон их үүсвэрийн үйл ажиллагааны бодлогыг тодорхойлж, үүнтэй холбоотой эрсдэлийн оновчтой удирдлагыг чиглүүлэхэд дэмжлэг үзүүлж, хэрэгжилтийг тухайн бүр танилцан хэрэгжилтэд хяналт тавьж болон БОНБ-ын төлөвлөгөөний хэрэгжилтэд хяналт тавих чиг үүргийг хэрэгжүүлэн ажилласан байна.
+  ЭБОНХ-ын бүрэлдэхүүн: ЭБОНХ-ын даргаар ТУЗ-ийн хараат бус гишүүн С.Нэргүй, гишүүдээр ТУЗ-ийн ерөнхий гишүүн Б.Хос-Эрдэнэ, Ц.Ууганбаяр, К.Мадоно, С.Энх-Амгалан нар ажиллаж байна.
+
+  Аудитын хороо
+  Аудитын хороо нь 2025 оны эхний хагас жилд нийт 2 удаа хуралдаж, ЛэндМН-ийн дотоод хяналтын тогтолцооны хэрэгжилтэд хяналт тавьж, дотоод аудиторт томилогдсон холбогдох дүнгүүд гаргаж, дотоод аудиторт үйл ажиллагааны тайлантай танилцаж, шаардлагатай санал, зөвлөмжийг холбогдох албан тушаалтанд болон ЛэндМН-ийн Гүйцэтгэх захиралд өгч ажилласан байна. ЛэндМН-ийн зүгээс хийгдсэн сонирхлын зөрчилтэй хэлцлийн талаар дүнг гаргаж танилцаж, Компанийн үйл ажиллагааг нээлттэй, ил тод байлгах, мэдээлэл мэдлэгийг тухайн бүр олон нийтэд хүргэх ёс зүйн хяналт тавьж ажилласан байна.
+  Аудитын хорооны бүрэлдэхүүн: Аудитын хорооны даргаар ТУЗ-ийн Хараат бус гишүүн Ж.Жаргалсүрэн, гишүүдээр ТУЗ-ийн Хараат бус гишүүн С.Боргил, ТУЗ-ийн Ерөнхий гишүүн Ц.Одмаа нар ажиллаж байна.
+
+  Засаглал, нэр дэвшүүлэх хороо (цаашид “ЗНДХ”)
+  ЗНДХ нь 2025 оны эхний хагас жилд нийт 2 удаа хуралдаж, ТУЗ-ийн гишүүн болон Гүйцэтгэх захирлыг нэр дэвшүүлэх тавигдах шаардлагыг тодорхойлж, шаардлага хангаж байгаа эсэхэд үнэлэлт дүгнэлт өгч, ердийн болон хараат бус гишүүдийг улируулан сонгох болон ТУЗ-ийн 2025 оны тайлангийн Компанийн Хувьцаа Эзэмшигчдийн Ээлжит Хурлыг танилцуулах үйл ажиллагаанд тухайн хорооны чиг үүргийг хэрэгжүүлэн ажилласан байна.
+  ЗНДХ-ын бүрэлдэхүүн: ЗНДХ-ын даргаар ТУЗ-ийн Хараат бус гишүүн С.Боргил, гишүүдээр ТУЗ-ийн Хараат бус гишүүн Ж.Жаргалсүрэн, ТУЗ-ийн Ерөнхий гишүүн О.Болдбаатар нар ажиллаж байна.
+
+  Цалин, урамшууллын хороо (цаашид “ЦУХ”)
+  ЦУХ нь 2025 оны эхний хагас жилд нийт 2 удаа хуралдаж, ТУЗ-ийн гишүүн болон Гүйцэтгэх захирлын цалин урамшууллын талаар баримтлах бодлогыг баталж, цалин урамшууллын дээд хязгаарыг тогтоон, тохирсон хэмжээнд батлан гаргаж хэрэгжилтэд хяналт тавих чиг үүргийг хэрэгжүүлэн ажилласан байна.
+  ЦУХ-ын бүрэлдэхүүн: ЦУХ-ын даргаар ТУЗ-ийн Хараат бус гишүүн С.Нэргүй, гишүүдээр ТУЗ-ийн Хараат бус гишүүн С.Боргил, ТУЗ-ийн ерөнхий гишүүн Ц.Одмаа нар ажиллаж байна.
+
+  Төлөөлөн удирдах зөвлөл (цаашид “ТУЗ”)-ийн бүрэлдэхүүн
+
+  О.Болдбаатар
+  ТУЗ-ийн дарга
+  IPO зөвлөх үйлчилгээ, ПрайсуотерхаусКуперс, Монгол Улс, ТУЗ-ийн дарга
+  “ЛэндМН ББСБ” ХК, ТУЗ-ийн дарга
+  “Ард Даатгал” ХК, ТУЗ-ийн дарга
+  “Ард Кредит ББСБ” ХК, ТУЗ-ийн дарга
+
+  Ц.Ууганбаяр
+  ТУЗ-ийн ерөнхий гишүүн
+  “Ард Санхүүгийн Нэгдэл” ХК, ТУЗ-ийн дарга
+  “Ард Даатгал” ХК, ТУЗ-ийн дарга
+  “Ард Кредит ББСБ” ХК, ТУЗ-ийн дарга
+
+  Б.Хос-Эрдэнэ
+  ТУЗ-ийн ерөнхий гишүүн
+  Монголын Хөрөнгийн Бирж, ТУЗ-ийн дарга
+  “Ард Санхүүгийн Нэгдэл” ХК, ТУЗ-ийн дарга
+  “Ард Даатгал” ХК, ТУЗ-ийн дарга
+  “Ард Кредит ББСБ” ХК, ТУЗ-ийн дарга
+
+  С.Энх-Амгалан
+  ТУЗ-ийн ерөнхий гишүүн
+  “Ард Санхүүгийн Нэгдэл” ХК, ТУЗ-ийн дарга
+  “Ард Даатгал” ХК, ТУЗ-ийн дарга
+  “Ард Кредит ББСБ” ХК, ТУЗ-ийн дарга
+
+  К.Мадоно
+  ТУЗ-ийн ерөнхий гишүүн
+  “ЛэндМН ББСБ” ХК, ТУЗ-ийн дарга
+  “Монголын Хөрөнгийн Бирж” ХК, ТУЗ-ийн
+Metadata: {'source_name': 'Q2-tailan-2025-white_Final-07.21', 'type': 'visual_analysis', 'page_number': '9', 'source': 'Q2-tailan-2025-white_Final-07.21_page_9', 'language': 'mon', 'image_path': 'data/images/Q2-tailan-2025-white_Final-07.21/Q2-tailan-2025-white_Final-07.21_page_9.png', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_Q2-tailan-2025-white_Final-07.21_page_10
+Source: Q2-tailan-2025-white_Final-07.21_page_10
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text: 
+  ```
+  05 Компанийн засаглал
+
+  ТУЗ-ийн гишүүдийн ирц, ажилласан хугацаа болон бусад мэдээлэл
+
+  ТУЗ-ийн гишүүдийн нэрс | 2025 оны эхний хагас жилийн ирц | ТУЗ-д ажилласан хугацаа, туршлага | ЛэндМН-д ажилласан хугацаа эхэлсэн | ТУЗ-ийн хуралд оролцсон, төрөл болон бусад мэдээлэл
+
+  О.Болормаа | 100% | 8 жил, хас үүрэг гүйцэтгэж байгаа | нийт хуралдаан 0.00276%
+  С.Энх-Амар | 100% | 8 жил хас үүрэг гүйцэтгэж байгаа | нийт хуралдаан 0.00581%
+  К.Жаргалмаа | 80% | ХЗХ-ээс үүрэг сонгогдсон, 2 дахь жилдээ хас үүрэг гүйцэтгэж байгаа | нийт хуралдаан 0.00281%
+  С.Нэргүй | 100% | ХЗХ-ээс үүрэг сонгогдсон, 2 дахь жилдээ хас үүрэг гүйцэтгэж байгаа | нийт хуралдаан 0.00031%
+  Б.Хос-Эрдэнэ | 80% | ХЗХ-ээс үүрэг сонгогдсон, 2 дахь жилдээ хас үүрэг гүйцэтгэж байгаа | нийт хуралдаан 0.00255%
+  Ш.Чулуунбат | 100% | ХЗХ-ээс үүрэг сонгогдсон, 4 дэх жилдээ хас үүрэг гүйцэтгэж байгаа | нийт хуралдаан 0.00088%
+  Ж.Нэргүй | 100% | ХЗХ-ээс үүрэг сонгогдсон, 4 дэх жилдээ хас үүрэг гүйцэтгэж байгаа | нийт хуралдаан 0.00088%
+  Б.Гэрэлмаа | 100% | ХЗХ-ээс үүрэг сонгогдсон, 2 дахь жилдээ хас үүрэг гүйцэтгэж байгаа | нийт хуралдаан 0.00088%
+  Ц.Одмаа | 80% | ХЗХ-ээс үүрэг сонгогдсон, 2 дахь жилдээ хас үүрэг гүйцэтгэж байгаа | нийт хуралдаан 0.00088%
+
+  ЛэндМН-ийн ТУЗ-ийн гишүүд нь Монгол Улсын компанийн тухай, санхүүгийн зохицуулах хороо болон Монголын хөрөнгийн биржийн холбогдох журам, кодекс, түүнчлэн ЛэндМН-ийн дотоод, ТУЗ-ийн үйл ажиллагааны журамд заасан бүрэн эрхийг хэрэгжүүлэн ажилладаг бөгөөд аливаа үйл ажиллагааг бусад бусад, бие даан гаргах. ТУЗ-ийн аливаа шийдвэр нь олонхийн саналаар хүчин төгөлдөр болдог ба ТУЗ-ийн гишүүн нь хэлэлцэж буй асуудлаар “даамжсан”, “татгалзсан”, асуулт “тулгалзсан” санал гаргах боломжтой. ТУЗ-ийн гишүүн нь тайлагнах хуваарьтай ЛэндМН-ийн үйл ажиллагааг амжилттай эрхэмлэн явуулах шаардлагатай, ан холбогдол бүхий үйл ажиллагааг хянан шалгах, дүгнэлт, судалгаа, тайлбар, дүгнэлттэйгээр бусад гишүүд танилцсан үндсэн дээр цаашид гаргах, чи үүргээ бүрэн хэрэгжүүлэн ажиллаж байна.
+
+  ТУЗ-ийн хурлын тогтоол, төрөл болон бусад мэдээлэл
+
+  Шийдвэр гаргасан огноо | Ирц | Шийдвэр гаргасан хэлбэр | Баталсан тогтоолын тоо
+  2025 оны 02 дугаар сарын 06 | 88.89% | Энгийн санал хураалт | 11
+  2025 оны 03 дугаар сарын 06 | 77.78% | Энгийн санал хураалт | 7
+  2025 оны 04 дугаар сарын 25 | 100% | Энгийн санал хураалт | 10
+  2025 оны 05 дугаар сарын 03 | 100% | Энгийн санал хураалт | 17
+  2025 оны 06 дугаар сарын 18 | 100% | Энгийн санал хураалт | 10
+
+  Удирдлага зохион байгуулалт | Санхүү | Эрх зүйн зохицуулалт | Бизнес стратеги
+  6 | 10 | 3 | 8
+
+  2025 оны эхний хагас жилийн байдлаар Компанийн засгийн үйл ажиллагааны аюулгүй байдал, санхүүгийн зохицуулалт, хяналт, үйл ажиллагааг эрчимжүүлэх үндэс санхүүгийн хүлээн авах, баталгааг гаргах болон Компанийн актласан тавилгыг удирдахтай холбогдлоор нийт 3 сорилын зорилттой хүлээлд ЛэндМН-ийн ТУЗ-оос Монгол Улсын Компанийн тухай хуулийн дагуу, хяналт зохион байгуулалт олгохосоор сөрөг нөлөөллийг хязгаарлах, санхүүгийн хяналт шалгалт хийхийг байнга анхаарсан байна.
+
+  “КОМПАНИЙН ЗАСАГЛАЛЫН КОДЕКС”-ЫН ХЭРЭГЖИЛТ, ТҮҮНИЙ ҮНЭЛГЭЭ
+
+  ЛэндМН нь Санхүүгийн зохицуулах хорооны 2022 оны 03 дугаар сарын 23-ний өдрийн 145 тоот тогтоолоор шинээр батлагдсан “Компанийн засаглалын кодекс”, түүнчлэн Санхүүгийн зохицуулах хорооны шаардлагын хүрээнд 2025 оны 05 дугаар сарын 21-ний өдрийн байдлаар батлагдсан хувийн хэрэгжүүлэн ажиллаж, компанийн засаглал болон соёлыг сайжруулах шаардлагатай үйл ажиллагаа, хяналт шалгалт хийхийг байнга анхаарч, хяналт зохион байгуулалт олгохосоор сөрөг нөлөөллийг хязгаарлах, санхүүгийн хяналт шалгалт хийхийг байнга анхаарсан байна.
+  ```
+
+- Explanation: 
+  The page is from a business report detailing the governance and activities
+Metadata: {'source_name': 'Q2-tailan-2025-white_Final-07.21', 'source': 'Q2-tailan-2025-white_Final-07.21_page_10', 'image_path': 'data/images/Q2-tailan-2025-white_Final-07.21/Q2-tailan-2025-white_Final-07.21_page_10.png', 'type': 'visual_analysis', 'page_number': '10', 'source_type': 'pdf', 'language': 'mon'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_Q2-tailan-2025-white_Final-07.21_page_11
+Source: Q2-tailan-2025-white_Final-07.21_page_11
+Language: mon
+Content:
+- Detected Language: mon
+- Extracted Text: 
+  ```
+  05 Компанийн засаглал
+
+  ЛЭНДМН-ИЙН УДИРДЛАГЫН БАГ
+
+  Ц.Ууганбаяр
+  Гүйцэтгэх захирал
+
+  К.Мадоно
+  Ерөнхийлөгч
+
+  Г.Мөнхтулга
+  Хөрөнгө оруулалт хариуцсан захирал
+
+  Н.Мөнхбат
+  Санхүү хариуцсан захирал
+
+  Ж.Сосор
+  Бизнес хөгжлийн газрын захирал
+
+  М.Тувшинжаргал
+  Үйл ажиллагааны газрын захирал
+
+  Х.Энхжаргал
+  Борлуулалт, маркетинг хариуцсан захирал
+
+  Э.Пунсалдулам
+  Тусгай активын хяналтын захирал
+
+  Д.Оюунчимэг
+  Хүний нөөц, оффис хариуцсан захирал
+
+  Б.Наранцацрал
+  Эрсдэлийн удирдлагын хяналтын захирал
+
+  ХУВЬЦААНЫ МЭДЭЭЛЭЛ
+
+  2025 оны эхний хагас жилд Lend хувьцааны ханш 179.79 төгрөг хүргэж өсөж, хагас жилийн эцсээр 140 төгрөгөөр хаагдсан байна.
+  • Нийт арилжаалагдсан ширхэг - 8.2 сая ширхэг
+  • Нийт арилжаалагдсан үнийн дүн - 1,257.68 сая төгрөг
+
+  Хувьцаа эзэмшигчид
+
+  АНД Системс ХХК 600,000,000
+  Олон нийт 139,301,683
+  Халаасны хувьцаа 60,698,317
+
+  ВЕБСАЙТ: www.lend.mn
+  УТАС: 7722-2949
+  ИМЭЙЛ: board@lend.mn
+
+  © “ЛэндМН ББСБ” ХК-ийн 2025 оны эхний хагас жилийн тайлан
+  ```
+
+- Explanation: 
+  The page is from a business report or presentation related to "LendMN," a company operating in Mongolia. It features the management team, providing names and titles of key personnel. The right side of the page presents stock information, including a graph showing stock price trends and trading volume for the first half of 2025. It also lists major shareholders and their respective shares. Contact information for the company is provided at the bottom.
+
+- Numerical Data: 
+  - 179.79
+  - 140
+  - 8.2
+  - 1,257.68
+  - 600,000,000
+  - 139,301,683
+  - 60,698,317
+  - 2025/01/02
+  - 2025/02/02
+  - 2025/03/02
+  - 2025/04/02
+  - 2025/05/02
+  - 2025/06/02
+  - 7722-2949
+Metadata: {'source': 'Q2-tailan-2025-white_Final-07.21_page_11', 'source_name': 'Q2-tailan-2025-white_Final-07.21', 'source_type': 'pdf', 'type': 'visual_analysis', 'language': 'mon', 'image_path': 'data/images/Q2-tailan-2025-white_Final-07.21/Q2-tailan-2025-white_Final-07.21_page_11.png', 'page_number': '11'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_metadata_29513466
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Q2-tailan-2025-white_Final-07.21: {"pdf_name": "Q2-tailan-2025-white_Final-07.21", "total_pages": 11, "file_path": "data/pdfs/Q2-tailan-2025-white_Final-07.21.pdf"}
+Metadata: {'type': 'metadata', 'source_name': 'Q2-tailan-2025-white_Final-07.21', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_metadata_0c7403bd
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Q2-tailan-2025-white_Final-07.21: {"pdf_name": "Q2-tailan-2025-white_Final-07.21", "total_pages": 11, "file_path": "data/pdfs/Q2-tailan-2025-white_Final-07.21.pdf"}
+Metadata: {'type': 'metadata', 'source_name': 'Q2-tailan-2025-white_Final-07.21', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_metadata_0078f4ca
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Q2-tailan-2025-white_Final-07.21: {"pdf_name": "Q2-tailan-2025-white_Final-07.21", "total_pages": 11, "file_path": "data/pdfs/Q2-tailan-2025-white_Final-07.21.pdf"}
+Metadata: {'source_type': 'pdf', 'source_name': 'Q2-tailan-2025-white_Final-07.21', 'type': 'metadata'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_metadata_fa95c8c4
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Q2-tailan-2025-white_Final-07.21: {"pdf_name": "Q2-tailan-2025-white_Final-07.21", "total_pages": 11, "file_path": "data/pdfs/Q2-tailan-2025-white_Final-07.21.pdf"}
+Metadata: {'type': 'metadata', 'source_type': 'pdf', 'source_name': 'Q2-tailan-2025-white_Final-07.21'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_metadata_b5528924
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Q2-tailan-2025-white_Final-07.21: {"pdf_name": "Q2-tailan-2025-white_Final-07.21", "total_pages": 11, "file_path": "data/pdfs/Q2-tailan-2025-white_Final-07.21.pdf"}
+Metadata: {'type': 'metadata', 'source_name': 'Q2-tailan-2025-white_Final-07.21', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_metadata_606d137b
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Q2-tailan-2025-white_Final-07.21: {"pdf_name": "Q2-tailan-2025-white_Final-07.21", "total_pages": 11, "file_path": "data/pdfs/Q2-tailan-2025-white_Final-07.21.pdf"}
+Metadata: {'source_type': 'pdf', 'source_name': 'Q2-tailan-2025-white_Final-07.21', 'type': 'metadata'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_metadata_c41b8835
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Q2-tailan-2025-white_Final-07.21: {"pdf_name": "Q2-tailan-2025-white_Final-07.21", "total_pages": 11, "file_path": "data/pdfs/Q2-tailan-2025-white_Final-07.21.pdf"}
+Metadata: {'source_name': 'Q2-tailan-2025-white_Final-07.21', 'source_type': 'pdf', 'type': 'metadata'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_metadata_6766ec51
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Q2-tailan-2025-white_Final-07.21: {"pdf_name": "Q2-tailan-2025-white_Final-07.21", "total_pages": 11, "file_path": "data/pdfs/Q2-tailan-2025-white_Final-07.21.pdf"}
+Metadata: {'source_name': 'Q2-tailan-2025-white_Final-07.21', 'type': 'metadata', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_metadata_0d426cba
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Q2-tailan-2025-white_Final-07.21: {"pdf_name": "Q2-tailan-2025-white_Final-07.21", "total_pages": 11, "file_path": "data/pdfs/Q2-tailan-2025-white_Final-07.21.pdf"}
+Metadata: {'source_name': 'Q2-tailan-2025-white_Final-07.21', 'source_type': 'pdf', 'type': 'metadata'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_metadata_e4df9d7c
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Q2-tailan-2025-white_Final-07.21: {"pdf_name": "Q2-tailan-2025-white_Final-07.21", "total_pages": 11, "file_path": "data/pdfs/Q2-tailan-2025-white_Final-07.21.pdf"}
+Metadata: {'type': 'metadata', 'source_name': 'Q2-tailan-2025-white_Final-07.21', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_metadata_708200b1
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Q2-tailan-2025-white_Final-07.21: {"pdf_name": "Q2-tailan-2025-white_Final-07.21", "total_pages": 11, "file_path": "data/pdfs/Q2-tailan-2025-white_Final-07.21.pdf"}
+Metadata: {'source_name': 'Q2-tailan-2025-white_Final-07.21', 'type': 'metadata', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_metadata_f23d7aca
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Q2-tailan-2025-white_Final-07.21: {"pdf_name": "Q2-tailan-2025-white_Final-07.21", "total_pages": 11, "file_path": "data/pdfs/Q2-tailan-2025-white_Final-07.21.pdf"}
+Metadata: {'type': 'metadata', 'source_name': 'Q2-tailan-2025-white_Final-07.21', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_metadata_650aa811
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Q2-tailan-2025-white_Final-07.21: {"pdf_name": "Q2-tailan-2025-white_Final-07.21", "total_pages": 11, "file_path": "data/pdfs/Q2-tailan-2025-white_Final-07.21.pdf"}
+Metadata: {'source_name': 'Q2-tailan-2025-white_Final-07.21', 'source_type': 'pdf', 'type': 'metadata'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_metadata_06cc7412
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Q2-tailan-2025-white_Final-07.21: {"pdf_name": "Q2-tailan-2025-white_Final-07.21", "total_pages": 11, "file_path": "data/pdfs/Q2-tailan-2025-white_Final-07.21.pdf"}
+Metadata: {'source_name': 'Q2-tailan-2025-white_Final-07.21', 'type': 'metadata', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_metadata_fb26a7f9
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Q2-tailan-2025-white_Final-07.21: {"pdf_name": "Q2-tailan-2025-white_Final-07.21", "total_pages": 11, "file_path": "data/pdfs/Q2-tailan-2025-white_Final-07.21.pdf"}
+Metadata: {'type': 'metadata', 'source_type': 'pdf', 'source_name': 'Q2-tailan-2025-white_Final-07.21'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_metadata_e0e45acb
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Q2-tailan-2025-white_Final-07.21: {"pdf_name": "Q2-tailan-2025-white_Final-07.21", "total_pages": 11, "file_path": "data/pdfs/Q2-tailan-2025-white_Final-07.21.pdf"}
+Metadata: {'source_name': 'Q2-tailan-2025-white_Final-07.21', 'type': 'metadata', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_metadata_df308bba
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Q2-tailan-2025-white_Final-07.21: {"pdf_name": "Q2-tailan-2025-white_Final-07.21", "total_pages": 11, "file_path": "data/pdfs/Q2-tailan-2025-white_Final-07.21.pdf"}
+Metadata: {'source_type': 'pdf', 'source_name': 'Q2-tailan-2025-white_Final-07.21', 'type': 'metadata'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_metadata_0f90def8
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Q2-tailan-2025-white_Final-07.21: {"pdf_name": "Q2-tailan-2025-white_Final-07.21", "total_pages": 11, "file_path": "data/pdfs/Q2-tailan-2025-white_Final-07.21.pdf"}
+Metadata: {'source_type': 'pdf', 'type': 'metadata', 'source_name': 'Q2-tailan-2025-white_Final-07.21'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_metadata_1fe9cb5d
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Q2-tailan-2025-white_Final-07.21: {"pdf_name": "Q2-tailan-2025-white_Final-07.21", "total_pages": 11, "file_path": "data/pdfs/Q2-tailan-2025-white_Final-07.21.pdf"}
+Metadata: {'type': 'metadata', 'source_name': 'Q2-tailan-2025-white_Final-07.21', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Q2-tailan-2025-white_Final-07.21_metadata_36357922
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Q2-tailan-2025-white_Final-07.21: {"pdf_name": "Q2-tailan-2025-white_Final-07.21", "total_pages": 11, "file_path": "data/pdfs/Q2-tailan-2025-white_Final-07.21.pdf"}
+Metadata: {'type': 'metadata', 'source_type': 'pdf', 'source_name': 'Q2-tailan-2025-white_Final-07.21'}
+--------------------------------------------------
+
+=== Data for File: Үйл ажиллагааны тайлан 2025-H1 MN ===
+
+Visual Analyses:
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_metadata_cc134116
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Үйл ажиллагааны тайлан 2025-H1 MN: {"pdf_name": "\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN", "total_pages": 18, "file_path": "data/pdfs/\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN.pdf"}
+Metadata: {'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'type': 'metadata', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_Үйл ажиллагааны тайлан 2025-H1 MN_page_1
+Source: Үйл ажиллагааны тайлан 2025-H1 MN_page_1
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text:
+  ```
+  InvesCore FI
+  Listed on
+  LONDON
+  STOCK
+  EXCHANGE
+  2025
+  Оны эхний хагас
+  Санхүү, Үйл Ажиллагааны
+  Тайлан
+  ```
+
+- Explanation: 
+  The page appears to be the cover of a financial report for the first half of the year 2025. It is issued by "InvesCore FI," a company listed on the London Stock Exchange. The text is primarily in Mongolian, indicating that the report is likely intended for a Mongolian audience. The design is modern and abstract, suggesting a professional and forward-thinking image.
+
+- Numerical Data:
+  - 2025
+Metadata: {'type': 'visual_analysis', 'source': 'Үйл ажиллагааны тайлан 2025-H1 MN_page_1', 'image_path': 'data/images/Үйл ажиллагааны тайлан 2025-H1 MN/Үйл ажиллагааны тайлан 2025-H1 MN_page_1.png', 'language': 'mon', 'page_number': '1', 'source_type': 'pdf', 'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_Үйл ажиллагааны тайлан 2025-H1 MN_page_2
+Source: Үйл ажиллагааны тайлан 2025-H1 MN_page_2
+Language: mon
+Content:
+- Detected Language: mon
+- Extracted Text: 
+  ```
+  InvesCore Financial Institution
+
+  АГУУЛГА
+
+  1 Онцлох үйл явдлууд
+
+  2 Үйл ажиллагаа
+    Пакет дижитал зээл
+    Төв Азийн үйл ажиллагаа
+    Дижиталчлал
+    Кибер аюулгүй байдлын стратеги
+    Байгууллагын соёл
+
+  3 Санхүүгийн үр дүн
+    Гадаад зах зээл
+    Хувьцаа
+
+  4 Тогтвортой хөгжил
+
+  5 Компанийн засаглал
+    Төлөөлөн удирдах зөвлөл
+    ТУЗ-ийн үйл ажиллагаа
+
+  2023 оны эхний хагас жилийн санхүү, үйл ажиллагааны тайлан 02
+  ```
+
+- Explanation: 
+  The page is from a document by "InvesCore Financial Institution" and serves as a table of contents. It outlines the main sections of the report, which include significant events, operations, financial results, sustainable development, and corporate governance. Each section is further divided into specific topics, such as digital loans, Central Asian operations, cybersecurity strategy, and organizational culture. The document appears to be a financial and operational report for the first half of 2023.
+
+- Numerical Data: 
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 2023
+  - 02
+Metadata: {'page_number': '2', 'type': 'visual_analysis', 'language': 'mon', 'image_path': 'data/images/Үйл ажиллагааны тайлан 2025-H1 MN/Үйл ажиллагааны тайлан 2025-H1 MN_page_2.png', 'source_type': 'pdf', 'source': 'Үйл ажиллагааны тайлан 2025-H1 MN_page_2', 'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_Үйл ажиллагааны тайлан 2025-H1 MN_page_3
+Source: Үйл ажиллагааны тайлан 2025-H1 MN_page_3
+Language: mon
+Content:
+- Detected Language: mon
+- Extracted Text: 
+  - Онцлох үйл явдлууд
+  - Үнэлгээний арга
+  - Санхүүгийн үр дүн
+  - Тогтвортой хөгжил
+  - Компанийн засаглал
+  - LSEG
+    - Лондонгийн Хөрөнгийн Биржид
+    - Инвескор Санхүүгийн Груп нь Лондонгийн Хөрөнгийн Биржид бүртгэлтэй анхны Монгол санхүүгийн компани болж, олон улсын зах зээлд шинэ алхам хийж байгаа харилцагчид, түншүүд болон хамтран ажиллагсадтайгаа хамт тэмдэглэлээ.
+  - "ТОП-100 Аж Ахуйн Нэгж"-ээр шалгарлаа
+    - Инвескор Санхүүгийн Байгууллагыг Монгол Улсын Засгийн газар болон Монголын Үндэсний Худалдаа Аж Үйлдвэрийн Танхимаас "ТОП-100 АЖ АХУЙН НЭГЖ"-ийн нэгээр дахин удаа шалгарууллаа.
+  - Орон нутгийн төлөлт
+    - Санхүүгийн хүртээмжийг нэмэгдүүлэх үндсэн зорилтуудынхаа хүрээнд Дорноговь аймагт өргөжүүлэн салбараа нээж, орон нутгийн бичил санхүүгийн үйлчилгээ чиглэлд ажиллаж байгаа ба түүнчлэн Өмнөговь аймагт салбараа нээхээр ажиллаж байна.
+  - 2025 оны эхний хагас жилийн санхүү, үйл ажиллагааны тайлан
+  - 03
+
+- Explanation: 
+  The page highlights significant events and achievements of a financial group, Invescore, in Mongolia. It is structured into three main sections, each showcasing a different accomplishment. The first section discusses the company's registration on the London Stock Exchange, marking a significant milestone as the first Mongolian financial company to do so. The second section celebrates the company being recognized as one of the "Top-100 Enterprises" by the Mongolian government and the National Chamber of Commerce and Industry. The third section outlines the company's expansion into regional areas, specifically mentioning new branches in Dornogovi and plans for Ömnögovi, focusing on enhancing financial accessibility. The page is part of a financial and operational report for the first half of 2025.
+
+- Numerical Data: 
+  - 100
+  - 2025
+  - 03
+Metadata: {'image_path': 'data/images/Үйл ажиллагааны тайлан 2025-H1 MN/Үйл ажиллагааны тайлан 2025-H1 MN_page_3.png', 'type': 'visual_analysis', 'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'source': 'Үйл ажиллагааны тайлан 2025-H1 MN_page_3', 'language': 'mon', 'page_number': '3', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_Үйл ажиллагааны тайлан 2025-H1 MN_page_4
+Source: Үйл ажиллагааны тайлан 2025-H1 MN_page_4
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text: 
+  - Онцлох үйл явдлууд
+  - Үйл ажиллагаа
+  - Санхүүгийн үр дүн
+  - Тогтвортой хөгжил
+  - Компанийн засаглал
+  - Киргиз улсад дахин нэг салбар нээлээ
+  - Киргиз улс дахь Инвескорын охин компани Чүй бүсийн Токмок хотод шинэ салбараа байгууллаа.
+  - "Харилцагчийг хамгаалах зарчим"-ын Silver түвшний үнэлгээтэй сертификат авлаа
+  - Бид 2022 оноос хойш Харилцагчийг хамгаалах зарчмуудыг үйл ажиллагаандаа хэрэгжүүлж, үүнийгээ сайжруулж ирсэн бөгөөд эдгээр зарчмуудын хэрэгжилтийг баталгаажуулахаар олон улсын түвшний MFR үнэлгээний агентлагаар хөндлөнгийн аудит хийлгэж SILVER түвшинд үнэлэгдлээ.
+  - Жижиг, дунд бизнесийг дэмжих хөтөлбөр
+  - Инвескор Санхүүгийн Групп болон Rio Tinto-той хамтран хэрэгжүүлж буй "Жижиг, дунд бизнесийг дэмжих хөтөлбөр"-ийн хаалтын үйл ажиллагаа амжилттай болж өндөрлөлөө.
+  - 2025 оны эхний хагас жилийн санхүү, үйл ажиллагааны тайлан
+  - 04
+
+- Explanation: 
+  The page highlights significant events and achievements of a company, likely Invescore, as part of their financial and operational report for the first half of 2025. It includes the opening of a new branch in Tokmok, Kyrgyzstan, showcasing the company's expansion efforts. Additionally, it mentions receiving a Silver level certification for customer protection principles, indicating a commitment to high standards and external validation. The page also notes the successful completion of a program supporting small and medium-sized businesses in collaboration with Rio Tinto. The structure includes headings, brief descriptions, and images to visually support the text.
+
+- Numerical Data: 
+  - 2022
+  - 2025
+  - 04
+Metadata: {'type': 'visual_analysis', 'language': 'mon', 'page_number': '4', 'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'source': 'Үйл ажиллагааны тайлан 2025-H1 MN_page_4', 'source_type': 'pdf', 'image_path': 'data/images/Үйл ажиллагааны тайлан 2025-H1 MN/Үйл ажиллагааны тайлан 2025-H1 MN_page_4.png'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_Үйл ажиллагааны тайлан 2025-H1 MN_page_5
+Source: Үйл ажиллагааны тайлан 2025-H1 MN_page_5
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text: 
+  - Онцлох үйл явдлууд Үйл ажиллагаа Санхүүгийн үр дүн Тогтвортой хөгжил Компанийн засаглал
+  - Invescore FI
+  - ИННОВАЦИЙН САНХҮҮЖИЛТ
+  - Салбарын онцлогт тохирсон санхүүжилтийн шийдлүүд
+  - Эдийн засгийн салбаруудын онцлогт нь тохируулан хамтрагч байгууллагуудтай хамтран хэд хэдэн охин дамжсан бүтээгдэхүүний зээл, энгийнтэй тэнцэх хөрвөх худалдааны авсан зээл, Монголын хөрөнгийн биржийн ТОП 20 индексийн хувьцааг барьцаалсан зээл, болон ипотекийн зээл зэрэг бусад олон төрлийн бүтээгдэхүүнүүдийн харилцан үйлчлэл хэргэжүүлэн төлүүллүүд нэвтрүүлээд байна.
+  - Core Synergy
+  - Core Synergy VIP customer event
+  - Компанийн стратегийн харилцагч болох VIP үйлчлүүлэгчдэдээ бизнесээ өргөжүүлэх, шинэ боломжуудыг нээхэд нь дэмжлэг үзүүлэх зорилгоор цуврал нетворкинг арга хэмжээг зохион байгуулллаа. Тус арга хэмжээ нь салбар бүрийн гүйцэтгэх захирлуудыг түүний төлөөлөгчдийг оролцуулан, туршлага солилцох, сүлжээг өргөжүүлэх, харилцан ашигтай хамтын ажиллагааг эхлүүлэх боломжийг бүрдүүллээрээ онцлогтой юм.
+  - 2025 оны эхний хагасын санхүү, үйл ажиллагааны тайлан 05
+
+- Explanation: 
+  The page is part of a business report or presentation, focusing on financial services and events. It highlights tailored financial solutions for different economic sectors, mentioning various loan products and collaborations with partner organizations. The page also describes a VIP customer event aimed at networking and expanding business opportunities for strategic clients. The structure includes headings, subheadings, and descriptive paragraphs, with a focus on innovation and strategic partnerships.
+
+- Numerical Data: 
+  - 20
+  - 2025
+  - 05
+Metadata: {'type': 'visual_analysis', 'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'page_number': '5', 'image_path': 'data/images/Үйл ажиллагааны тайлан 2025-H1 MN/Үйл ажиллагааны тайлан 2025-H1 MN_page_5.png', 'source_type': 'pdf', 'source': 'Үйл ажиллагааны тайлан 2025-H1 MN_page_5', 'language': 'mon'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_Үйл ажиллагааны тайлан 2025-H1 MN_page_6
+Source: Үйл ажиллагааны тайлан 2025-H1 MN_page_6
+Language: mon
+Content:
+- Detected Language: mon
+- Extracted Text: 
+  - Pocket ZERO
+  - Pocket Zero Expo 2025
+  - BNPL үйлчилгээг сурталлан таниулах зорилготойгоор жил бүр уламжлал болгон хэрэглэгчдэдээ арга хэмжээ “Хайр ба Гэр бүл” концепцийн хүрээнд амжилттай зохион байгуулав.
+  - Pocket
+  - Халаас дүүрэн инээмсэглэл
+  - 5 жилийн ойг хэрэглэгч, харилцагч, ажилтнуудаа баяр хүргэсэн байдлаар зохион байгуулав.
+  - 2025 оны эхний хагасын санхүү, үйл ажиллагааны тайлан
+  - 06
+
+- Explanation: 
+  The page appears to be part of a business report or promotional document related to events organized by a company named "Pocket." The primary focus is on two events: "Pocket Zero Expo 2025" and "Халаас дүүрэн инээмсэглэл." The first event is an annual expo aimed at promoting BNPL (Buy Now, Pay Later) services under the theme "Love and Family." The second event celebrates the company's 5th anniversary with customers, partners, and employees. The page is likely part of a larger report detailing the company's activities and achievements.
+
+- Numerical Data: 
+  - 2025
+  - 5
+  - 06
+Metadata: {'language': 'mon', 'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'page_number': '6', 'image_path': 'data/images/Үйл ажиллагааны тайлан 2025-H1 MN/Үйл ажиллагааны тайлан 2025-H1 MN_page_6.png', 'type': 'visual_analysis', 'source': 'Үйл ажиллагааны тайлан 2025-H1 MN_page_6', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_Үйл ажиллагааны тайлан 2025-H1 MN_page_7
+Source: Үйл ажиллагааны тайлан 2025-H1 MN_page_7
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text: 
+  ```
+  Төв Азийн үйл ажиллагаа
+
+  InvesCore KG - Киргиз улс
+  Зээлийн Багц: 61,5 тэрбум ₮
+  Салбарын тоо: 7
+
+  Гадаадын болон дотоодын санхүүгийн байгууллага, олон улсын санхүүгээс нийт 2,7 сая долларын санхүүжилт татсан ба Lendahand-оос 1,5 сая ам.долларын санхүүжилт авах гэрээний гарын үсэг зурлаа.
+
+  Чуй бүсийн Токмок хотод шинэ салбараа байгууллаа.
+
+  Зээлийн багц (тэрбум төгрөг)
+  2022 17
+  2023 31
+  2024 56
+  2025.06 62
+
+  InvesCore KZ - Казахстан улс
+  Зээлийн Багц: 20,5 тэрбум ₮
+  Салбарын тоо: 1
+
+  Казахстан Улсын зах зээлд үйл ажиллагаа явуулж буй 213 ББСБ-оос Төв банкны эх сурвалжит мэдээллээр хөрөнгийн хэмжээгээр өмнөх үеийн 70 дугаарт байраас 18 байр урагшилж 52 дугаарт эрэмбэлэгдлээ.
+
+  Зээлийн багц (тэрбум төгрөг)
+  2024.12 7
+  2025.01 10
+  2025.02 12
+  2025.03 14
+  2025.04 17
+  2025.05 19
+  2025.06 21
+
+  2025 оны эхний хагасын санхүү, үйл ажиллагааны тайлан
+  ```
+
+- Explanation: 
+  The page provides an overview of the financial and operational activities of InvesCore in Kyrgyzstan and Kazakhstan. It highlights the loan portfolios and the number of branches in each country. For Kyrgyzstan, the loan portfolio is 61.5 billion MNT with 7 branches, and it mentions international financial collaborations and a new branch in Tokmok city. For Kazakhstan, the loan portfolio is 20.5 billion MNT with 1 branch, and it notes a significant improvement in ranking among financial institutions. The page includes bar charts showing the growth of loan portfolios over time.
+
+- Numerical Data: 
+  - 61,5
+  - 7
+  - 2,7
+  - 1,5
+  - 17
+  - 31
+  - 56
+  - 62
+  - 20,5
+  - 1
+  - 213
+  - 70
+  - 18
+  - 52
+  - 7
+  - 10
+  - 12
+  - 14
+  - 17
+  - 19
+  - 21
+  - 2022
+  - 2023
+  - 2024
+  - 2025.06
+  - 2024.12
+  - 2025.01
+  - 2025.02
+  - 2025.03
+  - 2025.04
+  - 2025.05
+  - 2025.06
+Metadata: {'source': 'Үйл ажиллагааны тайлан 2025-H1 MN_page_7', 'page_number': '7', 'language': 'mon', 'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'type': 'visual_analysis', 'source_type': 'pdf', 'image_path': 'data/images/Үйл ажиллагааны тайлан 2025-H1 MN/Үйл ажиллагааны тайлан 2025-H1 MN_page_7.png'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_Үйл ажиллагааны тайлан 2025-H1 MN_page_8
+Source: Үйл ажиллагааны тайлан 2025-H1 MN_page_8
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text: 
+  ```
+  Дижиталчлал
+
+  2025 оны эхний хагас жилд бид дижитал экосистемээ хөгжүүлэх томоохон санаачилгуудыг хэрэгжүүлж, түүний гүйцэтгэл болон хэрэглэгчийн оролцоог сайжруулах шинэчлэлээр төлөвлөн ажиллав.
+
+  Үндсэн систем
+  - Ухаалаг удирдлагын менежментийн модуль
+  - Энэ Үндсэнд хамаарах бусад хэрэгжүүлэх менежментийн модуль
+  - Гүйцэтгэлийн боловсруулалтын удирдлагын модуль
+  - Бизнесийн үйл ажиллагаа ба системийн бодлогын модуль
+
+  Өгөгдлийн агуулах
+  - Хүний нөөцийн болон мэдээллийн модуль
+  - Хэрэглэгч болон гүйцэтгэлийн оролцооны сайжруулалтын модуль
+
+  Харилцагчийн үйлчилгээний платформ
+  - Ухаалаг борлуулалтын менежментийн модуль
+  - Үйлчилгээний трафикийн хяналтын ба удирдлагын ажлын менежментийн модуль
+  - Хиймэл оюун ухаанд суурилсан чатбот
+
+  Зээлийн судалгаа, олголтын систем
+  - Ипотекийн дэмжлэг үзүүлэх борлуулалтын удирдлагын систем
+  - Хиймэл оюун ухаанд Машин сургалтын алгоритмд суурилсан зээлийн хяналтын систем
+  - Хиймэл оюун ухаанд суурилсан зээлийн эрсдлийн шинжилгээний програмын модуль
+
+  2025 оны эхний хагасын сонгуу, үйл ажиллагааны тайлан
+  08
+  ```
+
+- Explanation: 
+  The page outlines the digital transformation initiatives planned for the first half of 2025. It describes the development of a digital ecosystem aimed at improving execution and user engagement. The document is structured into several key components:
+
+  1. **Main System**: Includes modules for smart management, performance processing, and business operations.
+  2. **Data Warehouse**: Focuses on human resources and user engagement improvements.
+  3. **Customer Service Platform**: Features smart sales management, traffic control, and AI-based chatbots.
+  4. **Credit Research and Issuance System**: Covers mortgage support, AI-based credit monitoring, and risk analysis.
+
+  The overall message is about enhancing digital capabilities to improve business processes and customer interaction.
+
+- Numerical Data: 
+  - 2025
+  - 08
+Metadata: {'source_type': 'pdf', 'source': 'Үйл ажиллагааны тайлан 2025-H1 MN_page_8', 'page_number': '8', 'type': 'visual_analysis', 'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'language': 'mon', 'image_path': 'data/images/Үйл ажиллагааны тайлан 2025-H1 MN/Үйл ажиллагааны тайлан 2025-H1 MN_page_8.png'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_Үйл ажиллагааны тайлан 2025-H1 MN_page_9
+Source: Үйл ажиллагааны тайлан 2025-H1 MN_page_9
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text: 
+  - Кибер аюулгүй байдлын стратеги
+  - Хариуцлагын мэдээллийн хамгаалалт бол бидний тэргүүлэх зорилт тул өгөгдлийн аюулгүй байдлыг бэхжүүлэх олон арга хэмжээг авч, томоохон хөрөнгө оруулалт хийсэн.
+  - Perimeter Security
+    - safetica
+  - Network Security
+    - Hillstone
+  - Endpoint Security
+    - GitLab
+    - CROWDSTRIKE
+  - graylog
+  - Outside Threat Protection
+    - Web Application Security
+    - DDoS Prevention
+    - Managed Firewall
+    - NAC
+    - Applications Content Filtering
+    - VPN
+    - Endpoint Detection & Response (EDR/MDR)
+    - Vulnerability Management
+    - Wireless Security
+    - Secure Email Gateway
+  - Policy Management
+    - Threat Modeling
+    - Risk Management
+    - Security Architecture & Design
+    - Security Awareness Training
+    - Security Policies & Compliance
+    - Vulnerability Management
+    - Patch Management
+    - Host Based Firewall
+    - Multi-factor Authentication (MFA)
+    - DLP
+  - Monitoring & Response
+    - Cyber Threat Intelligence & Assessment (Situational Awareness)
+    - SOC/NOC Monitoring (24x7)
+    - Incident Reporting Detection, Response (CERT)
+    - SIEM
+  - Data Protection
+    - Immutable Baseline
+    - Data Classification
+    - Encryption in Flight & At Rest
+    - Identity & Access Management
+    - Secure Data Destruction
+    - File Integrity Monitoring
+  - DEFENCE IN DEPTH
+  - 2025 оны эхний хагасын санхүү, үйл ажиллагааны тайлан
+  - 09
+
+- Explanation: 
+  The page outlines a cybersecurity strategy, emphasizing the importance of data protection and investment in security measures. It presents a layered approach to cybersecurity, known as "Defence in Depth," which includes various components such as perimeter security, network security, endpoint security, and monitoring & response. Key elements include the use of specific security technologies and practices like DDoS prevention, VPNs, and SIEM. The document also highlights the importance of policy management and data protection strategies. The page is part of a financial and operational report for the first half of 2025.
+
+- Numerical Data: 
+  - 2025
+  - 09
+Metadata: {'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'source': 'Үйл ажиллагааны тайлан 2025-H1 MN_page_9', 'source_type': 'pdf', 'page_number': '9', 'image_path': 'data/images/Үйл ажиллагааны тайлан 2025-H1 MN/Үйл ажиллагааны тайлан 2025-H1 MN_page_9.png', 'type': 'visual_analysis', 'language': 'mon'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_Үйл ажиллагааны тайлан 2025-H1 MN_page_10
+Source: Үйл ажиллагааны тайлан 2025-H1 MN_page_10
+Language: mon
+Content:
+- Detected Language: mon
+- Extracted Text: 
+  - Үйл ажиллагаа
+  - Байгууллагын соёл
+  - CoffeeWithCore
+    - Дотоодын менежментийн эрхмүүдийн амжилтын түүх
+    - Инженер Сокунтулга Группийн удирдлагын багийн эрхмүүдийн сэтгэлгээ болон амжилтын түүхүүдийг дурсан цуврал контент амжилттай цацагдаж эхэллээ.
+  - COR_XP=RIENCE
+    - Амжилттай яваа бизнес эрхлэгчдийн түүх
+    - Бизнесийн амжилтанд хүрсэн эрхмүүдийн амжилтын түүх болон үнэт зөвлөгөө түүхээрээ бүрдсэн цуврал контент цацагдаж эхэллээ.
+  - #AllStaffMeeting2025
+    - Нийт ажилтнуудын хурал 2025
+    - 2024 оны эхнээс бэлтгэж 2025 оныг зорилт болгон тодорхойлсон Нийт ажилтнуудын хурлыг амжилттай зохион байгууллаа.
+  - "ЗОГСОЛТГҮЙ"
+    - Зогсолтгүй баримтат нэвтрүүлэг
+    - Инженер Сокунтулга Группийн олон улсад салбар компаниудаа байгуулж, стратеги төлөвлөгөө хэрэгжүүлж Цэнгэл ТБ-ийн хөтөлбөр амжилттай олон нийтэд цацагдаж дууслаа.
+  - 2025 оны эхний хагас жилийн санхүү, үйл ажиллагааны тайлан
+
+- Explanation: 
+  The page is part of a business report or presentation, focusing on organizational culture and achievements. It highlights various initiatives and content series aimed at showcasing success stories within the organization and beyond. The page is structured into sections, each featuring a different project or event:
+
+  1. **CoffeeWithCore**: A series featuring internal management success stories, emphasizing the mindset and achievements of the leadership team.
+  
+  2. **COR_XP=RIENCE**: A series highlighting successful business entrepreneurs, sharing their success stories and valuable advice.
+  
+  3. **#AllStaffMeeting2025**: An event summary of a company-wide meeting planned from 2024 and successfully held in 2025.
+  
+  4. **"ЗОГСОЛТГҮЙ"**: A documentary series about the company's expansion and strategic planning, successfully broadcasted to the public.
+
+  The page concludes with a note about the financial and operational report for the first half of 2025.
+
+- Numerical Data: 
+  - 2025
+  - 2024
+Metadata: {'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'image_path': 'data/images/Үйл ажиллагааны тайлан 2025-H1 MN/Үйл ажиллагааны тайлан 2025-H1 MN_page_10.png', 'source_type': 'pdf', 'source': 'Үйл ажиллагааны тайлан 2025-H1 MN_page_10', 'language': 'mon', 'page_number': '10', 'type': 'visual_analysis'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_Үйл ажиллагааны тайлан 2025-H1 MN_page_11
+Source: Үйл ажиллагааны тайлан 2025-H1 MN_page_11
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text: 
+  - Санхүүгийн үр дүн /аудитлагдаагүй/
+  - Нийт актив
+    - тэрбум төгрөг
+    - 408 2023H1
+    - 763 2024H1
+    - 999 2025H1
+  - Зээлийн багц
+    - тэрбум төгрөг
+    - 339 2023H1
+    - 563 2024H1
+    - 871 2025H1
+  - Нийт орлого
+    - тэрбум төгрөг
+    - 59 2023H1
+    - 111 2024H1
+    - 167 2025H1
+  - Цэвэр ашиг
+    - тэрбум төгрөг
+    - 17 2023H1
+    - 37 2024H1
+    - 42 2025H1
+  - Гол харьцаа үзүүлэлтүүд
+    - 2023.06 2024.06 2025.06
+    - Хөшүүрэг 3.2 3.8 3.5
+    - Зээл, активын харьцаа 83% 74% 87%
+    - Чанаргүй зээлийн харьцаа 5.1% 5.1% 7.3%
+    - Өөрийн хөрөнгийн өгөөж 27% 37% 30%
+    - Активын өгөөж 8.5% 9.7% 8.4%
+    - *Нягтлан тайлан
+  - 2025 оны эхний хагасны санхүү, үйл ажиллагааны тайлан
+
+- Explanation: 
+  The page presents an unaudited financial summary, focusing on key financial metrics over three half-year periods (2023H1, 2024H1, 2025H1). It includes bar charts illustrating the growth in total assets, loan portfolio, total income, and net profit, all measured in billion Mongolian tögrögs. Additionally, a table provides key financial ratios for June of each year, such as leverage, loan-to-asset ratio, non-performing loan ratio, return on equity, and return on assets. This page is part of a financial and operational report for the first half of 2025.
+
+- Numerical Data: 
+  - 408
+  - 763
+  - 999
+  - 339
+  - 563
+  - 871
+  - 59
+  - 111
+  - 167
+  - 17
+  - 37
+  - 42
+  - 2023.06
+  - 2024.06
+  - 2025.06
+  - 3.2
+  - 3.8
+  - 3.5
+  - 83%
+  - 74%
+  - 87%
+  - 5.1%
+  - 5.1%
+  - 7.3%
+  - 27%
+  - 37%
+  - 30%
+  - 8.5%
+  - 9.7%
+  - 8.4%
+Metadata: {'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'source_type': 'pdf', 'page_number': '11', 'language': 'mon', 'image_path': 'data/images/Үйл ажиллагааны тайлан 2025-H1 MN/Үйл ажиллагааны тайлан 2025-H1 MN_page_11.png', 'type': 'visual_analysis', 'source': 'Үйл ажиллагааны тайлан 2025-H1 MN_page_11'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_Үйл ажиллагааны тайлан 2025-H1 MN_page_12
+Source: Үйл ажиллагааны тайлан 2025-H1 MN_page_12
+Language: mon
+Content:
+- Detected Language: mon
+- Extracted Text: 
+  - Онцлох үйл явдлууд Үйл ажиллагаа Санхүүгийн үр дүн Тогтвортой хөгжил Компанийн засаглал
+  - Гадаад эх үүсвэр
+  - Triple Jump
+    - Инвескор Санхүүгийн Байгууллага нь Нидерландын Triple Jump санхүүгийн байгууллагаас 5 сая ам.долларын зээлийн санхүүжилтийг амжилттай хүлээн авлаа.
+    - Triple Jump нь ногоон болон тогтвортой хөрөнгө оруулалтын чиглэлээр дэлхийд тэргүүлэгч хөрөнгө оруулалтын менежментийн компани юм.
+  - 16 САЯ АМ.ДОЛЛАР
+    - болгох хэмнэгдүүлэв.
+    - Инвескор Санхүүгийн Байгууллага нь олон улсын EMF Microfinance Fund хөрөнгө оруулалтын сангаас 3 сая ам.долларын тэнцэх хэмжээний нэмэлт зээлийн санхүүжилтийг амжилттай татан төвлөрүүлэв.
+    - Ингэснээр тус сангаас Инвескор Санхүүгийн Байгууллага олгосон нийт санхүүжилтийн хэмжээ 16 сая ам.доллар болж байна.
+  - 2025 оны эхний хагасны санхүү, үйл ажиллагааны тайлан
+  - 12
+
+- Explanation: 
+  The page is part of a financial report or presentation, focusing on external funding sources for a financial institution. It highlights two significant financial transactions. The first section discusses a successful acquisition of a $5 million loan from Triple Jump, a Dutch financial organization known for its focus on green and sustainable investments. The second section details an additional $3 million loan from the EMF Microfinance Fund, bringing the total funding from this source to $16 million. The page is structured with headings and subheadings, and it includes logos and branding elements to emphasize the partnerships.
+
+- Numerical Data: 
+  - 5
+  - 3
+  - 16
+  - 2025
+  - 12
+Metadata: {'source': 'Үйл ажиллагааны тайлан 2025-H1 MN_page_12', 'image_path': 'data/images/Үйл ажиллагааны тайлан 2025-H1 MN/Үйл ажиллагааны тайлан 2025-H1 MN_page_12.png', 'language': 'mon', 'source_type': 'pdf', 'type': 'visual_analysis', 'page_number': '12', 'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_Үйл ажиллагааны тайлан 2025-H1 MN_page_13
+Source: Үйл ажиллагааны тайлан 2025-H1 MN_page_13
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text:
+  ```
+  Санхүүгийн үр дүн
+
+  Хувьцаа
+  INV:MSE
+  Хаалтын ханш
+  Арилжааны дүн
+
+  Гарагсан хувьцааны тоо ширхэг 75,744,281
+  Хаалтын ханш 9,340
+  Зах зээлийн үнэлгээ 707,451,584,540
+  Ханшны өсөлт YoY 35.4%
+  Ханшны өсөлт YTD 6.9%
+
+  Ногдол ашиг
+  “Инвескор ББСБ” ХК-ийн Төлөөлөн удирдах зөвлөлийн 2025 оны 02 дугаар сарын 10-ны өдрийн 08 тоот тогтоолоор 2024 оны цэвэр ашгаас нэгж хувьцаанд 60 төгрөгийн ногдол ашгийг энгийн хувьцаа эзэмшигч нартаа хуваарилахаар шийдвэрлэсний дагуу 2025 оны 4 сарын 23-ны өдөр нийт 4,250,635,908 төгрөгийн ногдол ашгийг хувьцаа эзэмшигчдийн дансанд байршууллаа.
+
+  Хуваарилсан ногдол ашгийн дүн (сая төгрөг)
+
+  1,793 2,878 4,014 4,544
+  2022 2023 2024 2025
+
+  2025 оны эхний хагасны санхүү, үйл ажиллагааны тайлан
+  ```
+
+- Explanation:
+  The page is a financial report section focusing on stock performance and dividend distribution. It includes a graph showing the stock price trend for "INV:MSE" and key financial metrics such as the number of issued shares, closing price, market valuation, and year-over-year (YoY) and year-to-date (YTD) price growth percentages. Additionally, it details a decision by the board of directors to distribute dividends from 2024's net profit, specifying the amount per share and the total dividend distributed. A bar chart illustrates the dividend amounts distributed over the years 2022 to 2025.
+
+- Numerical Data:
+  - 75,744,281
+  - 9,340
+  - 707,451,584,540
+  - 35.4%
+  - 6.9%
+  - 2025
+  - 02
+  - 10
+  - 08
+  - 2024
+  - 60
+  - 2025
+  - 4
+  - 23
+  - 4,250,635,908
+  - 1,793
+  - 2,878
+  - 4,014
+  - 4,544
+  - 2022
+  - 2023
+  - 2024
+  - 2025
+  - 13
+Metadata: {'language': 'mon', 'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'type': 'visual_analysis', 'source_type': 'pdf', 'source': 'Үйл ажиллагааны тайлан 2025-H1 MN_page_13', 'page_number': '13', 'image_path': 'data/images/Үйл ажиллагааны тайлан 2025-H1 MN/Үйл ажиллагааны тайлан 2025-H1 MN_page_13.png'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_Үйл ажиллагааны тайлан 2025-H1 MN_page_14
+Source: Үйл ажиллагааны тайлан 2025-H1 MN_page_14
+Language: mon
+Content:
+- Detected Language: mon
+- Extracted Text: 
+  - Тогтвортой хөгжил
+  - Ногоон зээлийн хамтын ажиллагаа
+    - 2025 оны эхний хагаст Инвескор ББСБ нь ногоон зээлийн хамтын ажиллагааг өрнүүлэх зорилтын хүрээнд эрчим хүчний хэмнэлттэй, байгаль орчинд ээлтэй бүтээгдэхүүн үйлдвэрлэх байгууллагуудтай стратегийн түншлэлийг бий болгоно. Тухайлбал, аж үйлдвэрийн тоног төхөөрөмж болон барилгын материалын үйлдвэрлэл, нийлүүлэлт эрхэлдэг аж ахуйн нэгжүүдтэй хамтын ажиллагааг гэрээ байгуулан ажиллах алхам нь бидний тогтвортой санхүүжилтийн зорилтод хүрэхэд түлхэц болж байна.
+  - Тогтвортой эх үүсвэр
+    - Инвескор ББСБ ХХК нь хүлэмжийн хийг багасгахад чиглэгдсэн санхүүжилт дотоодын зах зээлд түүчээлж, нийгэм, эдийн засаг болон байгаль орчинд эерэг нөлөөлөл авчрах төсөл, санхүүжилтийн эх үүсвэрийг урьдчилан "Global Climate Partnership Fund" (GCPF), "Global Gender Smart Fund" (GGSF), мөн "Нидерландын Хөгжлийн Банк" (FMO) зэрэг тогтвортой санхүүжилтийн сангуудаас ногоон болон жендэрийн тэгш байдлыг дэмжих санхүүжилтийн эх үүсвэрүүдийг тэтэн төлөвлөхөөр төлөвлөж, холбогдох хэлэлцээрийг байгуулан ажиллаж байна.Уг эх үүсвэрээр дамжуулан бид санхүүгийн үйлчилгээгийн цар хүрээг өргөжүүлж, байгаль орчны хамгаалал, нийгмийн тэгш оролцоонд суурилсан тогтвортой санхүүгийн хөгжлийн үнэтэй хувь нэмэр оруулах зорьж байна.
+  - Тогтвортой байдлын туршлага
+    - Төсөл хөтөлбөр ББСБ-уудын мэргэжлийн зээлийн эмхэтгэл үзэлтийн хүрээнд Инвескор ББСБ ХХК нь тогтвортой хөгжлийн бодлого, түүний хэрэгжилт болон олон улсын стандартад нийцсэн тайланглалын туршлагаа бусад гишүүн байгууллагуудтай хуваалцлаа.
+  - 2025 оны эхний хагаст санхүү, үйл ажиллагааны тайлан
+
+- Explanation: 
+  - The page focuses on sustainable development initiatives by Инвескор ББСБ. It highlights three main sections: 
+    1. **Ногоон зээлийн хамтын ажиллагаа**: Discusses plans to establish strategic partnerships with organizations producing energy-efficient and environmentally friendly products by the first half of 2025.
+    2. **Тогтвортой эх үүсвэр**: Describes efforts to secure funding from international funds like GCPF, GGSF, and FMO to support projects that reduce greenhouse gases and promote gender equality.
+    3. **Тогтвортой байдлын туршлага**: Shares experiences and practices in sustainable development policies and reporting standards with other member organizations.
+  - The page is part of a financial and operational report for the first half of 2025.
+
+- Numerical Data: 
+  - 2025
+  - 2025
+  - 14
+Metadata: {'language': 'mon', 'source': 'Үйл ажиллагааны тайлан 2025-H1 MN_page_14', 'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'page_number': '14', 'image_path': 'data/images/Үйл ажиллагааны тайлан 2025-H1 MN/Үйл ажиллагааны тайлан 2025-H1 MN_page_14.png', 'source_type': 'pdf', 'type': 'visual_analysis'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_Үйл ажиллагааны тайлан 2025-H1 MN_page_15
+Source: Үйл ажиллагааны тайлан 2025-H1 MN_page_15
+Language: mon
+Content:
+- Detected Language: mon
+- Extracted Text: 
+  ```
+  Компанийн засаглал
+
+  Хувьцаа эзэмшигчдийн бүтэц ба хувьцаа эзэмшигчдийн оролцоо
+
+  “Инвескор ББСБ” ХК-ийн хувьцаа эзэмшигчдийн бүтэц
+  •  За Ази & Майл Компани ХХК 80.49%
+  • Олон нийт 19.51%
+
+  Компанийн засаглалын хүрээнд хувьцаа эзэмшигчдийн эрхийг хүндэтгэх, хариуцлагатай, ил тод, нээлттэй үйл ажиллагааг хангах үүднээс хувьцаа эзэмшигчдийн ээлжит хурлыг тогтмол зохион байгуулж, стратегийн ач холбогдол бүхий шийдвэрүүдийг хувьцаа эзэмшигчдийн оролцоотойгоор шийдвэрлэдэг.
+
+  2025 оны 4 дүгээр сарын 28-ны өдөр хувьцаа эзэмшигчдийн ээлжит хурлыг хувьцаа эзэмшигчдийн оролцоог хангах зорилгоор танхим болон цахим хосолсон хэлбэрээр зохион байгуулсан. Энэхүү хурлын саналын эрх бүхий хувьцаа эзэмшигчид 90.11%-ийн ирцтэйгээр оролцож ба дараах шийдвэрүүдийг 99.98%-ийн саналаар баталлаа. Үүнд:
+  • 2024 оны үйл ажиллагаа болон санхүүгийн сонгуулийн тайлангийн төлөвлөгөө ТУЗ-ийн дүгнэлт;
+  • Төлөөлөн удирдах зөвлөлийн бүрэлдэхүүнийг сонгох;
+  • 2026 оны үйл ажиллагааны төсөвт батлах;
+  • 2023 оны 4 дүгээр сарын 14-ний хурлаар АО4 дүгээр тогтоолд өөрчлөлт оруулах
+
+  Компанийн Тогтвортой хөгжлийн бодлогын хүрээнд хуралд оролцсон хувьцаа эзэмшигчдэд 100 ширхэг гацуур модны үрсэлгээ бэлэглэж, тарих боломжийг олгосон нь байгаль орчинд ээлтэй байх Компанийн үнэт зүйлсийг түүчээлэх гол зорилготой байлаа.
+
+  2025 оны эхний хагас жилийн санхүү, үйл ажиллагааны тайлан
+  ```
+
+- Explanation: 
+  The page is from a business report focusing on corporate governance and shareholder participation for "Инвескор ББСБ" ХК. It outlines the shareholder structure, with "За Ази & Майл Компани ХХК" holding 80.49% and the public holding 19.51%. The document emphasizes the importance of respecting shareholder rights and conducting transparent operations. It details the annual shareholder meeting held on April 28, 2025, which was conducted both in-person and online to ensure participation. Key decisions made during the meeting, with a 90.11% attendance and 99.98% approval, include the approval of the 2024 financial plan, election of the board, approval of the 2026 budget, and amendments to a resolution from April 14, 2023. Additionally, as part of the company's sustainable development policy, 100 pine saplings were gifted to shareholders to promote environmental values.
+
+- Numerical Data: 
+  - 80.49%
+  - 19.51%
+  - 2025
+  - 4
+  - 28
+  - 90.11%
+  - 99.98%
+  - 2024
+  - 2026
+  - 2023
+  - 14
+  - 100
+Metadata: {'page_number': '15', 'type': 'visual_analysis', 'source': 'Үйл ажиллагааны тайлан 2025-H1 MN_page_15', 'source_type': 'pdf', 'image_path': 'data/images/Үйл ажиллагааны тайлан 2025-H1 MN/Үйл ажиллагааны тайлан 2025-H1 MN_page_15.png', 'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'language': 'mon'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_Үйл ажиллагааны тайлан 2025-H1 MN_page_16
+Source: Үйл ажиллагааны тайлан 2025-H1 MN_page_16
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text: 
+  ```
+  Төлөөлөн удирдах зөвлөл
+
+  2025 оны 4 дүгээр сарын 28-ны өдрийн Хувьцаа эзэмшигчдийн хурлаар Төлөөлөн удирдах зөвлөлийн 7 гишүүнийг шинээр томилж, шинээр 2 гишүүнийг сонгосноор ТУЗ нийт 9 гишүүнтэй бүрэлдэхүүнтэйгээр сонгогдсон.
+
+  ТУЗ-ийн бүрэлдэхүүнд томилогдсон гишүүдийн мэргэжлийн туршлага, хороод бүс байдал, олон талт байдлыг хангах зарчмуудыг харгалзсан бөгөөд үүний явцад ТУЗ-ийн даргаас Нар дэвшүүлэх хороог нь Компанийн тухай хууль, Компанийн засаглалын кодексийн хүрээнд үнэлгээ, дүгнэлт хийж Хувьцаа эзэмшигчдийн хурлаар санал оруулсан болно.
+
+  Б. Анхболд
+  Төлөөлөн удирдах
+  зөвлөлийн дарга
+
+  Д. Баясгалан
+  Төлөөлөн удирдах
+  зөвлөлийн гишүүн
+
+  Хирохито Намики
+  Төлөөлөн удирдах
+  зөвлөлийн гишүүн
+
+  Р. Пүрэв
+  Төлөөлөн удирдах
+  зөвлөлийн гишүүн
+
+  Ш. Эрдэнэбат
+  Төлөөлөн удирдах
+  зөвлөлийн гишүүн
+
+  Б. Энхмарал
+  Төлөөлөн удирдах
+  зөвлөлийн гишүүн
+
+  Д. Энхбат
+  Төлөөлөн удирдах зөвлөлийн
+  хараат бус гишүүн
+
+  Ч. Өнөржаргал
+  Төлөөлөн удирдах зөвлөлийн
+  хараат бус гишүүн
+  ```
+
+- Explanation: 
+  The page is from a business document detailing the composition of a company's Board of Directors. It announces the appointment of seven new members and the election of two additional members, resulting in a total of nine board members as of April 28, 2025. The document emphasizes the diverse professional experience and representation within the board. It also mentions the evaluation and recommendations made by the board chairman in accordance with company law and governance codes. The page includes photographs and names of the board members, specifying their roles, such as chairman and independent members.
+
+- Numerical Data: 
+  - 2025
+  - 4
+  - 28
+  - 7
+  - 2
+  - 9
+Metadata: {'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'language': 'mon', 'image_path': 'data/images/Үйл ажиллагааны тайлан 2025-H1 MN/Үйл ажиллагааны тайлан 2025-H1 MN_page_16.png', 'source_type': 'pdf', 'type': 'visual_analysis', 'page_number': '16', 'source': 'Үйл ажиллагааны тайлан 2025-H1 MN_page_16'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_Үйл ажиллагааны тайлан 2025-H1 MN_page_17
+Source: Үйл ажиллагааны тайлан 2025-H1 MN_page_17
+Language: mon
+Content:
+- Detected Language: mon
+
+- Extracted Text: 
+  ```
+  Компанийн засаглал
+
+  ТУЗ-ийн үйл ажиллагаа
+
+  Компанийн засаглалын хүрээнд тайлант хугацаанд Компанийн Төлөөлөн Удирдах Зөвлөл (ТУЗ) нь компанийн үйл ажиллагааны ил тод байдал, хариуцлагатай байдлыг хангах зарчмаар холбогдох дүрэм, журам, бодлогыг мөрдлөг болгон ажилласан бөгөөд Төлөөлөн удирдах зөвлөлийн дэргэдэх хороодын гишүүдийг Компанийн тухай хууль болон Компанийн засаглалын кодекст нийцүүлэн бүрдүүлсэн.
+
+  Төлөөлөн удирдах зөвлөлийн дэргэдэх хороод
+
+  Төлөөлөн удирдах зөвлөл
+
+  Аудитын хороо
+  - Ч. Хашчулуун
+  - Ч. Оюунгэрэл
+  - Р. Пүрэв
+
+  Нэр дэвшүүлэх хороо
+  - Ч. Хашчулуун
+  - Хэрлэнгийн Нямжаргал
+  - Д. Энхбат
+
+  Тогтвортой байдлын хороо
+  - Д. Энхбат
+  - Д. Болдсайхан
+  - Б. Эрдэнэбаяр
+
+  Цалин урамшууллын хороо
+  - Д. Энхбат
+  - Ш. Эрдэнэбаяр
+  - Ш. Оюунгэрэл
+
+  Эрсдэлийн удирдлагын хороо
+  - Ч. Оюунгэрэл
+  - Ч. Хашчулуун
+  - Б. Алтанбагана
+
+  ТУЗ-ийн үйл ажиллагааны тайлан
+
+  Хуралдсан байдал
+
+  ТУЗ-ийн хурал
+  - Ээлжитийн олныг батлах
+  - ТУЗ-ийн үйл ажиллагааны төлөвлөгөө батлах
+  - Ногдол ашгийн талаар шийдвэр
+  - Хувьцаа эзэмшигчдийн хурлаас зохион байгуулалттай холбоотой шийдвэрүүд
+  - ТУЗ-ийн дэргэдэх хороодуудын тайланг танилцуулах
+  - Сонгон шалгаруулалтын журамд зөвшөөрөл олгох
+  - Олон улсын санхүүгийн аж ахуйн татвар гэх мэт асуудлаар нийт 17 удаа хуралдаж холбогдох шийдвэрүүдийг гаргасан ажлынхаа байна.
+
+  Аудитын хороо
+  - Дотоод аудитын дүрэм, журам батлах
+  - Дотоод аудитын төлөвлөгөө тайлан
+  - Хөндлөнгийн аудитын сонгон, хөндлөнгийн аудитын үр дүнг дүгнэлт гаргах
+  - Сонгон шалгаруулалтын журамд зөвшөөрөл олгох гэх мэт асуудлаар нийт 8 удаа хуралдаж Төлөөлөн удирдах зөвлөлийн дүгнэлт хүлээн зөвшөөрсөн байна.
+
+  Эрсдэлийн удирдлагын хороо
+  - Эрсдэлийн тайлан
+  - ТУЗ-ээс олгосон эрх хэмжээний хүрээнд зарим шийдвэрлэх асуудлаар нийт 13 удаа хуралдаж холбогдох шийдвэр, дүгнэлтүүдийг гаргасан байна.
+
+  Нэр дэвшүүлэх хороо
+  - Төлөөлөн удирдах зөвлөлийн гишүүдийг нэр дэвшүүлэх сонгон шалгаруулалтад холбогдох асуудлаар 1 удаа хуралдсан байна.
+
+  *2025 оны эхний хагасд Цалин урамшууллын хороо болон Тогтвортой байдлын хороо хуралдаагүй болно.
+
+  2025 оны эхний хагасд санхүү, үйл ажиллагааны тайлан
+  ```
+
+- Explanation: 
+  The document is a page from a corporate governance report detailing the activities of the Board of Directors (ТУЗ) and its committees. It outlines the transparency and accountability measures taken by the board, adhering to relevant laws and governance codes. The page lists the committees under the board, including Audit, Nomination, Sustainability, Compensation, and Risk Management, along with their members. It also provides a summary of the board's meetings and decisions, highlighting the number of meetings held and key resolutions passed. The document emphasizes the board's commitment to governance principles and decision-making processes.
+
+- Numerical Data: 
+  - 17
+  - 8
+  - 13
+  - 1
+  - 2025
+Metadata: {'type': 'visual_analysis', 'page_number': '17', 'language': 'mon', 'source_type': 'pdf', 'image_path': 'data/images/Үйл ажиллагааны тайлан 2025-H1 MN/Үйл ажиллагааны тайлан 2025-H1 MN_page_17.png', 'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'source': 'Үйл ажиллагааны тайлан 2025-H1 MN_page_17'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_Үйл ажиллагааны тайлан 2025-H1 MN_page_18
+Source: Үйл ажиллагааны тайлан 2025-H1 MN_page_18
+Language: eng
+Content:
+- Detected Language: eng
+- Extracted Text:
+  ```
+  InvesCore FI
+
+  +976 7709-0077
+  info@invescore.mn
+  www.invescore.mn
+  ```
+- Explanation: 
+  This page appears to be a cover or contact information page for InvesCore FI, likely a financial institution or service. The design is minimalistic, featuring the company name prominently at the top. Below the name, there is a stylized graphic element, possibly representing a brand motif or logo. The contact information is provided at the bottom, including a phone number, email address, and website, indicating how to reach the company for inquiries or services.
+
+- Numerical Data: 
+  - +976 7709-0077
+Metadata: {'source': 'Үйл ажиллагааны тайлан 2025-H1 MN_page_18', 'type': 'visual_analysis', 'language': 'eng', 'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'page_number': '18', 'image_path': 'data/images/Үйл ажиллагааны тайлан 2025-H1 MN/Үйл ажиллагааны тайлан 2025-H1 MN_page_18.png', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_metadata_11609188
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Үйл ажиллагааны тайлан 2025-H1 MN: {"pdf_name": "\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN", "total_pages": 18, "file_path": "data/pdfs/\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN.pdf"}
+Metadata: {'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'type': 'metadata', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_metadata_152caaf7
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Үйл ажиллагааны тайлан 2025-H1 MN: {"pdf_name": "\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN", "total_pages": 18, "file_path": "data/pdfs/\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN.pdf"}
+Metadata: {'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'type': 'metadata', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_metadata_7f5bc038
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Үйл ажиллагааны тайлан 2025-H1 MN: {"pdf_name": "\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN", "total_pages": 18, "file_path": "data/pdfs/\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN.pdf"}
+Metadata: {'type': 'metadata', 'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_metadata_b444755d
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Үйл ажиллагааны тайлан 2025-H1 MN: {"pdf_name": "\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN", "total_pages": 18, "file_path": "data/pdfs/\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN.pdf"}
+Metadata: {'source_type': 'pdf', 'type': 'metadata', 'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_metadata_5cf2adfb
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Үйл ажиллагааны тайлан 2025-H1 MN: {"pdf_name": "\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN", "total_pages": 18, "file_path": "data/pdfs/\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN.pdf"}
+Metadata: {'source_type': 'pdf', 'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'type': 'metadata'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_metadata_7489fcd2
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Үйл ажиллагааны тайлан 2025-H1 MN: {"pdf_name": "\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN", "total_pages": 18, "file_path": "data/pdfs/\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN.pdf"}
+Metadata: {'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'source_type': 'pdf', 'type': 'metadata'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_metadata_a02d6d7c
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Үйл ажиллагааны тайлан 2025-H1 MN: {"pdf_name": "\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN", "total_pages": 18, "file_path": "data/pdfs/\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN.pdf"}
+Metadata: {'source_type': 'pdf', 'type': 'metadata', 'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_metadata_36024f2b
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Үйл ажиллагааны тайлан 2025-H1 MN: {"pdf_name": "\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN", "total_pages": 18, "file_path": "data/pdfs/\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN.pdf"}
+Metadata: {'source_type': 'pdf', 'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'type': 'metadata'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_metadata_a7b19f75
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Үйл ажиллагааны тайлан 2025-H1 MN: {"pdf_name": "\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN", "total_pages": 18, "file_path": "data/pdfs/\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN.pdf"}
+Metadata: {'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'type': 'metadata', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_metadata_4ff98d4d
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Үйл ажиллагааны тайлан 2025-H1 MN: {"pdf_name": "\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN", "total_pages": 18, "file_path": "data/pdfs/\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN.pdf"}
+Metadata: {'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'source_type': 'pdf', 'type': 'metadata'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_metadata_87dd36ea
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Үйл ажиллагааны тайлан 2025-H1 MN: {"pdf_name": "\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN", "total_pages": 18, "file_path": "data/pdfs/\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN.pdf"}
+Metadata: {'source_type': 'pdf', 'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'type': 'metadata'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_metadata_966071c2
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Үйл ажиллагааны тайлан 2025-H1 MN: {"pdf_name": "\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN", "total_pages": 18, "file_path": "data/pdfs/\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN.pdf"}
+Metadata: {'type': 'metadata', 'source_type': 'pdf', 'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_metadata_3a16a608
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Үйл ажиллагааны тайлан 2025-H1 MN: {"pdf_name": "\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN", "total_pages": 18, "file_path": "data/pdfs/\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN.pdf"}
+Metadata: {'type': 'metadata', 'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_metadata_573e93a5
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Үйл ажиллагааны тайлан 2025-H1 MN: {"pdf_name": "\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN", "total_pages": 18, "file_path": "data/pdfs/\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN.pdf"}
+Metadata: {'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'source_type': 'pdf', 'type': 'metadata'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_metadata_0723d174
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Үйл ажиллагааны тайлан 2025-H1 MN: {"pdf_name": "\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN", "total_pages": 18, "file_path": "data/pdfs/\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN.pdf"}
+Metadata: {'source_type': 'pdf', 'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'type': 'metadata'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_metadata_5abb4d52
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Үйл ажиллагааны тайлан 2025-H1 MN: {"pdf_name": "\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN", "total_pages": 18, "file_path": "data/pdfs/\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN.pdf"}
+Metadata: {'source_type': 'pdf', 'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'type': 'metadata'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_metadata_4da228ec
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Үйл ажиллагааны тайлан 2025-H1 MN: {"pdf_name": "\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN", "total_pages": 18, "file_path": "data/pdfs/\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN.pdf"}
+Metadata: {'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'type': 'metadata', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_metadata_6ef5f22c
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Үйл ажиллагааны тайлан 2025-H1 MN: {"pdf_name": "\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN", "total_pages": 18, "file_path": "data/pdfs/\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN.pdf"}
+Metadata: {'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'type': 'metadata', 'source_type': 'pdf'}
+--------------------------------------------------
+ID: Үйл ажиллагааны тайлан 2025-H1 MN_metadata_d1fedf66
+Source: Unknown
+Language: Unknown
+Content:
+Metadata for Үйл ажиллагааны тайлан 2025-H1 MN: {"pdf_name": "\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN", "total_pages": 18, "file_path": "data/pdfs/\u04ae\u0439\u043b \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0442\u0430\u0439\u043b\u0430\u043d 2025-H1 MN.pdf"}
+Metadata: {'source_name': 'Үйл ажиллагааны тайлан 2025-H1 MN', 'type': 'metadata', 'source_type': 'pdf'}
+--------------------------------------------------
